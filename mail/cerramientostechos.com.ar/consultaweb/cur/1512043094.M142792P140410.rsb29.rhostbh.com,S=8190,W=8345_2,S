@@ -1,0 +1,155 @@
+Return-Path: <talleramericanoweb@gmail.com>
+Delivered-To: consultaweb@cerramientostechos.com.ar
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id 8TmxBlbyH1p6JAIAV0Gtjg
+	for <consultaweb@cerramientostechos.com.ar>; Thu, 30 Nov 2017 04:58:14 -0700
+Return-path: <talleramericanoweb@gmail.com>
+Envelope-to: consultaweb@cerramientostechos.com.ar
+Delivery-date: Thu, 30 Nov 2017 04:58:14 -0700
+Received: from mail-ot0-f178.google.com ([74.125.82.178]:36315)
+	by rsb29.rhostbh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <talleramericanoweb@gmail.com>)
+	id 1eKNTp-000d8D-HP
+	for consultaweb@cerramientostechos.com.ar; Thu, 30 Nov 2017 04:58:14 -0700
+Received: by mail-ot0-f178.google.com with SMTP id d5so5867204oti.3
+        for <consultaweb@cerramientostechos.com.ar>; Thu, 30 Nov 2017 03:58:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=wrwGsPGvTbiQaNb0DBE8292ly9Zt0A55RDphYu//sxw=;
+        b=WNF17v3o20kTiKUfpaojiagHCXuHMzloFEPSDWfSPSetEilPHZ4T28TVQ6l38z0sh7
+         adl34jNzTziCXGoeFaSpE9zK2j9KO1uYs5yZi9e0RKUaIrD3nfIAu9UMiNr1HOy5DTur
+         WMp3x1HkwcoPNGqRjqZCF4mmmA/Vqsfg9OlTqOvZ7JJe5E48DY3KYsBMgKsKqbD/xifd
+         lfKCFUCcD1+aR+iVWxoNGpK/IPSve2/6EiOGD2HY7FnQI9YJjMr25DwyYV34U5hzeqtJ
+         ek3QRfoMnCRvr+j2Gfk0Uv4VrkIgIXAmmQnKdszDX4U2XBSHK2evMTHs3QY14HO1Edqe
+         OuAQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=wrwGsPGvTbiQaNb0DBE8292ly9Zt0A55RDphYu//sxw=;
+        b=mr8Gstfiy/x+8uGZFQK80henorPquHdoyki+W1rKHgNIPy0VxUEn7sCDhFLWz3ueAV
+         K2TNhqjJPlrDc0pW9DTFzs9x9sltBfk3z8bRuouB+9all3C787nRzYO6Xr9hynLDmOjg
+         2TZFmhcqjhK68nUBXz3wKocglrL82Mc4yN6/BW2HRuo09H/afbQwoIoZB5vf1QUNcMOi
+         /Qt4yF1rAo9E88rz+15d1a7073skw+KSGCv2WSvkxLgZoGRf0aZJ6V2ZYYWrhulHWAVz
+         CU/YnxbnMHXSgFN4SKi++LozKHhFAAba1396QsG9n0rpZj3X83cfnUoZytrwQYA4kTNk
+         FTHg==
+X-Gm-Message-State: AJaThX60huLMWOI7dET/j75fZMfqJQ/6VWtbERP/bCy0PO7DBqknfcDl
+	1r9OSQcNLG4w7VrtHOS/vHfJPmp4y1TRygTXUCQ=
+X-Google-Smtp-Source: AGs4zMYMHLIT4ZSW0MEWl5Dwui6Z9jM8S5uxzJcHoYBEgm0hQGjp8Czwkv9Y3Vc/WYV7ttldgxxhCYnEY9dlSfxoIqE=
+X-Received: by 10.157.63.11 with SMTP id m11mr4685547otc.179.1512043081900;
+ Thu, 30 Nov 2017 03:58:01 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.34.166 with HTTP; Thu, 30 Nov 2017 03:58:01 -0800 (PST)
+In-Reply-To: <8ff23d682604f3384ff4e9a30b2e3b12@cerramientostechos.com.ar>
+References: <8ff23d682604f3384ff4e9a30b2e3b12@cerramientostechos.com.ar>
+From: Taller Americano <talleramericanoweb@gmail.com>
+Date: Thu, 30 Nov 2017 08:58:01 -0300
+Message-ID: <CAK7FQY3YAzYEY3c8skFUhrFSjf9jmdp-fO0-Z2RTG216E=UhSw@mail.gmail.com>
+Subject: Re: Consulta enviada el Mi&eacute;rcoles 29 de Noviembre del 2017 a
+ las 21:17hs :
+To: consultaweb@cerramientostechos.com.ar
+Content-Type: multipart/alternative; boundary="001a11470e24c826e1055f31f6a6"
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "rsb29.rhostbh.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Atención Evelin Faciliteme un número de teléfono así podemos
+    conversar respecto a su trabajo. Desde ya muchas gracias Atentamente José
+    Luis Eichlseder 155-504-6401 *Taller Americano* *Cullen 5248 CABA.* *4524-2194/0527*
+    [...] 
+ 
+ Content analysis details:   (-0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.8 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [74.125.82.178 listed in wl.mailspike.net]
+  0.5 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (talleramericanoweb[at]gmail.com)
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cerramientostechos.com.ar]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.8 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--001a11470e24c826e1055f31f6a6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Atenci=C3=B3n Evelin
+                         Faciliteme  un n=C3=BAmero de tel=C3=A9fono as=C3=
+=AD podemos
+conversar respecto a su trabajo.
+Desde ya muchas gracias
+Atentamente Jos=C3=A9 Luis Eichlseder  155-504-6401
+
+*Taller Americano*
+*Cullen 5248 CABA.*
+*4524-2194/0527*
+
+El 29 de noviembre de 2017, 21:17, <consultaweb@cerramientostechos.com.ar>
+escribi=C3=B3:
+
+> *NOMBRE:* EVELIN MERIDA
+> *CONTACTO:* emv.evelyn@gmail.com
+> *CONSULTA:* tengo un peque=C3=B1o patio que quiero cerrar no se las medid=
+as
+> pero no es muy grande me gustaria presupuestar podriamos arreglar una
+> visita es en capital en el barrio de colegiales es un ph con patio intern=
+o.
+> Aguardo respuesta mil gracias
+
+--001a11470e24c826e1055f31f6a6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"color:#3d85c6">Atenc=
+i=C3=B3n Evelin</div><div class=3D"gmail_default" style=3D"color:#3d85c6">=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0Faciliteme=C2=A0 un n=C3=BAmero de tel=C3=A9fono as=C3=AD =
+podemos conversar respecto a su trabajo.</div><div class=3D"gmail_default" =
+style=3D"color:#3d85c6">Desde ya muchas gracias</div><div class=3D"gmail_de=
+fault" style=3D"color:#3d85c6">Atentamente Jos=C3=A9 Luis Eichlseder=C2=A0 =
+155-504-6401</div></div><div class=3D"gmail_extra"><br clear=3D"all"><div><=
+div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=
+=3D"ltr"><div style=3D"font-size:12.8px;text-align:center"><b style=3D"font=
+-size:12.8px"><font size=3D"4" color=3D"#0b5394">Taller Americano</font></b=
+></div><div style=3D"font-size:12.8px;text-align:center"><b><font size=3D"2=
+" color=3D"#ff9900">Cullen 5248 CABA.</font></b></div><div style=3D"font-si=
+ze:12.8px;text-align:center"><b><font size=3D"2" color=3D"#ff9900">4524-219=
+4/0527</font></b></div></div></div></div>
+<br><div class=3D"gmail_quote">El 29 de noviembre de 2017, 21:17,  <span di=
+r=3D"ltr">&lt;<a href=3D"mailto:consultaweb@cerramientostechos.com.ar" targ=
+et=3D"_blank">consultaweb@cerramientostechos.com.ar</a>&gt;</span> escribi=
+=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bor=
+der-left:1px #ccc solid;padding-left:1ex"><table><tbody><tr><td height=3D"2=
+0"><font size=3D"2" face=3D"Arial"><b>NOMBRE:</b> EVELIN MERIDA</font></td>=
+</tr><tr><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>CONTACTO:</b>=
+ <a href=3D"mailto:emv.evelyn@gmail.com" target=3D"_blank">emv.evelyn@gmail=
+.com</a></font></td></tr><tr><td height=3D"20"><font size=3D"2" face=3D"Ari=
+al"><b>CONSULTA:</b> tengo un peque=C3=B1o patio que quiero cerrar no se la=
+s medidas pero no es muy grande me gustaria presupuestar podriamos arreglar=
+ una visita es en capital en el barrio de colegiales es un ph con patio int=
+erno.=20
+Aguardo respuesta mil gracias</font></td></tr></tbody></table>
+
+
+</blockquote></div><br></div>
+
+--001a11470e24c826e1055f31f6a6--

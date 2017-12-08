@@ -1,0 +1,155 @@
+Return-Path: <talleramericanoweb@gmail.com>
+Delivered-To: consultaweb@cerramientostechos.com.ar
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id IYSFEpR8JlptsgsAV0Gtjg
+	for <consultaweb@cerramientostechos.com.ar>; Tue, 05 Dec 2017 04:01:40 -0700
+Return-path: <talleramericanoweb@gmail.com>
+Envelope-to: consultaweb@cerramientostechos.com.ar
+Delivery-date: Tue, 05 Dec 2017 04:01:40 -0700
+Received: from mail-ot0-f181.google.com ([74.125.82.181]:35384)
+	by rsb29.rhostbh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <talleramericanoweb@gmail.com>)
+	id 1eMAyp-003ERE-N2
+	for consultaweb@cerramientostechos.com.ar; Tue, 05 Dec 2017 04:01:40 -0700
+Received: by mail-ot0-f181.google.com with SMTP id q3so17493657oth.2
+        for <consultaweb@cerramientostechos.com.ar>; Tue, 05 Dec 2017 03:01:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=8XVY6YSEk5Npab6d1bG6GUD8jHQEfxC1iPLR+K5n0CI=;
+        b=KHm6fPam3HFEgSaZmIJGeiT7KWe4AqRAenLKA7yq2ZV1TzVyw6mesUeDvoiurm0BCo
+         YWV6W7Dn/woC/kyeigQcmvjTexIm4mIeJGgvNVgkZeoo9hSnGfoPHD/zHKcMZRFnqakp
+         mYg6Ui5WMlbVn+ru8VRrEGhxyFdKphV2z3HrGyXCYb/pcvKDRU4B0AijtoeKW8LHkvYt
+         zXnhnEoK5yVC4zfft5DTJtvk0HJwBAnUR85Gg01lVUVL3bQd2L90Hd/HX9YFLfquQD2F
+         QIRFTVOEjYFgG+m0NDhvalSr8/N6A3PWn0C1IDbIuiAZ/1fybkH1wEELkIgMMvjRDbgI
+         ARtg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=8XVY6YSEk5Npab6d1bG6GUD8jHQEfxC1iPLR+K5n0CI=;
+        b=B9F7EW/H8TKsrjnHcxDXVVveqyW0ZOpb46gjSSmDMrl+EHT992MZGZzXwkCQQ7lFcB
+         nBZ/XKGBq/PN6UtNJHRkgC3Fow8NNIEltu/iOODMukHJ+Nc9IWY/hrNpSTl15LXpo7Gh
+         7zp16F8UOpt4lqYbtQtzQsops14bum/JFdXCAOyMDW47a4FNbvFFJ/3KDgcbfKdr57Wq
+         LTjHsgSMHwtCMlGfZFCpWlQYvTJ8Oed11eXS3/F1KqRLG54icjgGLqq6ROJtVOkg9to3
+         PUVONDIXeClRsQduaIaLvggLFZGEKRcxnCzy6QJHcHchrj4UeUi+U3ghrSLiRYsVEBJE
+         li6w==
+X-Gm-Message-State: AJaThX59YhIYA2DbeU0lC/VuoVo2XEYfMLWX1BAXgEeN3MdLiSE/Fh/7
+	iCUAHzm3nDwsyAi3dMcsdEzR0Nm8JhOYFKoRnrU=
+X-Google-Smtp-Source: AGs4zMaPJnxnG9p77Wy4aT6OpU32TfSYFW/WHDol5DwlYhccdhlx/HyfnMqlpNGERSH5xMcLA2bU5nhKrSf/wgfhwsg=
+X-Received: by 10.157.25.42 with SMTP id j42mr19301845ota.348.1512471687957;
+ Tue, 05 Dec 2017 03:01:27 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.34.166 with HTTP; Tue, 5 Dec 2017 03:01:27 -0800 (PST)
+In-Reply-To: <5068265edb14911761bfeec47538094c@cerramientostechos.com.ar>
+References: <5068265edb14911761bfeec47538094c@cerramientostechos.com.ar>
+From: Taller Americano <talleramericanoweb@gmail.com>
+Date: Tue, 5 Dec 2017 08:01:27 -0300
+Message-ID: <CAK7FQY3L8yXHZ2sDMc+E+y=q1=AL12otfvLQPE9fOVBNLwiv1g@mail.gmail.com>
+Subject: Re: Consulta enviada el Lunes 04 de Diciembre del 2017 a las 19:48hs :
+To: consultaweb@cerramientostechos.com.ar
+Content-Type: multipart/alternative; boundary="f4030435bf18b19056055f95c113"
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "rsb29.rhostbh.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola Sr. Oscar Correcto, se entiende perfectamente lo que
+   Ud. necesita y tengo el material adecuado para su necesidad, lo que sí, permítame
+    un numero de teléfono así podría asesorarlo mucho mejor. Desde ya muchas
+    gracias. Atentamente José Luis Eichlseder 155-504-6401 [...] 
+ 
+ Content analysis details:   (-0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cerramientostechos.com.ar]
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.5 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (talleramericanoweb[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.8 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [74.125.82.181 listed in wl.mailspike.net]
+ -0.8 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--f4030435bf18b19056055f95c113
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Sr. Oscar
+                       Correcto, se entiende perfectamente  lo que Ud.
+necesita y tengo el material adecuado para su necesidad, lo que s=C3=AD,
+perm=C3=ADtame un numero de tel=C3=A9fono as=C3=AD podr=C3=ADa asesorarlo m=
+ucho mejor.
+Desde ya muchas gracias.
+Atentamente Jos=C3=A9 Luis Eichlseder   155-504-6401
+
+*Taller Americano*
+*Cullen 5248 CABA.*
+*4524-2194/0527*
+
+El 4 de diciembre de 2017, 19:48, <consultaweb@cerramientostechos.com.ar>
+escribi=C3=B3:
+
+> *NOMBRE:* Oscar
+> *CONTACTO:* oscalum@hotmail.com
+> *CONSULTA:* Tengo un pasillo que tiene 2.40 m entre paredes (pasa el
+> auto). Quisiera cubrirlo en un tramo de 10.5 m. No es necesario que sea
+> curvo. S=C3=AD, deber=C3=ADa ser casi transparente, para que no quite luz=
+, pero que
+> retenga el paso del sol. Espero haberme explicado. Gracias.
+
+--f4030435bf18b19056055f95c113
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"color:#3d85c6">Hola =
+Sr. Oscar</div><div class=3D"gmail_default" style=3D"color:#3d85c6">=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0Correcto, se entiende perfectamente=C2=A0 lo que Ud. necesita y tengo el=
+ material adecuado para su necesidad, lo que s=C3=AD, perm=C3=ADtame un num=
+ero de tel=C3=A9fono as=C3=AD podr=C3=ADa asesorarlo mucho mejor.</div><div=
+ class=3D"gmail_default" style=3D"color:#3d85c6">Desde ya muchas gracias.</=
+div><div class=3D"gmail_default" style=3D"color:#3d85c6">Atentamente Jos=C3=
+=A9 Luis Eichlseder=C2=A0 =C2=A0155-504-6401</div></div><div class=3D"gmail=
+_extra"><br clear=3D"all"><div><div class=3D"gmail_signature" data-smartmai=
+l=3D"gmail_signature"><div dir=3D"ltr"><div style=3D"font-size:12.8px;text-=
+align:center"><b style=3D"font-size:12.8px"><font size=3D"4" color=3D"#0b53=
+94">Taller Americano</font></b></div><div style=3D"font-size:12.8px;text-al=
+ign:center"><b><font size=3D"2" color=3D"#ff9900">Cullen 5248 CABA.</font><=
+/b></div><div style=3D"font-size:12.8px;text-align:center"><b><font size=3D=
+"2" color=3D"#ff9900">4524-2194/0527</font></b></div></div></div></div>
+<br><div class=3D"gmail_quote">El 4 de diciembre de 2017, 19:48,  <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:consultaweb@cerramientostechos.com.ar" targe=
+t=3D"_blank">consultaweb@cerramientostechos.com.ar</a>&gt;</span> escribi=
+=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bor=
+der-left:1px #ccc solid;padding-left:1ex"><table><tbody><tr><td height=3D"2=
+0"><font size=3D"2" face=3D"Arial"><b>NOMBRE:</b> Oscar</font></td></tr><tr=
+><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>CONTACTO:</b> <a href=
+=3D"mailto:oscalum@hotmail.com" target=3D"_blank">oscalum@hotmail.com</a></=
+font></td></tr><tr><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>CON=
+SULTA:</b> Tengo un pasillo que tiene 2.40 m entre paredes (pasa el auto). =
+Quisiera cubrirlo en un tramo de 10.5 m. No es necesario que sea curvo. S=
+=C3=AD, deber=C3=ADa ser casi transparente, para que no quite luz, pero que=
+ retenga el paso del sol. Espero haberme explicado. Gracias.</font></td></t=
+r></tbody></table>
+
+
+</blockquote></div><br></div>
+
+--f4030435bf18b19056055f95c113--

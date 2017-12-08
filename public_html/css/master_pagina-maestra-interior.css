@@ -1,0 +1,685 @@
+#u17484
+{
+	background-color: #203852;
+}
+
+#u30225-4
+{
+	background-color: transparent;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu17485
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#u17486-4
+{
+	background-color: transparent;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu17485:hover #u17486-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu17488
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#u17490-4
+{
+	background-color: transparent;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu17488:hover #u17490-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu17491
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#u17492-4
+{
+	background-color: transparent;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu17491:hover #u17492-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu17494
+{
+	border-color: #787878;
+	background-color: transparent;
+	position: relative;
+}
+
+#u17495-4
+{
+	background-color: transparent;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#buttonu17494:hover #u17495-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u17487,#u17489,#u17493,#u17496
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu17494.ButtonSelected #u17496,#buttonu17491.ButtonSelected #u17493,#buttonu17488.ButtonSelected #u17489,#buttonu17485.ButtonSelected #u17487,#buttonu17485:hover #u17487,#buttonu17488:hover #u17489,#buttonu17491:hover #u17493,#buttonu17494:hover #u17496
+{
+	background-color: #D6622F;
+}
+
+#u30228-5
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30228-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u30228
+{
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	line-height: 17px;
+}
+
+#u30231
+{
+	background-color: #203852;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+	position: relative;
+}
+
+#u30240
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30240:hover
+{
+	background-color: transparent;
+}
+
+#u30241
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30242-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u30251
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30240.PamphletThumbSelected,#u30251:hover
+{
+	background-color: transparent;
+}
+
+#u30252
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30253-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30260
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30251.PamphletThumbSelected,#u30260:hover
+{
+	background-color: transparent;
+}
+
+#u30262
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30261-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30281
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30260.PamphletThumbSelected,#u30281:hover
+{
+	background-color: transparent;
+}
+
+#u30282
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30283-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30288
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30281.PamphletThumbSelected,#u30288:hover
+{
+	background-color: transparent;
+}
+
+#u30290
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30289-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30305
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30288.PamphletThumbSelected,#u30305:hover
+{
+	background-color: transparent;
+}
+
+#u30306
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30307-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30320
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30305.PamphletThumbSelected,#u30320:hover
+{
+	background-color: transparent;
+}
+
+#u30322
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30321-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30327
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30320.PamphletThumbSelected,#u30327:hover
+{
+	background-color: transparent;
+}
+
+#u30329
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30328-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30342
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30327.PamphletThumbSelected,#u30342:hover
+{
+	background-color: transparent;
+}
+
+#u30344
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30343-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u30243,#u30254,#u30263,#u30272,#u30293,#u30308,#u30317,#u30330,#u30339,#u30360
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u30244,#u30255,#u30264,#u30273,#u30294,#u30309,#u30318,#u30331,#u30340,#u30361
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: #4C81BB;
+	position: relative;
+}
+
+#u30355
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u30342.PamphletThumbSelected,#u30355:hover
+{
+	background-color: transparent;
+}
+
+#u30355.PamphletThumbSelected
+{
+	background-color: transparent;
+}
+
+#u30357
+{
+	background-color: #D6622F;
+	position: relative;
+}
+
+#u30356-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+#u1639
+{
+	background-color: #222222;
+}
+
+#u17484_align_to_page,#pamphletu30232,#u30239,#pamphletu30245,#u30250,#pamphletu30258,#u30259,#pamphletu30271,#u30280,#pamphletu30284,#u30287,#pamphletu30297,#u30304,#pamphletu30310,#u30319,#pamphletu30323,#u30326,#pamphletu30336,#u30341,#pamphletu30349,#u30354,#u1639_align_to_page
+{
+	position: relative;
+}
+
+#u30168-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30167-9,#u30169-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30170-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30173-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30174-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30178-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30179-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30182-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30171-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30172-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30175-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30176-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30177-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30180-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30181-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30183-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u30169-4:hover p,#u30170-4:hover p,#u30173-4:hover p,#u30174-4:hover p,#u30178-4:hover p,#u30179-4:hover p,#u30182-4:hover p,#u30171-4:hover p,#u30172-4:hover p,#u30175-4:hover p,#u30176-4:hover p,#u30177-4:hover p,#u30180-4:hover p,#u30181-4:hover p,#u30183-4:hover p
+{
+	color: #D6622F;
+	visibility: inherit;
+}
+
+#u15981-4
+{
+	background-color: transparent;
+	line-height: 11px;
+	font-size: 9px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u25371,#u30226,#u30165,#u17472,#u17476,#u17474,#u17478,#u15975,#u15988
+{
+	background-color: transparent;
+	position: relative;
+}
+

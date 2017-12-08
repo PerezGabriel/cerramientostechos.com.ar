@@ -1,0 +1,718 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home2/cerramie/tmp/awstats/awstats.cerramientostechos.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2707                
+POS_VISITOR 13230               
+POS_DAY 21471               
+POS_DOMAIN 3586                
+POS_LOGIN 4134                
+POS_ROBOT 4289                
+POS_WORMS 4630                
+POS_EMAILSENDER 4761                
+POS_EMAILRECEIVER 4904                
+POS_SESSION 21696               
+POS_SIDER 21899               
+POS_FILETYPES 5039                
+POS_DOWNLOADS 5244                
+POS_OS 5292                
+POS_BROWSER 5576                
+POS_SCREENSIZE 6657                
+POS_UNKNOWNREFERER 6731                
+POS_UNKNOWNREFERERBROWSER 6980                
+POS_ORIGIN 7062                
+POS_SEREFERRALS 7204                
+POS_PAGEREFS 7382                
+POS_SEARCHWORDS 7606                
+POS_KEYWORDS 7840                
+POS_MISC 2369                
+POS_ERRORS 7993                
+POS_CLUSTER 3990                
+POS_SIDER_404 8110                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301001128 287 61218 10134778145748
+FirstTime 20170223052020
+LastTime 20170228230846
+LastUpdate 20170301052612 287 0 286 0 0
+TotalVisits 171                 
+TotalUnique 149                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 219                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 115 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 16 138017 15 30 349473
+1 0 0 0 20 33 3798705
+2 2 113 10839370 18 24 677317
+3 0 1 116294 19 36 4243945
+4 2 6 231570 29 47 409411
+5 39 2385 227904413 161 218 1803921
+6 38 2060 194637634 138 181 1435681
+7 29 1539 169695726 78 97 206760
+8 26 1628 181144913 68 136 2157555
+9 29 1887 184345821 81 113 1307069
+10 29 1319 125407368 101 169 1785582
+11 26 1635 161158042 105 142 1710591
+12 27 1269 135183739 65 103 2389755
+13 31 1163 83361092 23 56 1031650
+14 12 813 82143607 56 113 481270
+15 10 422 56324893 50 333 8091226
+16 1 4 345773 48 84 420763
+17 0 5 511361 44 111 2662356
+18 3 72 2535785 44 160 1649178
+19 2 78 2293490 46 149 7790865
+20 0 3 106417 19 202 15445045
+21 4 54 2555077 36 101 4677861
+22 1 2 112943 26 120 8923329
+23 1 1 14357 47 60 420554
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+ar 252 14050 1462672288
+us 40 1757 105150826
+fr 7 7 1610
+ru 3 3 194667
+uy 3 381 33466132
+es 2 198 15407062
+no 1 1 14357
+nl 1 1 14357
+ro 1 1 14357
+jp 1 1 14357
+se 1 1 14357
+mx 1 50 2697191
+ua 1 1 14357
+de 1 1 14357
+cl 0 2 178886
+do 0 2 88612
+cr 0 2 59476
+bo 0 7 492674
+ch 0 1 30057
+ve 0 1 53801
+ec 0 1 116294
+pe 0 3 171782
+co 0 3 225845
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 876 49316591 20170228201508 0
+googlebot 692 3417997 20170228231534 0
+googlebot\-image 82 17791046 20170228161711 0
+bingpreview 78 1981438 20170227101414 0
+spider 4 360620 20170224225219 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 1179 7348263 0 0
+jpg 12635 1599141249 0 0
+png 1496 4504411 0 0
+html 311 5805160 0 0
+php 4 2536 0 0
+gif 207 296837 0 0
+css 643 4009246 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+win8.1 1674 26
+winxp 1623 21
+winlong 207 4
+macosx6 47 1
+win8 47 1
+winnt 3270 57
+linux 91 6
+ios_ipad 142 4
+unix 8 0
+linuxandroid 2710 77
+win2000 7 7
+Unknown 2 2
+ios_iphone 163 8
+winphone 260 7
+win7 6103 93
+macosx 121 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+safari 140 4
+lg\- 1 0
+safari10.0.3 120 1
+netscape5.0 1 1
+chrome54.0.2840.85 153 6
+chrome44.0.2403.125 1 1
+chrome56.0.2924.87 9685 159
+chrome46.0.2490.76 1 0
+chrome45.0.2454.85 86 1
+firefox51.0 1286 15
+firefox11.0 1 0
+chrome52.0.2743.116 48 2
+msie10.0 47 1
+firefox45.0 455 5
+firefox48.0 121 1
+chrome55.0.2903.33 1 1
+msie9.0 24 2
+chrome49.0.2623.75 1 1
+chrome37.0.2062.120 3 3
+iphone 1 0
+chrome33.0.0.0 4 0
+chrome48.0.2564.95 64 2
+chrome30.0.0.0 7 0
+android 6 0
+chrome40.0.2214.109 44 2
+chrome31.0.1650.63 1 0
+opera43.0.2442.991 1 0
+chrome51.0.2704.79 120 1
+chrome54.0.2840.68 42 2
+msie5.01 7 7
+chrome31.0.1650.57 1 1
+chrome38.0.2125.102 339 10
+chrome55.0.2883.91 516 17
+chrome36.0.1985.125 39 1
+chrome44.0.2403.133 133 4
+mozilla 254 4
+chrome54.0.2840.99 1 1
+firefox39.0 40 1
+msie11.0 724 15
+chrome52.0.2743.98 105 4
+safari10.0 163 8
+chrome27.0.1453 73 2
+opera36.0.2130.32 3 3
+safari9.0 1 0
+chrome53.0.2785.124 105 4
+msie8.0 1 1
+chrome55.0.2883.105 8 0
+chrome51.0.2704.106 70 2
+chrome49.0.2623.112 1255 17
+chrome38.0.1025.166 172 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Yahoo_Link_Preview;_https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html) 20170223100411
+Mozilla/5.0_zgrab/0.x 20170226042941
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 37 63
+From1 3 3
+From2 121 188
+From3 3 3
+From4 151 16218
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+yahoo 1 1
+bing 1 4
+google 119 183
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://hvd-store.com 1 1
+http://pizza-tycoon.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+cerramientos+en+capital+federal 2
+aleros 1
+cerramiento+de+policarbonato+precios 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+cerramientos 2
+capital 2
+federal 2
+en 2
+precios 1
+policarbonato 1
+cerramiento 1
+aleros 1
+de 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 30 9391
+206 18 431640
+404 923 524874
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 124
+/administrator/index.php 3 -
+/images/cubiertas_1/4.jpg 2 -
+/images/invernaderos/thumbnails/18.jpg 1 -
+/images/cubiertas_2/thumbnails/8.jpg 1 -
+/images/muebles/thumbnails/7.jpg 1 -
+/images/cubiertas_2/11.jpg 1 -
+/images/invernaderos/Thumbs.db 2 -
+/techos-taller-americano.htmlfijate 5 -
+/images/divisores%20de%20oficina/thumbnails/38.jpg 1 -
+/null 601 http://www.cerramientostechos.com.ar/cerramientos-taller-americano.html
+/images/cielorrasos/thumbnails/13.jpg 1 -
+/images/invernaderos/1.jpg 1 -
+/images/muebles/thumbnails/4.jpg 1 -
+/images/invernaderos/thumbnails/Thumbs.db 1 -
+/blog/robots.txt 6 -
+/galeria.php 26 -
+/images/divisores%20de%20oficina/thumbnails/108.jpg 1 -
+/index.php 5 -
+/wordpress/ 3 -
+/images/nosotros/thumbnails/4.jpg 1 -
+/images/nosotros/thumbnails/14.jpg 1 -
+/robots.txt 94 -
+/joomla/robots.txt 3 -
+/images/durlock/1.jpg 2 -
+/js/fancybox/jquery.fancybox-1.3.4.pack.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/muebles/thumbnails/2.jpg 1 -
+/images/cubiertas_1/thumbnails/3.jpg 2 -
+/images/tabiques%20divisores/thumbnails/90.jpg 1 -
+/images/cubiertas_1/5.jpg 1 -
+/blog/ 3 -
+/images/protectores/5.jpg 1 -
+/images/cerramientos_1/thumbnails/19.jpg 1 -
+/images/nosotros/thumbnails/19.jpg 1 -
+/images/cubiertas_1/7.jpg 1 -
+/js/formulario.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/invernaderos/WS_FTP.LOG 1 -
+/images/cubiertas_1/thumbnails/4.jpg 1 -
+/images/nosotros/3.jpg 1 -
+/images/back_web.png 1 -
+/images/nosotros/7.jpg 1 -
+/xmlrpc.php 3 -
+/images/cabinas/7.jpg 1 -
+/images/protectores/thumbnails/28.jpg 1 -
+/images/aleros/59.jpg 1 -
+/images/carpinteria/47.jpg 1 -
+/images/cubiertas_1/thumbnails/7.jpg 2 -
+/images/durlock/thumbnails/5.jpg 1 -
+/images/cubiertas_1/thumbnails/6.jpg 1 -
+/images/aleros/10.jpg 1 -
+/images/muebles/thumbnails/16.jpg 1 -
+/images/trabajos_especiales/5.jpg 1 -
+/images/muebles/thumbnails/11.jpg 1 -
+/images/carpinteria/thumbnails/7.jpg 1 -
+/images/nosotros/1.jpg 1 -
+/images/nosotros/15.jpg 1 -
+/images/contacto.png 1 -
+/images/cubiertas_2/2.jpg 1 -
+/images/carpinteria/thumbnails/6.jpg 1 -
+/images/cubiertas_1/thumbnails/9.jpg 1 -
+/images/muebles/16.jpg 1 -
+/images/cubiertas_1/thumbnails/2.jpg 2 -
+/images/durlock/thumbnails/3.jpg 1 -
+/images/cielorrasos/1.jpg 1 -
+/images/nosotros/9.jpg 1 -
+/images/invernaderos/thumbnails/31.jpg 1 -
+/images/trabajos_especiales/thumbnails/9.jpg 1 -
+/images/cubiertas_1/thumbnails/5.jpg 2 -
+/images/muebles/thumbnails/10.jpg 1 -
+/images/cabinas/2.jpg 1 -
+/images/durlock/thumbnails/9.jpg 1 -
+/CSS/estilos_b.css 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/carpinteria/thumbnails/14.jpg 1 -
+/images/nosotros/thumbnails/5.jpg 1 -
+/images/carpinteria/56.jpg 1 -
+/images/muebles/thumbnails/15.jpg 1 -
+/images/cerramientos_1/thumbnails/54.jpg 1 -
+/images/cubiertas_1/9.jpg 1 -
+/images/cubiertas_1/2.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/48.jpg 1 -
+/images/nosotros/6.jpg 1 -
+/images/cubiertas_1/thumbnails/8.jpg 1 -
+/images/cubiertas_1/3.jpg 1 -
+/blog/administrator/index.php 3 -
+/contacto.php 1 -
+/images/techos_2/Thumbs.db 1 -
+/js/jquery.cycle.min.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/cerramientos_1/Thumbs.db 1 -
+/images/divisores%20de%20oficina/thumbnails/6.jpg 1 -
+/images/carpinteria/32.jpg 1 -
+/wp/ 3 -
+/images/muebles/thumbnails/17.jpg 1 -
+/images/techos_2/15.jpg 1 -
+/images/muebles/thumbnails/12.jpg 1 -
+/images/imagenes_banner/Thumbs.db 1 -
+/images/muebles/thumbnails/8.jpg 1 -
+/images/muebles/thumbnails/13.jpg 1 -
+/joomla/administrator/index.php 3 -
+/images/nosotros/thumbnails/9.jpg 1 -
+/images/carpinteria/1.jpg 1 -
+/images/cabinas/3.jpg 1 -
+/js/script.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/carpinteria/thumbnails/13.jpg 1 -
+/images/cubiertas_1/6.jpg 1 -
+/js/jquery-1.4.3.min.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/aleros/thumbnails/Thumbs.db 1 -
+/images/logo.png 2 -
+/js/fancybox/jquery.mousewheel-3.0.4.pack.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/tabiques%20divisores/92.jpg 1 -
+/images/cabinas/1.jpg\",ow:\"300\",docid:\"608007532391827207 1 -
+/js/fancybox/jquery.fancybox-1.3.4.css 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/cubiertas_1/8.jpg 1 -
+/images/protectores/thumbnails/10.jpg 1 -
+/js/jQuery_mousewheel_plugin.js 1 http://www.cerramientostechos.com.ar/galeria.php
+/images/carpinteria/59.jpg 1 -
+/images/nosotros/thumbnails/12.jpg 1 -
+/images/cubiertas_1/1.jpg 44 https://www.google.es/
+/images/carpinteria/thumbnails/19.jpg 1 -
+/images/cubiertas_1/thumbnails/1.jpg 2 -
+/images/durlock/thumbnails/4.jpg 1 -
+/images/carpinteria/thumbnails/25.jpg 1 -
+/images/invernaderos/thumbnails/28.jpg 1 -
+/images/imagenes_banner/img_banner4.jpg 1 -
+/images/tabiques%20divisores/thumbnails/19.jpg 1 -
+/images/tabiques%20divisores/WS_FTP.LOG 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 219
+181.46.208.37 14 696 75157241 20170224145813
+191.82.96.153 9 327 34028462 20170224063106
+188.165.200.217 7 7 1610 20170228224325
+66.249.85.15 7 252 6285361 20170224062649
+181.1.146.4 6 226 36698956 20170223070901
+190.175.98.24 5 400 34069476 20170223133746
+181.169.99.25 5 243 22835815 20170223100259
+190.50.206.79 5 204 27197392 20170223152138
+201.253.248.170 5 299 35175995 20170223095708
+181.229.101.197 5 194 20598371 20170224102321
+200.1.113.8 5 283 33053911 20170223060627
+66.249.85.16 5 259 6624782 20170224062648
+168.196.226.22 5 319 35092883 20170223125403
+24.232.172.79 4 90 2383706 20170223110106
+200.16.89.157 4 276 32232917 20170223121543
+190.188.200.39 4 307 36126392 20170224061528
+186.136.97.91 4 372 44188768 20170223144213
+200.114.224.112 4 105 2865404 20170223120941
+186.5.204.2 4 54 1273483 20170227130939
+181.90.146.244 4 171 4691923 20170226064523
+190.18.40.173 4 320 33065437 20170224053912
+181.169.181.226 3 175 24608552 20170223073451
+200.71.232.209 3 159 13925149 20170224095800
+181.93.186.39 3 180 16917709 20170223071724
+200.32.101.195 3 268 24775429 20170223080201
+66.102.8.20 0 33 7462144 
+113.35.251.98 1 1 14357 20170227061017
+186.129.183.83 0 1 101424 
+190.229.149.200 1 39 2888968 20170223100958
+167.60.143.21 2 249 23115539 20170223114602
+66.249.88.142 1 65 4470228 20170225134633
+190.138.73.94 0 1 31358 
+181.104.40.210 2 42 901619 20170223123940
+181.46.36.31 2 64 1360063 20170223133047
+186.19.61.231 2 42 913285 20170223132103
+186.60.158.127 0 1 87830 
+66.102.8.18 2 33 5493387 20170227123535
+190.19.235.80 2 44 5796484 20170223101520
+165.225.32.60 1 21 744056 20170224052258
+186.141.137.161 2 42 913285 20170224065041
+63.251.232.180 1 1 14357 20170226042941
+181.170.10.91 1 47 11118475 20170223071819
+187.171.48.112 0 1 215236 
+66.249.83.201 1 53 3299702 20170223100936
+179.7.131.160 0 1 37025 
+190.226.75.5 1 47 11118475 20170223081452
+66.102.8.22 0 27 8117101 
+186.43.144.63 0 1 116294 
+181.28.238.94 2 166 22158284 20170223111424
+66.249.88.35 0 22 579603 
+179.62.27.21 0 1 31358 
+201.179.178.142 2 159 22358785 20170223143534
+181.168.199.130 2 127 19994117 20170223064304
+200.88.114.20 0 1 27309 
+201.235.40.28 1 47 11118475 20170223120900
+179.36.92.12 1 40 3403191 20170225084721
+181.169.16.131 2 128 10425745 20170224060040
+52.165.161.14 2 2 180310 20170226112640
+181.47.211.26 2 125 9022604 20170223134415
+186.33.252.163 1 36 1315233 20170223081838
+204.79.180.84 0 1 2091 
+201.207.84.118 0 2 59476 
+201.235.112.37 1 124 10130334 20170224055445
+191.82.94.42 2 124 21950421 20170223082148
+190.195.6.228 1 47 11118475 20170223081942
+190.226.185.40 2 41 900643 20170223054711
+186.143.135.179 2 65 1399355 20170223075548
+186.137.17.42 2 41 900643 20170223131830
+181.95.236.209 1 47 11118475 20170223064411
+190.19.55.179 3 169 18157845 20170223094503
+190.210.169.145 1 118 9262039 20170223085741
+181.167.198.88 1 38 2043139 20170223131119
+190.17.175.31 3 288 27910680 20170223072309
+190.18.39.139 2 3 30206 20170223212428
+190.173.19.182 0 1 33812 
+200.10.201.225 1 47 11118475 20170223052923
+190.210.236.8 2 180 24275380 20170223071618
+186.143.197.101 2 64 1357726 20170223114659
+191.80.95.210 0 1 29341 
+200.48.211.163 0 1 104700 
+204.79.180.239 0 1 4311 
+186.60.137.7 1 47 11118475 20170223131142
+190.174.20.157 1 47 11118475 20170224083712
+181.229.104.250 2 193 20790580 20170223105612
+179.41.198.176 2 176 18704515 20170223054845
+190.245.79.26 1 47 11118475 20170223060737
+190.207.55.190 0 1 53801 
+190.238.17.1 0 1 30057 
+204.79.180.132 0 1 1553 
+83.56.15.221 1 112 10839140 20170227020828
+186.143.198.79 2 44 927698 20170224053838
+190.137.47.234 3 220 14729517 20170223105417
+94.142.142.141 1 1 90155 20170228163943
+204.79.180.79 1 1 14357 20170227004909
+181.171.33.55 0 2 232171 
+190.230.74.198 2 131 14185049 20170223091105
+66.249.88.143 2 61 3340780 20170225134632
+190.137.72.14 0 1 84781 
+179.40.86.2 0 1 34836 
+181.29.26.173 1 29 669153 20170223074524
+204.79.180.212 0 1 976 
+186.158.138.141 2 56 2101629 20170223080719
+181.177.180.148 0 3 268577 
+190.133.122.88 0 1 28559 
+147.75.127.254 0 1 30057 
+190.137.17.219 2 57 11149498 20170228130909
+47.63.211.171 0 1 28947 
+201.232.150.166 0 1 24383 
+201.178.240.25 2 64 1357726 20170223110656
+186.59.168.20 2 42 904954 20170223074512
+190.227.159.24 0 1 132034 
+186.136.213.21 2 107 14523200 20170223134226
+181.91.214.10 3 137 19827768 20170223091955
+204.79.180.1 0 1 6465 
+186.183.2.99 0 8 1243149 
+186.141.201.2 2 42 958864 20170226062107
+204.79.180.210 0 1 1492 
+191.113.75.125 0 1 116294 
+66.102.6.210 0 18 445829 
+186.139.51.239 1 45 9261213 20170223150131
+178.137.83.166 1 1 14357 20170223095225
+186.18.107.141 0 1 116294 
+62.212.73.49 1 1 14357 20170228104052
+200.1.118.115 0 1 29341 
+190.13.251.78 1 39 2888968 20170223084502
+181.14.245.130 2 158 14515639 20170224053634
+190.12.115.29 2 176 19786553 20170223100335
+181.22.171.244 0 1 41809 
+148.255.175.72 0 1 61303 
+190.193.134.41 1 120 9965376 20170223094130
+200.68.106.1 2 173 16560096 20170223080221
+181.171.182.180 2 64 12300649 20170223113727
+190.48.143.76 0 2 69171 
+201.179.174.44 1 40 3403191 20170223125152
+190.228.211.202 1 112 10839026 20170223052020
+72.30.14.9 1 1 12019 20170223100411
+181.170.58.117 3 171 15104209 20170226113205
+190.192.151.153 3 256 24735852 20170224052718
+181.169.140.2 3 51 1158649 20170223130501
+204.79.180.36 0 1 7625 
+193.90.12.90 1 1 14357 20170228215450
+186.158.136.225 0 1 29341 
+186.153.205.252 1 117 9719975 20170223124148
+181.46.154.211 0 1 112713 
+204.79.180.98 0 1 12642 
+186.158.139.91 1 12 91796 20170223063709
+190.189.109.9 1 27 1283577 20170223065255
+181.115.128.247 0 4 224097 
+181.168.54.49 0 1 84781 
+186.61.145.101 2 173 14980008 20170224063124
+204.79.180.47 0 1 3472 
+66.249.88.144 0 67 4345708 
+204.79.180.255 0 1 673 
+186.122.43.12 0 1 29341 
+181.47.176.87 1 120 9965376 20170223111151
+190.195.144.12 1 120 9965376 20170223092327
+179.25.85.166 1 120 9965376 20170223095528
+200.110.218.162 0 1 725012 
+201.178.202.53 0 4 171341 
+201.176.130.95 1 120 9965376 20170223082453
+191.85.26.7 2 249 23115539 20170223110016
+181.28.226.221 3 253 35100584 20170223093234
+201.216.241.169 1 47 11118475 20170223084837
+186.18.41.176 3 80 2638007 20170223091742
+181.0.23.180 1 42 5490113 20170223075945
+190.192.206.128 1 47 11118475 20170223111700
+190.64.129.18 0 11 356658 
+186.158.143.74 2 42 913285 20170223122634
+144.217.80.113 1 1 14357 20170226005510
+66.249.85.14 1 111 2338541 20170223074526
+186.130.104.131 0 31 658185 
+190.18.28.161 2 176 15941566 20170223081300
+200.49.206.193 0 1 35359 
+192.36.27.7 1 1 14357 20170228230846
+66.249.85.17 1 127 3667063 20170223072647
+201.254.167.171 1 47 11118475 20170223121115
+186.143.201.75 0 1 31358 
+5.188.211.25 1 1 90155 20170224083312
+190.16.186.110 1 156 12324272 20170225054952
+80.102.48.29 1 84 4453800 20170223113236
+66.102.6.27 1 32 799881 20170224193705
+200.42.22.11 1 120 9965376 20170223072613
+185.100.85.220 1 1 14357 20170224122430
+181.16.117.152 0 1 35359 
+181.16.90.220 2 41 903053 20170223144317
+185.188.182.229 1 1 14357 20170224125014
+190.210.91.113 1 86 4077645 20170223091616
+204.79.180.87 0 1 14979 
+66.249.88.38 0 1 297343 
+66.249.88.33 2 24 732505 20170227102832
+176.9.50.43 1 1 14357 20170225122103
+66.102.6.208 1 14 405655 20170225112848
+190.123.245.109 0 1 51732 
+181.28.64.204 1 44 6638022 20170223154213
+66.102.6.206 1 16 470670 20170225112847
+66.249.83.199 1 59 3574429 20170224052417
+181.141.169.203 0 2 201462 
+201.123.229.246 1 49 2481955 20170227213636
+200.41.178.194 1 56 6840121 20170223124200
+190.221.190.125 2 200 20255877 20170223114124
+181.231.34.19 0 1 53292 
+152.169.233.23 2 63 1345084 20170223131743
+204.79.180.215 0 1 1062 
+66.249.88.63 0 24 623358 
+190.174.51.2 1 47 11118475 20170224071146
+190.122.12.48 1 132 11920272 20170223090648
+190.136.176.59 1 47 11118475 20170223100003
+66.102.6.31 0 20 512050 
+66.102.6.29 1 18 623535 20170224193704
+186.19.104.182 2 76 1766800 20170223152136
+66.249.83.203 1 61 4369831 20170224052324
+179.0.4.132 3 287 29304035 20170223113511
+190.225.26.89 0 2 76636 
+37.132.117.226 0 2 114122 
+186.34.6.37 0 1 62592 
+190.189.2.6 1 47 11118475 20170223150332
+66.249.85.24 0 1 112713 
+181.88.232.42 0 1 35359 
+201.178.139.49 1 120 9965376 20170223124506
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20170223 205 11565 1194093798 110
+20170224 68 3614 334360024 30
+20170225 9 455 30183823 9
+20170226 13 394 21416004 7
+20170227 12 371 29147722 8
+20170228 8 76 11906331 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 130
+30s-2mn 12
+15mn-30mn 6
+30mn-1h 2
+5mn-15mn 3
+2mn-5mn 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 122 2107453 112 59
+/cerramientos-taller-americano.html 49 1299836 39 25
+/techos-taller-americano.html 27 646002 2 13
+/phone/ 21 173093 5 17
+/phone/cerramientos-taller-americano.html 12 172612 4 12
+/puertas-plegadizas-taller-americano.html 11 239734 1 4
+/contacto-taller-americano.html 10 112360 0 4
+/aleros-taller-americano.html 10 428390 1 6
+/toldos-de-aluminio-taller-americano.html 7 87514 1 5
+/invernaderos-taller-americano.html 6 111138 0 4
+/nosotros-taller-americano.html 6 72114 2 3
+/asesoramiento-taller-americano.html 6 74808 0 3
+/cubiertas-coches-taller-americano.html 5 74530 0 1
+/divisores-de-oficina-taller-americano.html 5 96330 3 4
+/phone/toldos-de-aluminio-taller-americano.html 4 17244 0 3
+/scripts/form-u16477.php 4 2536 0 4
+/phone/aleros-taller-americano.html 3 17010 0 1
+/divisores-de-banio-taller-americano.html 2 28122 0 1
+/phone/puertas-plegadizas-taller-amer.html 2 16398 1 0
+/cubiertas-de-piletas-taller-americano.html 1 14075 0 1
+/phone/techos-taller-americano.html 1 8992 0 1
+/phone/invernaderos-taller-americano.html 1 7405 0 0
+END_SIDER

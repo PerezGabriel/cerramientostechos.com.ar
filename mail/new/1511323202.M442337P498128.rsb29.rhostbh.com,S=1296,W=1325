@@ -1,0 +1,29 @@
+Return-Path: <root@rsb29.rhostbh.com>
+Delivered-To: cerramie@rsb29.rhostbh.com
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id c7tfGUL2FFrQmQcAV0Gtjg
+	for <cerramie@rsb29.rhostbh.com>; Tue, 21 Nov 2017 21:00:02 -0700
+Return-path: <root@rsb29.rhostbh.com>
+Envelope-to: cerramie@rsb29.rhostbh.com
+Delivery-date: Tue, 21 Nov 2017 21:00:02 -0700
+Received: from cerramie by rsb29.rhostbh.com with local (Exim 4.89)
+	(envelope-from <root@rsb29.rhostbh.com>)
+	id 1eHMCg-0025YG-4m
+	for cerramie@rsb29.rhostbh.com; Tue, 21 Nov 2017 21:00:02 -0700
+From: root@rsb29.rhostbh.com (Cron Daemon)
+To: cerramie@rsb29.rhostbh.com
+Subject: Cron <cerramie@rsb29> /usr/bin/GET http://www.cecenethosting.com.ar/cronjobs/lamp_fullbackup.php?user=cerramie
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home2/cerramie>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=cerramie>
+X-Cron-Env: <USER=cerramie>
+Message-Id: <E1eHMCg-0025YG-4m@rsb29.rhostbh.com>
+Date: Tue, 21 Nov 2017 21:00:02 -0700
+
+Can't connect to www.cecenethosting.com.ar:80 (Bad hostname)
+
+LWP::Protocol::http::Socket: Bad hostname 'www.cecenethosting.com.ar' at /usr/local/share/perl5/LWP/Protocol/http.pm line 51.

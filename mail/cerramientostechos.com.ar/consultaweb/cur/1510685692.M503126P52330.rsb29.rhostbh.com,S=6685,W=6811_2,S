@@ -1,0 +1,126 @@
+Return-Path: <talleramericanoweb@gmail.com>
+Delivered-To: consultaweb@cerramientostechos.com.ar
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id iUhYHfw7C1pqzAAAV0Gtjg
+	for <consultaweb@cerramientostechos.com.ar>; Tue, 14 Nov 2017 11:54:52 -0700
+Return-path: <talleramericanoweb@gmail.com>
+Envelope-to: consultaweb@cerramientostechos.com.ar
+Delivery-date: Tue, 14 Nov 2017 11:54:52 -0700
+Received: from mail-oi0-f50.google.com ([209.85.218.50]:49458)
+	by rsb29.rhostbh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <talleramericanoweb@gmail.com>)
+	id 1eEgMG-000O3v-3p
+	for consultaweb@cerramientostechos.com.ar; Tue, 14 Nov 2017 11:54:52 -0700
+Received: by mail-oi0-f50.google.com with SMTP id r190so5321654oie.6
+        for <consultaweb@cerramientostechos.com.ar>; Tue, 14 Nov 2017 10:54:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=ue3LYuzuzqIkseUjmJRGd725vKo90jNKR10LDgwB46E=;
+        b=Umm+/VnB7hHOwLu6IGKiJowbauRcgijR2jZzcv8jbeHtHryDxrgrFfNZn0ebqJ+mKS
+         QEuzFIkjtU7G/HBLqp7lZFv/xo1lBJUnVEzrS0v4aE+vg8eEnAX4OJegLk+9mdehddb8
+         2TqiKtRow8lRNz63QL9eLVIE81cNGCccET4MNL+q97PyDpl+LZzzjfCwPlzmJoO8O+Oy
+         fQrnKQqAYrrTTIilYSIjPGtPm5FjReNYXkEOos2WlX3vzjUgxuPTL1AqvrEwxftx2uMh
+         YJ6Rc1ptR4jlQzNoX6sYZ51sHH2zIG/5uxoYVeZJ/eCyp6iTNtq2yu5kJ6iZDkyHDtr3
+         80Zg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=ue3LYuzuzqIkseUjmJRGd725vKo90jNKR10LDgwB46E=;
+        b=DlCgcNFClUJKt8TKJ8qG0JhgOI+70gz6UocIvSuj/oomRVUEUKvHA9j8TQLeFQTOJH
+         eUSzbFnNLVi0HujSp7oUAL0tk130QGzxcFhWGFWszNqV00rCL6Nb3fDIDToe3bennZ2R
+         9qJsSTObUFwIOwbKCD3gRNRbYqftuaNoJ8v36AfEkRk/jx840hHptUlCB1sQBZ25t6ud
+         F8OwSL+jhAg7m/xeIPbv5X2/9gqFzl6vLWuWrxYdyxamTE3jUk481dVvd987Uqmx1kA1
+         xqnAqgwTEyqZKo9olRa2aGUUmVbSEt8lLspJ/J7mnlbAr8o+z9j97DMQkgR/xgBXyLD1
+         egmw==
+X-Gm-Message-State: AJaThX63C02K++BFICWmEm6se9et1XwWMp/Vk45Q8UcE8VR+ImtiTjk4
+	bEyJzxqYm9TQTDcERrvnUf/rreqYY8V+5qK8WkMbpA==
+X-Google-Smtp-Source: AGs4zMaKBm71FvPG0FGem4XwhsuhzMg6udMNUkgcrHtt2/7CKla1ca18mTchUwlUjbFP6T6e6N4xAN9PmIMazBlu5eU=
+X-Received: by 10.202.192.138 with SMTP id q132mr7775918oif.110.1510682459345;
+ Tue, 14 Nov 2017 10:00:59 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.34.166 with HTTP; Tue, 14 Nov 2017 10:00:58 -0800 (PST)
+In-Reply-To: <b9a0dc0cdcf76c3efbeef73ae7eaeac8@cerramientostechos.com.ar>
+References: <b9a0dc0cdcf76c3efbeef73ae7eaeac8@cerramientostechos.com.ar>
+From: Taller Americano <talleramericanoweb@gmail.com>
+Date: Tue, 14 Nov 2017 15:00:58 -0300
+Message-ID: <CAK7FQY32TTKnNyYXWuUFnB83DmgiLKJnk6A8UeqBpG4Qe761hQ@mail.gmail.com>
+Subject: Re: Consulta enviada el Martes 14 de Noviembre del 2017 a las 14:45hs :
+To: consultaweb@cerramientostechos.com.ar
+Content-Type: multipart/alternative; boundary="001a113dcde05b9816055df52b38"
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "rsb29.rhostbh.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Marta, enviame un te. y te contacto para poder cotizar. Saludos.
+    Felix. El 14 de noviembre de 2017, 14:45, escribió: > *NOMBRE:* MARTA GARELLO
+    > *CONTACTO:* martagarello@gmail.com > *CONSULTA:* quiero cerrar parte de
+    una terraza con madera blanca y > aluminio [...] 
+ 
+ Content analysis details:   (-0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.5 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (talleramericanoweb[at]gmail.com)
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cerramientostechos.com.ar]
+ -0.8 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.218.50 listed in wl.mailspike.net]
+ -0.8 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--001a113dcde05b9816055df52b38
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Marta, enviame un te. y te contacto para poder cotizar.
+Saludos. Felix.
+
+El 14 de noviembre de 2017, 14:45, <consultaweb@cerramientostechos.com.ar>
+escribi=C3=B3:
+
+> *NOMBRE:* MARTA GARELLO
+> *CONTACTO:* martagarello@gmail.com
+> *CONSULTA:* quiero cerrar parte de una terraza con madera blanca y
+> aluminio
+
+--001a113dcde05b9816055df52b38
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Marta, enviame un te. y te contacto para poder cotizar.<di=
+v>Saludos. Felix.=C2=A0</div></div><div class=3D"gmail_extra"><br><div clas=
+s=3D"gmail_quote">El 14 de noviembre de 2017, 14:45,  <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:consultaweb@cerramientostechos.com.ar" target=3D"_blank"=
+>consultaweb@cerramientostechos.com.ar</a>&gt;</span> escribi=C3=B3:<br><bl=
+ockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #=
+ccc solid;padding-left:1ex"><table><tbody><tr><td height=3D"20"><font size=
+=3D"2" face=3D"Arial"><b>NOMBRE:</b> MARTA GARELLO</font></td></tr><tr><td =
+height=3D"20"><font size=3D"2" face=3D"Arial"><b>CONTACTO:</b> <a href=3D"m=
+ailto:martagarello@gmail.com" target=3D"_blank">martagarello@gmail.com</a><=
+/font></td></tr><tr><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>CO=
+NSULTA:</b> quiero cerrar parte de una terraza con madera blanca y aluminio=
+ </font></td></tr></tbody></table>
+
+
+</blockquote></div><br></div>
+
+--001a113dcde05b9816055df52b38--

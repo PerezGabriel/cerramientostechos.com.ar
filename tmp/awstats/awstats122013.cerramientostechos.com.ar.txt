@@ -1,0 +1,2320 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201312 will be lost/reset.
+# Last config file used to build this data file was /home2/cerramie/tmp/awstats/awstats.cerramientostechos.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2703                
+POS_VISITOR 32351               
+POS_DAY 66649               
+POS_DOMAIN 3643                
+POS_LOGIN 4133                
+POS_ROBOT 4288                
+POS_WORMS 4882                
+POS_EMAILSENDER 5013                
+POS_EMAILRECEIVER 5156                
+POS_SESSION 67545               
+POS_SIDER 67757               
+POS_FILETYPES 5291                
+POS_DOWNLOADS 5541                
+POS_OS 5651                
+POS_BROWSER 5855                
+POS_SCREENSIZE 7076                
+POS_UNKNOWNREFERER 7150                
+POS_UNKNOWNREFERERBROWSER 7666                
+POS_ORIGIN 8068                
+POS_SEREFERRALS 8214                
+POS_PAGEREFS 8392                
+POS_SEARCHWORDS 8676                
+POS_KEYWORDS 25878               
+POS_MISC 2365                
+POS_ERRORS 31112               
+POS_CLUSTER 3989                
+POS_SIDER_404 31230               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140101000005 166 27435 7379761752321
+FirstTime 20131201002634
+LastTime 20131231180303
+LastUpdate 20140101053829 166 0 165 0 0
+TotalVisits 804                 
+TotalUnique 695                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 887                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 629 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 187 2181067 16 156 3533996
+1 3 83 530496 23 219 5556588
+2 4 50 123988 24 139 3613101
+3 7 102 1025141 35 148 3372783
+4 21 568 4746777 24 197 3843276
+5 197 5720 72798038 19 231 4964658
+6 278 7740 104516080 32 416 3864002
+7 371 8815 115559307 30 410 5398847
+8 358 8463 113498290 19 289 4821802
+9 329 8763 122744278 26 375 4812148
+10 332 8267 97523332 26 385 4882358
+11 342 7809 107190232 69 490 8346150
+12 316 7789 115242685 66 467 8027106
+13 383 9666 126310103 94 535 7104982
+14 139 3310 47452521 60 351 6009777
+15 35 728 18589281 57 349 5719956
+16 14 726 8319875 56 314 6098750
+17 6 115 1868478 28 243 4641320
+18 24 680 9343997 39 313 5411577
+19 16 516 11965339 20 285 3692624
+20 12 421 3352580 32 877 9512092
+21 16 336 4075661 48 431 12423619
+22 5 142 1070700 38 274 11922966
+23 5 105 1129880 44 192 6218326
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+ar 3027 78822 1058513780
+us 139 1761 19209236
+jp 30 42 568911
+ve 15 292 3152825
+fr 5 5 600
+br 5 97 1447382
+cn 3 3 24320
+de 2 2 4682
+cl 0 27 3181311
+es 0 10 869500
+mx 0 20 2032431
+cr 0 2 208130
+ec 0 3 330612
+kh 0 1 167762
+co 0 10 960260
+py 0 2 252386
+uy 0 1 126221
+pe 0 1 107777
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 2250 28663414 20131231091655 0
+msnbot\-media 958 57702100 20131231235942 0
+googlebot 936 43518415 20131231233116 0
+[\s_+:,\.\;\/\\-]bot 517 65488 20131231234905 0
+crawl 195 4188422 20131230164806 0
+spider 96 3090548 20131231100301 0
+no_user_agent 23 27417 20131227045304 0
+slurp 4 12923 20131226155251 0
+ia_archiver 2 15644 20131214065441 0
+msnbot 2 674000 20131203231227 0
+discovery 1 236 20131204072430 0
+netcraft 1 8028 20131210142709 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1523 2886774 0 0
+png 7984 67490382 0 0
+db 1452 111228698 0 0
+php 980 4356664 0 0
+html 794 2342476 0 0
+jpg 62855 868960943 0 0
+js 5222 33769485 0 0
+log 10 34284 0 0
+gif 281 88420 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/images/tabiques%20divisores/thumbnails/WS_FTP.LOG 11 0 58235
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+blackberry 125
+linuxandroid 2048
+winlong 2639
+winxp 28636
+java 2
+win2000 28
+linuxubuntu 47
+linux 1112
+winvista 3259
+win7 36577
+macosx 4659
+win2003 152
+Unknown 1817
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 66
+msie6.0 463
+firefox3.6 20
+firefox10.0 137
+firefox26.0 1327
+sonyericsson 4
+chrome33.0.1726.0 642
+chrome31.0.1650.57 10647
+chrome31.0.1650.63 20441
+chrome31.0.1650.48 23
+safari5.0.2 137
+chrome28.0.1500.72 23
+msie8.0 11065
+msie7.0 1767
+firefox23.0 26
+chrome27.0.1453 367
+firefox9.0.1 104
+chrome29.0.1547.66 138
+chrome31.0.1650.59 769
+msie5.01 5
+safari6.0.0.668 125
+safari6.0 606
+chrome30.0.1599.69 25
+mozilla 5894
+chrome18.0.1025.142 1
+firefox25.0 9044
+chrome16.0.912.77 130
+firefox14.0.1 3
+mot\- 148
+firefox3.6.3 24
+safari5.1.9 135
+firefox10.0.2 124
+safari 182
+chrome29.0.1547.72 23
+safari7.0 2461
+firefox20.0 272
+chrome29.0.1547.57 195
+android 1100
+chrome33.0.1712.4 185
+chrome32.0.1700.41 149
+chrome12.0.742.112 120
+opera9.80 201
+firefox2.0.0.9 130
+firefox16.0 55
+msie9.0 4651
+Unknown 7
+chrome30.0.1599.101 71
+firefox11.0 2
+chrome29.0.1547.22 373
+chrome8.0.552.224 23
+chrome22.0.1229.96 23
+firefox17.0 162
+chrome17.0.963.56 1
+chrome18.0.1025.166 24
+chrome27.0.1453.110 591
+firefox3.0.5 143
+chrome18.0.966.0 143
+firefox22.0 421
+msie10.0 4538
+firefox5.0.1 59
+safari5.1 130
+firefox3.6.18 3
+safari6.0.3 80
+firefox3.6.12 23
+firefox2.0.0.16 156
+firefox3.5 15
+firefox3.6.13 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20131227045303
+AndroidDownloadManager 20131212063747
+ADmantX_Platform_Semantic_Analyzer_-_ADmantX_Inc._-_www.admantx.com_-_support@admantx.com 20131204104513
+Mozilla/4.0_(compatible;) 20131231234308
+Mozilla/5.0_(Android;_Tablet;_rv:25.0)_Gecko/25.0_Firefox/25.0 20131204071950
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20131204104502
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20131227045303
+ADmantX_Platform_Semantic_Analyzer_-_ADmantX_Inc._-_www.admantx.com_-_support@admantx.com 20131204104513
+Apache-HttpClient/4.3_(java_1.5) 20131207155644
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20131204104502
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 179 1607
+From1 0 0
+From2 734 804
+From3 3 4
+From4 2310 78686
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 730 791
+bing 0 5
+yahoo 4 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.carpinteriaintegral.com/swf/index.swf 2 2
+http://www.carpinteriaintegral.com 1 1
+http://ar-mg6.mail.yahoo.com/neo/launch 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 502
+cerramientos+de+aluminio 25
+cerramientos 23
+techos+de+policarbonato 10
+carpinteria+de+aluminio 7
+techos+corredizos 7
+aleros 7
+cerramientos+de+aluminio+capital+federal 6
+ventanas+de+aluminio 5
+vidrios+para+mesas 5
+placas+de+policarbonato 5
+chapas+de+policarbonato 5
+techos+de+policarbonato+precios 5
+cubiertas+de+policarbonato 4
+techos+policarbonato 3
+aleros+de+policarbonato 3
+cerramientos+de+aluminio+zona+norte 3
+aleros+para+puertas 3
+chapa+policarbonato+acanalada 3
+motor+para+techo+corredizo+patio+en+argentina 3
+cerramientos+de+vidrio+profile 3
+jardin+de+invierno 3
+techos+policarbonato+zona+sur 3
+carpinterias+de+aluminio 3
+techos+de+policarbonato+y+metal 2
+techos+corredizos+de+vidrio 2
+alumil+cerramientos 1
+precio+de+instalacion+de+cerramientos+de+vidrio 1
+telas+para+cerramiento+balcon 1
+cerramiento+para+patios 1
+cerramientos+de+policarbonato+en+villa+urquiza 1
+detalles+constructivo+de+pergolas+con+policarbonato+corredizos 1
+techo+de+policarbonato+alveolar 1
+techo+vidrio 1
+techos+de+vidrio 1
+toldos+de+lona+plegables 1
+ventanas+de+aluminio+modena 1
+medidas+de+ventanas+de+aluminio+blanco 1
+aleros+a+medidas+en+caba 1
+techo+de+aluminio+antiguo 1
+aluminio+perfiles+belgrano 1
+techos+rebatibles 1
+cerramientos+de+vidrio+para+oficinas 1
+bow+window+aluminio+con+techo+de+chapa 1
+techo+corredizo+de+policarbonato+aislante+termico 1
+policarbonatos+para+techo+baratos 1
+cielorrasos+desmontables 1
+para+techar+una+cochera+policarbonato+o+media+sombra%3f 1
+claraboyas+para+techos 1
+techos+de+estructura+aluminio 1
+arco+union+aluminio+para+techos+policarbonato+en+buenos+aires 1
+vigas+de+hierro 1
+aleros+a+medida+en+caba 2
+chapas+de+policarbonato+zona+oeste 1
+www.techos-cerramientos.com.ar 2
+cortinas+para+jardin+de+invierno 1
+aleros+de+ca%c3%b1os+ectruturales 1
+cerramientos+aluminio+boulogne 1
+cerramientos+de+balcones+villa+del+parque 1
+motor+techo+corredizo+policarbonato 1
+clases+de+cerramientos 1
+cerramientos+de+aluminio+para+patios+permitidos 1
+techo+corredizo 1
+deck+corredizo+para+poder+pisar 1
+cerramientos+ventanas 1
+cerramientos+de+acrilico+transparente 1
+chapas+plasticas+para+techo 1
+cerramientos+de+alambre+tejido 1
+masilla+plastica+para+techo 1
+aberturas+para+techos+de+tejas 1
+mosquiteros+de+aluminio+por+villa+urquiza 1
+precio+de+policarbonato+para+techo 1
+empresas+de+cerramientos+vision+y+mision 1
+cuanto+es+la+inclinacion+de+un+techo+de+policarbonato 1
+cerramientos+techos+pergolas+chapa 1
+techos+retractiles+para+patio 1
+fabrica+de+aleros+capital+federal 1
+cerramientos+de+aluminio+precios+capital+federal 2
+cerramientos+toldos+para+terrazas 1
+poliuretano+expandido+para+techos 2
+techos+de+vidrio+movible 1
+colocaci%c3%b3n+de+ventanas+de+aluminio+sin+obra 1
+placas+plasticas+para+techos 1
+cerramientos+con+techo+de+poliacrilico+buenos+aires 1
+tiradores+para+ventanas+de+aluminio 1
+techos+aluminio+para+balcones 1
+cerramientos+con+techo+para+quinchos 1
+cerramiento+de+vidrio 1
+cortinas+para+techos+de+vidrio 1
+cerramientos+de+pvc 1
+como+solucionar+el+efecto+invernadero+con+un+techo+de+vidrio 1
+como+armar+un+alero+con+palets 1
+venta+de+policarbonato+alveolar+en+bs+as 1
+techos+para+cocheras+argentina 1
+techos+plegadizos 1
+fabrica+de+ventanas+de+aluminio 1
+fabrica+de+aberturas+de+aluminio+zona+sur+quilmes 1
+venta+e+instalacion+de+ventanas+de+aluminio 1
+cerramientos+aluminio+almagro 1
+techo+de+vidrio+para+coupe+taunus 1
+cerramientos+y+pergolas+en+aluminio 1
+techos+para+autos 1
+con+que+se+puede+pintar+techo+de+aluminio 1
+ventanas+de+aluminio+vidrio+repartido 1
+cerramiento+de+terrazas 1
+aleros+en+hierro+yvidrio 1
+costo+de+revestimiento+de+poliuretano+en+techos 1
+cerramientos+para+cocheras 1
+aislante+para+techos 2
+techos+corredizos+para+patios+de+chapa+zona+monte+grande 1
+ventanas+de+aluminio+6061 1
+techos+corredizos+para+patios 1
+aberturas+y+cerramientos+industriales 1
+placas+policarbonato 2
+chapas+plasticas 1
+tipos+de+cerramientos+verticales 1
+postes+para+aleros 1
+arreglo+ceramiento+aluminio+v.urquiza 2
+ventanas+para+techo 1
+cerramientos+de+acrilicos+capital+federal 1
+repuestos+techos+rebatibles+de+fibra+de+vidrio 1
+como+hacer+un+techo+con+perfil+de+aluminio 1
+claro+hnos+toldos+metalicos 1
+ventanas+de+aluminio+villa+urquiza 1
+reparacion+ventanas+de+aluminio 1
+techos+de+chapa+de+plastico 1
+cerramientos+de+policarbonato+en+capital 1
+imagenes+de+jardin+de+invierno 1
+techo+rebatible+para+patio+y%5c+o+lavadero 1
+techos+para+galerias+plataforma+arquitectura 1
+cerramientos+plegables 1
+como+hacer+un+alero+metalico 1
+cerramientos+de+aluminio+para+lavaderos 1
+cerramiento+en+vinilico+cristal 1
+hojas+techo+plegable 1
+placas+para+techos+desmontables+precios 1
+techos+policarbonato+ramos+mejia 1
+techos+de+policarbonato+en+villa+del+parque 1
+cerramiento+de+aluminio+para+patios 1
+techos+corredizos+obertin 1
+serramientos+en+policarbonato 2
+donde+puedo+conceguir+aleros+de+chapas 2
+dise%c3%b1o+lugar+de+estar+en+alero+con+pileta 1
+aberturas+de+aluminio 2
+revestimiento+plastico+para+techos 1
+arquitectura-dise%c3%b1os+de+cerramientos+de+techos+para+garaje+que+no+oscurezcan 1
+protecci%c3%b3n+de+balcones+para+ni%c3%b1os+capital+federal 1
+l%c3%a1minas+de+policarbonato+en+buenos+aires 1
+cerramientos+de+lona 1
+fibra+de+vidrio 1
+cerramiento+de+balcones 1
+que+tipo+de+materia+hay+para+la+terminacion+de+aleros 1
+techosmovilesslu 1
+techos+de+policarbonato+zona+sur 1
+cerramientos+de+ca%c3%b1as 1
+casas+de+cerramientos+de+aluminio 1
+cerramientos+de+aluminio+villa+pueyrredon 2
+techos+de+chapas 1
+fabricante+de+aleros+en+vicente+lopez 1
+repuesto+techo+corredizo+peugeot+207 1
+f%c3%a0brica+de+aleros 1
+aberturas+cerramientos+lanus 1
+cerramiento+de+balcon+techo 1
+techos+para+galerias+arq. 1
+techos+de+vidrio+zona+norte+buenos+airesl 2
+policarbonatos+para+techos 1
+techo+de+vidrio+casa 2
+techos+para+cocheras+de+policarbonato 1
+c3+picasso+pack+my+way+techo+corredizo 1
+planchas+de+policarbonato 1
+aleros+alucobond 1
+techos+corredizos+de+policarbonato+en+mitades+iguales 1
+cerramientos+de+la+costa 1
+cerramientos+en+hierro+y+vidrio 2
+aislantes+termicos+para+techos+caracteristicas+termicas 1
+soportes+para+hacen+un+alero+de+ventana 2
+chapas+de+plastico+para+techos+precios 1
+apolo+cerramientos 1
+proteccion+de+balcones+malla+metalica 2
+ver+tipos+de+cerramientos+en+paraguay 1
+como+limpiar+techos+de+vidrio 1
+cerramiento+techo+movil 1
+cupulas+vidriadas 1
+como+se+coloca+la+lana+de+vidrio+en+techo+de+chapa 1
+repuestos+cerramientos+de+aluminio+av+belgrano+2300 1
+como+decorar+un+cerramiento+de+aluminio 1
+techo+policarbonato 2
+techo+vidrios 1
+cerramientos+de+aluminio+en+moron 1
+cerramientos+de+aluminio+en+banfield 1
+perfiles+de+aluminio+para+cerramientos 2
+regillas+de+aluminio 1
+techo+con+ventana 1
+colocaci%c3%b3n+policarbonato 1
+ventanas+de+aluminio+banderola 1
+antit%c3%a9rmico+para+techos+de+policarbonato 1
+cerramientos+de+plastico+cristal+precios 1
+cerramientos+quinchos 1
+techos+para+patios+de+vidrio+en+buenos+aires 1
+como+armar+un+alero 1
+cerramientos+de+bavon+villa+del+parque 1
+ideas+para+techos+de+cocheras 1
+cerramientos+de+policarbonato+para+balcones+precios 1
+negocio+en+la+calle+warnes+techos+solar+electrico+webasto 1
+residencia+universitaria+los+aleraos+en+belgrano 1
+fabrica+de+chapas+de+policarbonato 1
+cerramientos+de+aluminio+villa+martelli 1
+cerramientos+de+plastico+para+quinchos 1
+carpinteria+de+aluminio+coghlan 1
+venta+de+cerramientos 1
+cerramientos+para+cielorrasos 1
+listones+poliuretano+para+techos 1
+cerramientos+quinchos+aluminio 1
+techo+cielo+raso+plastico 1
+aleros+de+1.70+por+0.70 1
+cerramientos+de+aluminio+en+belgrano 2
+telgopor+para+techos+de+chapa+aislante+termico+para+interiores 1
+piletas+con+techo+trascoucido+en+jardin 1
+cerramiento+rebatibles+de+fibra+de+vidrio 2
+techos+para+quinchos+en+terraza 1
+cerramientos+de+aluminio+en+flores 1
+cerramientos+de+vidrio+iso+9001 1
+carpinteria+aluminio 1
+lana+de+vidrio+techo+de+chapa 1
+alero 2
+techos+placas+desmontables 2
+cubiertas+livianas+para+cocheras 1
+cerramientos+de+aluminio+en+zona+norte 1
+cerramientos+aluminio+zona+sur 1
+ventanas+de+techo 1
+techo+para+autos+policarbonato 1
+arreglos+techo+aluminio 2
+cerramiento+de+aluminio+villa+urquiza 1
+techos+de+chapa+plegables 1
+materiales+para+techos+zona+norte 1
+www.cerramientos+de+aluminio 1
+policarbonato 1
+aleros+para+el+jardin 1
+garage+policarbonato 1
+como+dise%c3%b1ar+una+alero 1
+cerramientos+de+aluminio+caballito 1
+techos+de+vidrio+buenos+aires 1
+aleros+de+acrilicos 1
+cerramiento+de+policarbonato+para+techos+precios 1
+techos+en+aluminio 1
+estructura+de+hierro+soldada+para+techos 1
+invernadero 2
+policarbonato+alveolar 1
+cerramiento 1
+aleros+de+policarbonato+belle+epoque 1
+techos+de+policarbonato+para+garage+precio 1
+ventanas+de+aluminio+colocacion 1
+techo+policarbonato+precio 1
+aleros+modelos 1
+techos+para+galerias 1
+cerramiento+para+balcones 1
+chapas+para+techos+plasticas+precios 1
+plasticos+para+techo+zona+lugano 1
+techos+corredizos+chapa+para+patio 1
+www.alamaula.com+gasebos+usados+o+aleros+para+construccion 1
+bloques+de+vidrios+especiales+para+techos 1
+mecanismosparatechoscorredisos 1
+techos+retractiles 1
+plastic+para+cielorrasos 1
+techos+para+estacionamientos+de+autos 1
+cerramientos+de+balcones+av+alberdi 1
+como+hacer+mamposteria+de+aluminio+en+techo+con+policarbonato 1
+cerramientos+para+piscinas 1
+cerramietos+de+blindex 2
+techo+transitable+de+poco+espesor 1
+purtas+de+aluminio+tipo+americano 1
+canaletas+de+plastico+para+techos+de+chapa 1
+cerramientos+de+herreria 1
+cerramiento+plegadizo+para+quinchos 1
+aberturas+para+techos 1
+precios+de+ventanas+de+aluminio 1
+cerramientos+de+policarbonato 1
+techos+corredizos+mabe 1
+mercadolibre+techos+livianos+para+autos 1
+techos+de+policarbonatos+cerramientos 1
+sunroom+techo+vidrio+buenos+aires 1
+ventanas+para+techos+planos 1
+como+hacer+un+cerramiento+de+aluminio 1
+construcciones+2+techo+vidriado 1
+aleros+de+hierro 2
+techos+garage+vidriado 1
+eolicos+para+techos 1
+cerramiento+de+balcon 1
+machimbre+plastico+para+techos 2
+techos+corredizos+cesar+diaz 1
+cerramiento+policarbonato 1
+techos+corredizos+para+casa 1
+precios+de+chapas+plasticas+para+techos 1
+ventanas+de+aluminio+zona+oeste+en+caseros 1
+cerramientos+en+fibra+de+vidrio+en+villa+pueyrredon 1
+chapas+para+techos 1
+cerramientos+para+techos 1
+aleros+de+hierro+y+policarbonato+zona+villa+martelli 1
+paneles+para+techos 1
+cerramientos+de+pvc+para+cocheras 1
+media+sombra+antigranizo 1
+fabrica+de+techos+cabriolet+para+autos 1
+cerrramientos 1
+cerramientos+zona+oeste 1
+toldo+para+techo+de+vidrio 1
+cerramientos+de+balcones+con+red 1
+habitaciones+prefabricadas+para+terrazas 2
+techos+para+guardar+el+auto 1
+pa%c3%b1os+fijos+de+aluminio 1
+cerramientos+de+aluminio+precios 2
+cerramientos+de+alumnio 1
+ventanas+de+aluminio+con+vidrio+repartido 1
+cerraminetos+de+techo+en+cocinas 1
+cerramientos+de+aluminio+anodizado+en+turdera 1
+techo+solar 2
+ventiluz+de+techo+en+aluminio+y+vidrios 1
+proteccion+para+piletas 1
+cerramientos+techos 1
+cubiertas+para+garage 1
+rollo+lana+de+vidrio+con+aluminio 1
+techo+corredizo+para+autos 1
+techos+plegables 1
+tipos+de+techos+para+garage 1
+techo+corredizo+206+warnes 1
+puertas+de+aluminio 2
+perfiles+de+aluminio+para+cielo+raso 1
+recambios+ventanas+de+aluminio 1
+ventanas+de+aluminio+precios 1
+arreglos+de+aleros 1
+techos+corredizos+piramidal 1
+techos+vidrio+laminado 2
+falso+techo 1
+invernaderos 2
+service+cerramientos+de+aluminio 1
+reparacion+de+cerramientos+en+capital+federal 1
+precio+de+cerramientos+de+aluminio 1
+cerramiento+plegable+de+vidrio 1
+toldos+de+aluminio+precios 1
+techos+lanus 1
+modelo+de+techos+para+garajes 1
+proteccion+de+balcones+metalica 1
+aleros+en+argentina 1
+colocacion+de+techo+transparente 1
+planchas+para+techo+sodimac 1
+como+construir+un+techo+en+policarbonato 1
+policarbonato+para+techo 1
+techo+de+acrilico 1
+cerramientos+de+aluminio+blanco 1
+hinvernaculo 1
+cerramientos+en+policarbonato 1
+techo+corredizo+electrico 1
+laminas+de+policarbonato 1
+mallas+plasticas+para+aislante+de+techos 1
+pajarera+original+para+jardin+de+invierno 2
+toldos+metalicos+plegables 2
+arreglo+de+techos+de+policarbonato 2
+cerramiento+de+alumninios 1
+chapas+transparentes+para+techos 1
+techos+corredizos+policarbonato+compacto 1
+www.fabrica+de+vetanas+de+aluminio+en+moreno 1
+la+mejor+empresa+de+cerramientos+buenos+aires 2
+puertas+plegables+pvc 1
+plancha+policarbonato 1
+cerramientos+policarbonato+zona+oeste 1
+cerramientos+de+policarbonato+precios+en+capital+federal 1
+cerramientos+con+ventanas 1
+alero+con+tensores 1
+ventanas+de+aluminio+alberdi 1
+puertas+de+aluminio+reforzado+m%c3%b3dena 1
+como+construir+un+alero+con+hierros 1
+techo+hierro+y+policarbonato 1
+cerramientos+de+terrazas+en+pcia+de+buenos+aires 1
+carpas+cacique+fabrica+aleros 1
+arreglos+sistemaspara+abri+y+cerrar+techos+corredizos+de+casas+en+parque+patricios 1
+como+sacar+el+techo+cirrediso+de+un+206 1
+techo+movil+graduable 1
+techo+vidriado+detalle 1
+venta+de+usadode+alero+de+puerta 2
+ventanas+para+techos 2
+arreglo+techos+policarbonato 1
+necesito+una+ventana+aireador+de+techo+de+1+metro+de+alto 1
+vinilo+para+techo+de+autos 1
+reparacion+de+aleros+caballito 1
+tgechos+de+ma%3cdera+para+terrazas 1
+el+talar+perfiles+catalogos+de+techos 1
+techo+cubreauto+policarbonato 1
+toldos+aleros 1
+ventanas+de+aluminio+guillotina 1
+cerramientos+para+terrazas+en+vidrio 1
+reparacion+de+aleros+de+policarbonato 1
+canaletas+plasticas+para+techos 1
+cerramientos+para+balcones+en+vidrio 1
+techos+de+ppoliuretano 1
+techos+de+aluminio+y+policarbonato+lomas+de+zamora 1
+aleros+de+policarbonato+en+san+martin 1
+techos+para+garage 1
+proteccion+de+balcon+red 1
+perfiles+de+vidrio+para+edificios 1
+techo+de+policarbonato 2
+techo+perfiles+c+de+hierro 1
+cerramientos+de+balcones+decks+buenos+aires 1
+imagenes+de+piletas+de+fibra+de+vidrio+bajo+techo 2
+techo+para+balcones 1
+cerramientos+integrales 1
+techo+corredizo+con+vidrio+repartido 1
+acr%c3%adlico+para+techos 1
+motor+techo+corredizo+peugeot+206 1
+cerramientos+de+vidrio+techos 1
+cerramientos+depiletas+de+mallas 1
+membrana+techo+precio 1
+cerramientos+caballito 1
+alero+balcones 1
+techos+en+policarvonato 2
+cables+estructurales+para+alero 1
+cerramiento+uriburu 1
+techos+con+policarbonato 1
+techos+metalicos+con+policarbonato 1
+aleros+para+puertas+zona+floresta 1
+postigos+de+aluminio 1
+toldo+rebatible+cerramiento 1
+fabrica+de+cerramientos+de+aluminio 1
+aleros+pergolas+prefabricados 1
+clasificacion+de+ventanas+de+aluminio+blanco+asesoramiento 1
+chapas+traslucidas+para+techos 1
+aislante+paratecho+aluminio 1
+vidrio+de+techo+para+autos+peugeot+306 1
+ventanas+de+aluminio+o+pvc 1
+cubretecho+para+autos 1
+aleros+en+hierro+forjado+y+vidrio 1
+techo+cerramientos 1
+techos+para+quinchos 1
+chapas+plasticas+para+techos+precios 2
+como+ir+el+techo+de+un+alero+a+una+pared 1
+cuanto+cuesta+un+cerramiento+de+terraza 1
+chapas+para+techo 1
+cerramientos+para+cocheras+en+zona+norte 1
+cerramientos+corredizos+para+veleros+nautica 1
+ventanas+de+aluminio+full+200x150 1
+negociosdecerramientos+ventanas+en+villacrespo 1
+techo+para+patio 1
+techos+de+vidrio+cerramientos 1
+aleros+de+alumnio+o+chapa 1
+canaletas+plasticas+para+lluvia+en+don+torcuato 1
+techos+para+piscinas+en+policarbonato 1
+arquitectura+cerramie3ntos 1
+herrajes+para+ventanas+de+aluminio+en+berazategui 1
+carpinteria+de+aluminio+villa+martelli 1
+cerramientos+de+vidrio+templado 1
+cubiertas+para+autos+baratas 1
+carpinteria+de+aluminio+en+belgrano 1
+cerramientos+lanus 1
+techo+poliacrilico+precio 1
+venta+de+telas+para+tapizados+de+autos 1
+fabrica+de+cerramientos+de+vidrio 2
+taller+americano 1
+apolo+xi+cerramientos 1
+techos+de+estructuras+metalicas+para+viviendas 1
+venta+de+ventanas+para+techos 1
+cerramiento+de+aluminio+para+quinchos 1
+espuma+de+poliuretano 2
+construccion+de+techos+para+garage 1
+techos+de+hierro+forjado+argentina 1
+cubiertas+vidriadas 1
+perfiles+de+aluminio+para+techos 1
+cerramiento+polietileno+para+techos+precios 1
+cerramiento+de+balcones+con+cristal 1
+tirantes+de+hierro+para+techos+de+chapa 1
+techos+corredizos+para+poder+pisar 1
+como+fabricar+un+alero+para+puerta 1
+cristal+de+techo+405 1
+mallas+techo+plasticas 1
+cerramientos+de+aluminio+partes 2
+acrilicos+lamanna+para+techos 1
+techos+boxer 1
+techos+de+acrilico+transparente 2
+techo+rebatible 1
+detalle+techo+corredizo 2
+como+preparar+el+para+un+techo+de+garage 1
+cerramientos+de+pvc+para+piscina 1
+techo+terraza 1
+techos+de+poliacrilico+corredizos 1
+ventanas+de+aluminio+para+ba%c3%b1o 1
+chapas+para+techo+interno+transparentes 1
+estructuras+de+hierro+para+techos 1
+redes+plasticas+protecciones+de+balcones 1
+techo+corredizo+terraza 1
+cielorrasos+suspendidos+de+aluminio+carra 1
+cerramientos+de+aluminio+villa+urquiza 1
+jardines+de+invierno 1
+techo+corredizo+peugeot+205 1
+accesorios+para+ventanas+de+aluminio+argentina 1
+protecci%c3%b3n+para+piletas+de+lona 2
+como+tapar+goteras+en+techo+de+policarbonato 1
+cerramientos+en+caseros 1
+cerramientos+de+policarbonato+capital+federal+y+pcia+de+buenos+aires 1
+cerramientos+industriales 1
+fabricacion+de+cerramientos+metalicos 1
+techo+de+policarbonato+precio 1
+caja+plastica+enrolla+hilo+para+techo+corredizo 1
+techos+corredizos+de+media+sombra 1
+alquiler+casas+con+jardin+de+invierno 1
+proteccion+de+balcones 2
+toldos+corredizos+de+policarbonato 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 493
+de 416
+cerramientos 172
+para 167
+techos 163
+aluminio 151
+policarbonato 109
+techo 97
+en 66
+vidrio 52
+aleros 46
+ventanas 39
+cerramiento 28
+corredizos 26
+precios 23
+con 23
+zona 22
+chapas 22
+corredizo 19
+balcones 19
+como 18
+alero 17
+un 17
+chapa 15
+capital 15
+villa 14
+arquitectura-dise%c3%b1os 1
+206 3
+puede 1
+toldo 2
+my 1
+laminas 1
+ventana 4
+martin 1
+ba%c3%b1o 1
+quinchos 8
+arco 1
+materiales 1
+pileta 1
+metro 1
+aislante 6
+e 1
+mosquiteros 1
+cuanto 2
+arreglo 5
+modena 1
+floresta 1
+costo 1
+colocaci%c3%b3n 2
+preparar 1
+repartido 3
+cirrediso 1
+alquiler 1
+terminacion 1
+www.techos-cerramientos.com.ar 2
+pajarera 2
+belgrano 6
+acr%c3%adlico 1
+calle 1
+tejido 1
+medidas 2
+garage 8
+expandido 2
+moreno 1
+cerraminetos 1
+reparacion 4
+claro 1
+tiradores 1
+www.alamaula.com 1
+l%c3%a1minas 1
+por 2
+templado 1
+claraboyas 1
+guardar 1
+construccion 2
+mabe 1
+interiores 1
+jardin 10
+se 2
+plegadizos 1
+lona 4
+cielorrasos 4
+fibra 7
+zamora 1
+fabricante 1
+telgopor 1
+lana 3
+way 1
+depiletas 1
+a 4
+estructura 2
+interno 1
+no 1
+pvc 5
+protecciones 1
+colocacion 2
+estructuras 2
+taller 1
+coloca 1
+argentina 7
+precio 8
+red 2
+ramos 1
+una 4
+paratecho 1
+mejor 2
+costa 1
+puedo 2
+diaz 1
+soldada 1
+estacionamientos 1
+protecci%c3%b3n 3
+ir 1
+flores 1
+postes 1
+invierno 9
+que 3
+patios 6
+baratas 1
+hacer 4
+y%5c 1
+polietileno 1
+san 1
+partes 2
+traslucidas 1
+webasto 1
+blanco 3
+bajo 2
+lomas 1
+puerta 3
+carpas 1
+martelli 3
+almagro 1
+poder 2
+recambios 1
+limpiar 1
+arq. 1
+don 1
+aleraos 1
+soportes 2
+cocheras 7
+sodimac 1
+auto 1
+as 1
+obertin 1
+ideas 1
+o 5
+metalicas 1
+constructivo 1
+lavaderos 1
+postigos 1
+transparentes 2
+tensores 1
+mamposteria 1
+livianos 1
+techosmovilesslu 1
+tapar 1
+hay 1
+rebatibles 4
+autos 11
+trascoucido 1
+ma%3cdera 1
+espuma 2
+casas 3
+parque 4
+aberturas 7
+nautica 1
+palets 1
+www.fabrica 1
+sunroom 1
+acrilicos 3
+carpinteria 11
+cocinas 1
+materia 1
+clasificacion 1
+piscina 1
+movible 1
+purtas 1
+vicente 1
+masilla 1
+del 3
+americano 2
+cerramietos 2
+hnos 1
+405 1
+puertas 8
+alumil 1
+plancha 1
+laminado 2
+antit%c3%a9rmico 1
+retractiles 2
+cupulas 1
+es 1
+empresa 2
+suspendidos 1
+caseros 2
+1 1
+tipo 2
+f%c3%a0brica 1
+policarbonatos 3
+vigas 1
+machimbre 2
+plegable 2
+sombra%3f 1
+service 1
+sombra 2
+metalico 1
+baratos 1
+mejia 1
+plasticas 12
+bow 1
+policarvonato 2
+tirantes 1
+construcciones 1
+modelos 1
+0.70 1
+blindex 2
+ca%c3%b1as 1
+www.cerramientos 1
+205 1
+raso 2
+pergolas 4
+cochera 1
+boulogne 1
+movil 2
+iso 1
+termicas 1
+patricios 1
+turdera 1
+enrolla 1
+sacar 1
+original 2
+detalles 1
+perfil 1
+v.urquiza 2
+tapizados 1
+necesito 1
+paraguay 1
+los 1
+vidriado 3
+estar 1
+epoque 1
+transparente 4
+sistemaspara 1
+termico 2
+xi 1
+invernadero 3
+y 14
+peugeot 4
+edificios 1
+picasso 1
+moron 1
+estructurales 1
+imagenes 3
+pared 1
+talar 1
+piscinas 2
+oeste 4
+pa%c3%b1os 1
+tipos 3
+techar 1
+caracteristicas 1
+alumninios 1
+gasebos 1
+guillotina 1
+fabricacion 1
+banderola 1
+caja 1
+mecanismosparatechoscorredisos 1
+accesorios 1
+plegadizo 1
+dise%c3%b1ar 1
+rollo 1
+catalogos 1
+ventiluz 1
+av 2
+caba 3
+cubiertas 8
+torcuato 1
+toldos 8
+lugano 1
+federal 14
+hojas 1
+piletas 6
+la 7
+cristal 4
+fijos 1
+plastica 2
+obra 1
+membrana 1
+ectruturales 1
+6061 1
+pcia 2
+arreglos 4
+armar 2
+asesoramiento 1
+perfiles 8
+redes 1
+taunus 1
+transitable 1
+arquitectura 2
+usadode 2
+grande 1
+carpinterias 3
+airesl 2
+metal 2
+cuesta 1
+profile 3
+vision 1
+oscurezcan 1
+canaletas 3
+pueyrredon 3
+planchas 2
+cerrramientos 1
+acrilico 4
+lopez 1
+antigranizo 1
+2 1
+compacto 1
+permitidos 1
+aislantes 1
+hacen 2
+modelo 1
+norte 8
+forjado 2
+mallas 3
+solucionar 1
+monte 1
+cacique 1
+ppoliuretano 1
+paneles 1
+espesor 1
+mesas 5
+fabricar 1
+full 1
+belle 1
+vidrios 8
+sin 1
+c 1
+serramientos 2
+detalle 3
+decks 1
+invernaderos 2
+placas 11
+pack 1
+bloques 1
+cabriolet 1
+c3 1
+casa 3
+planos 1
+medida 2
+cubreauto 1
+decorar 1
+hinvernaculo 1
+urquiza 5
+instalacion 2
+repuestos 2
+carra 1
+inclinacion 1
+eolicos 1
+lamanna 1
+graduable 1
+anodizado 1
+cerramie3ntos 1
+vinilo 1
+pisar 2
+mision 1
+villacrespo 1
+cubretecho 1
+prefabricados 1
+efecto 1
+habitaciones 2
+plastico 9
+200x150 1
+aireador 1
+usados 1
+falso 1
+tejas 1
+plasticos 1
+deck 1
+hierro 14
+acanalada 3
+termicos 1
+industriales 2
+alumnio 2
+quilmes 1
+vidriadas 2
+warnes 2
+fabrica 9
+pintar 1
+plastic 1
+alto 1
+conceguir 2
+viviendas 1
+uriburu 1
+poco 1
+union 1
+garajes 1
+jardines 1
+bavon 1
+207 1
+coghlan 1
+motor 5
+bs 1
+negocio 1
+m%c3%b3dena 1
+rebatible 3
+hierros 1
+prefabricadas 2
+especiales 1
+residencia 1
+coupe 1
+lavadero 1
+metalica 3
+negociosdecerramientos 1
+listones 1
+venta 7
+lugar 1
+livianas 1
+ver 1
+piramidal 1
+lanus 3
+berazategui 1
+verticales 1
+alberdi 2
+garaje 1
+mercadolibre 1
+tgechos 1
+lluvia 1
+donde 2
+abri 1
+cesar 1
+antiguo 1
+ceramiento 2
+306 1
+clases 1
+yvidrio 1
+buenos 13
+electrico 2
+hilo 1
+goteras 1
+terraza 4
+media 3
+vinilico 1
+cables 1
+vetanas 1
+cielo 2
+galerias 3
+patio 7
+poliuretano 6
+plataforma 1
+sur 6
+dise%c3%b1o 1
+regillas 1
+telas 2
+cortinas 2
+ni%c3%b1os 1
+alucobond 1
+balcon 4
+desmontables 4
+aires 11
+caballito 3
+plegables 7
+revestimiento 2
+herreria 1
+poliacrilico 3
+herrajes 1
+ca%c3%b1os 1
+banfield 1
+construir 2
+1.70 1
+universitaria 1
+window 1
+solar 3
+alveolar 3
+iguales 1
+terrazas 7
+metalicos 5
+repuesto 1
+integrales 1
+9001 1
+empresas 1
+veleros 1
+mitades 1
+reforzado 1
+2300 1
+proteccion 7
+boxer 1
+apolo 2
+alambre 1
+cerrar 1
+oficinas 1
+malla 2
+el 7
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 93 4920695
+406 17 6639
+404 2362 613064
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 24
+/fancybox/fancy_shadow_s.png 138 -
+/fancybox/fancy_shadow_sw.png 138 -
+/apple-touch-icon-precomposed.png 3 -
+/fancybox/fancy_title_over.png 31 -
+/fancybox/fancy_shadow_w.png 138 -
+/images/cerramientos_1/WS_FTP.LOG 1 -
+/robots.txt 1177 -
+/apple-touch-icon.png 4 -
+/fancybox/fancy_nav_left.png 3 -
+/fancybox/fancy_loading.png 4 -
+/images/divisores 3 -
+/fancybox/fancy_close.png 3 -
+/fancybox/fancy_shadow_e.png 138 -
+/fancybox/fancy_nav_right.png 3 -
+/fancybox/fancy_shadow_n.png 138 -
+/fancybox/fancy_shadow_se.png 138 -
+/images/tabiques%20divisores/WS_FTP.LOG 12 http://cerramientostechos.com.ar/galeria.php
+/images/tabiques 3 -
+/fancybox/fancy_shadow_nw.png 138 -
+/images/invernaderos/WS_FTP.LOG 1 -
+/js/fancybox/'+d.href+' 4 -
+/fancybox/fancy_shadow_ne.png 138 -
+/browserconfig.xml 5 -
+/js/fancybox/'+c+' 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 887
+190.195.127.172 35 821 14174829 20131206124525
+200.16.89.6 28 971 20306645 20131212074344
+66.249.85.189 25 293 4119704 20131227233212
+190.189.236.156 25 780 11862471 20131202090751
+66.249.82.239 24 515 5549627 20131229003936
+190.195.65.56 23 497 3507845 20131218150412
+200.5.126.132 23 393 1961816 20131226030644
+201.231.170.48 21 617 5695668 20131209070455
+200.82.98.154 20 728 10612122 20131222130736
+186.56.174.149 20 642 9916731 20131205133253
+66.119.41.34 20 20 58163 20131219102513
+190.30.226.187 20 936 0 20131231180303
+190.16.219.188 19 493 3503581 20131219133651
+190.19.78.249 19 591 16639901 20131218121334
+201.254.56.95 19 596 17109748 20131223083241
+200.1.118.115 18 516 5434593 20131212053509
+190.48.85.102 18 594 11254505 20131203134554
+190.195.38.10 18 356 4174201 20131206110313
+200.81.44.30 17 378 4077076 20131211115459
+190.188.188.237 17 379 4121293 20131212054957
+200.41.161.216 16 568 6476400 20131203072634
+190.194.3.203 15 488 6001272 20131218062609
+186.19.111.109 15 286 4119494 20131202070707
+200.5.90.179 14 353 3608612 20131204072419
+190.50.156.24 14 538 7049272 20131213065546
+131.253.36.206 1 4 32806 20131224185154
+186.19.51.122 3 72 795815 20131205075349
+200.45.195.230 5 149 1081526 20131209104331
+200.49.193.196 2 11 140968 20131223143535
+190.208.133.182 0 1 126221 
+150.70.172.200 1 2 86213 20131212115122
+190.30.66.193 2 23 347284 20131211134411
+190.113.135.66 0 1 52075 
+65.55.212.81 0 2 0 
+190.55.103.164 2 23 347284 20131206105907
+186.22.201.218 2 23 347247 20131205100927
+65.55.212.65 0 6 9008 
+201.213.77.116 2 23 347273 20131218115637
+186.21.120.174 0 1 127733 
+65.55.212.86 0 3 0 
+190.195.165.72 4 126 1891659 20131205102645
+164.77.211.200 0 1 126221 
+186.140.118.245 2 23 308957 20131203082719
+186.22.237.126 10 241 1653188 20131206071252
+186.0.87.194 0 1 107777 
+181.116.192.64 4 102 956764 20131204065552
+190.173.126.120 2 23 347284 20131205054922
+190.245.117.100 7 301 5798715 20131211110624
+181.165.214.76 2 106 714578 20131205111825
+186.18.141.36 2 23 347284 20131219133408
+190.16.98.64 8 405 8701122 20131212125037
+201.252.43.55 4 144 2653403 20131209085738
+190.247.47.47 4 162 2514489 20131210130339
+200.70.35.2 9 298 2633474 20131209075913
+201.144.162.20 0 1 126184 
+186.56.176.55 2 23 347210 20131218093416
+200.27.29.74 0 1 39455 
+181.95.156.101 11 325 8338786 20131223063446
+190.193.131.174 4 125 1191282 20131202101452
+201.216.203.149 2 23 347247 20131218122633
+190.3.111.36 1 10 125974 20131206104829
+179.47.142.224 0 1 127696 
+186.128.70.13 0 1 52075 
+201.255.228.107 5 61 1060119 20131210111114
+186.19.199.251 3 29 565111 20131212125652
+157.92.4.76 5 266 4069516 20131204063354
+186.19.45.193 2 23 347284 20131204091853
+200.125.110.77 3 92 701919 20131204101217
+200.45.16.139 6 160 1519108 20131218120441
+200.117.172.180 2 25 433656 20131205083128
+201.235.77.15 4 173 3942426 20131202075420
+200.68.71.77 2 23 347284 20131203103911
+150.70.173.45 1 1 8082 20131209075928
+186.134.213.245 7 154 3853489 20131212094142
+190.230.183.161 5 143 2354661 20131203093218
+190.225.157.201 4 136 872964 20131202102714
+190.138.33.169 5 130 2305575 20131220101347
+201.215.84.36 0 1 126221 
+190.177.183.30 0 1 53758 
+173.252.113.115 1 1 341931 20131227045303
+200.114.228.29 9 224 1646083 20131210084037
+186.19.148.5 2 23 443981 20131212074904
+64.76.6.93 3 30 498940 20131219114014
+201.231.181.197 7 236 2191694 20131210132228
+200.70.14.213 3 29 542007 20131219081521
+190.104.214.164 2 23 347284 20131219102631
+190.2.39.173 3 29 530223 20131211080620
+74.47.102.95 0 1 127733 
+190.57.220.146 0 1 81909 
+200.86.110.195 0 1 126221 
+190.188.43.196 8 243 5202686 20131218134947
+65.55.218.55 0 13 45243 
+190.231.146.15 2 23 347284 20131203113257
+190.17.252.123 2 23 347247 20131206123834
+190.189.63.91 4 112 1097762 20131203083430
+5.9.113.18 1 1 2341 20131207114903
+65.55.218.35 1 9 38643 20131206111850
+186.19.74.154 2 23 347247 20131204075427
+181.29.39.102 3 30 534488 20131210071356
+186.108.79.132 2 25 364965 20131211132659
+181.29.108.235 3 24 349625 20131202110914
+200.68.102.225 2 23 345996 20131202085050
+190.48.238.95 3 28 562369 20131205050632
+200.127.152.147 2 23 347284 20131204075250
+200.114.128.5 9 292 2485269 20131202090024
+199.67.138.49 1 9 47272 20131211114712
+190.231.53.227 0 1 81909 
+181.72.165.194 0 1 126221 
+186.136.78.99 5 125 1156225 20131204132721
+190.221.48.74 5 114 1069396 20131204091435
+200.51.46.131 11 414 6702417 20131219134527
+189.214.138.9 0 1 126221 
+190.48.21.10 4 165 2929184 20131213052009
+181.168.51.88 2 23 347284 20131223133541
+190.255.15.111 0 1 126221 
+201.255.14.165 9 289 2434471 20131211125026
+190.176.131.78 0 1 52075 
+181.108.3.247 0 2 183129 
+65.55.211.247 1 13 39356 20131218105822
+190.13.209.186 8 263 5388229 20131203111212
+200.4.69.154 13 205 3743169 20131218131906
+201.255.83.143 2 23 347284 20131217083412
+170.155.15.4 0 1 39455 
+200.114.157.55 11 229 1805828 20131209055743
+181.14.147.240 4 123 1562136 20131205051307
+32.59.64.215 0 1 0 
+201.250.98.126 9 329 2632375 20131209094055
+181.29.220.151 2 23 347210 20131206102803
+200.5.78.66 0 9 0 
+190.12.113.133 4 143 1083530 20131206051248
+66.249.84.191 8 97 1641728 20131213103224
+181.95.160.176 2 23 347284 20131211115639
+186.23.200.103 2 23 347284 20131211092005
+181.95.182.129 7 118 4861036 20131211061621
+190.226.86.74 2 31 571508 20131212074715
+186.136.118.120 5 80 2003238 20131205062212
+190.188.169.49 3 24 349625 20131205115917
+131.253.26.228 1 4 296155 20131216133936
+186.134.63.133 0 1 52075 
+190.245.42.137 4 185 4834850 20131209153722
+190.220.6.11 1 20 246574 20131203134403
+190.48.203.199 4 143 1183862 20131211124412
+190.191.240.192 5 200 2351043 20131220083644
+200.41.238.14 1 7 130430 20131205082207
+150.70.97.125 1 1 8064 20131220113047
+186.18.248.52 3 29 565111 20131203091938
+65.55.212.77 0 13 45243 
+190.137.28.93 2 23 347284 20131223140232
+190.17.238.106 4 25 360000 20131210111025
+181.172.167.91 0 1 126165 
+186.124.201.51 2 23 347284 20131211103834
+190.192.104.111 2 23 347284 20131210072417
+208.80.194.121 1 1 8028 20131211073232
+181.28.135.152 2 23 347247 20131211111541
+190.30.167.190 3 27 495331 20131204091601
+190.48.237.80 3 24 349625 20131202113524
+190.3.105.34 3 24 452126 20131209120952
+190.195.163.120 2 24 347853 20131211085531
+186.0.207.78 0 2 254180 
+181.166.214.30 1 2 4132 20131229182030
+186.134.42.79 4 120 927370 20131218092722
+187.237.107.158 0 3 262095 
+201.216.229.205 2 23 347247 20131202130822
+200.1.116.50 2 23 346041 20131212112651
+65.55.217.55 3 19 57610 20131217123039
+201.234.29.25 4 142 1686735 20131218100518
+181.47.69.8 4 128 2009145 20131212142453
+181.47.76.235 3 28 450235 20131212093738
+186.13.7.153 2 25 349346 20131210151510
+131.253.24.152 0 3 9385 
+200.32.104.79 4 60 675395 20131206123702
+65.55.218.168 3 19 57647 20131209082825
+200.127.147.100 7 182 2091234 20131202101140
+190.230.181.107 6 162 1247254 20131205130153
+190.118.197.107 0 1 107777 
+186.136.177.48 7 242 1767918 20131202125006
+181.28.49.213 5 181 1531837 20131211094311
+209.13.97.107 2 23 347247 20131223104214
+186.136.146.192 0 1 51378 
+190.143.6.88 0 1 107777 
+190.18.76.176 6 125 1080126 20131202075354
+150.70.173.44 1 1 8090 20131211071733
+181.95.125.32 5 180 2755194 20131218144231
+88.19.84.233 0 1 126221 
+189.152.251.3 0 1 107721 
+201.231.182.152 2 23 347284 20131223142143
+181.29.24.184 3 30 566136 20131219062515
+186.59.70.14 0 2 75718 
+200.189.226.67 0 1 21960 
+65.55.212.88 1 1 341894 20131224001606
+190.220.0.21 2 23 347284 20131205102627
+186.19.224.233 6 114 1102444 20131219134822
+186.59.190.95 2 23 347284 20131223124232
+190.3.16.230 0 1 52075 
+190.231.142.92 4 142 1428357 20131212113819
+202.46.63.69 1 1 8097 20131211022111
+190.221.184.186 3 50 1205803 20131209092753
+190.50.165.233 2 24 348194 20131223144026
+131.253.24.134 1 8 40761 20131229151134
+190.179.3.111 5 141 2438957 20131202103823
+168.226.40.228 7 136 1562027 20131205100621
+131.253.26.252 1 7 414584 20131224030314
+186.128.69.236 0 2 133984 
+150.70.64.209 1 2 28373 20131210103513
+190.175.19.138 2 24 348447 20131204072104
+150.70.75.38 1 1 8028 20131209122742
+186.23.135.167 6 271 5091550 20131202061320
+186.61.1.206 5 253 10522907 20131220151401
+186.109.88.192 6 82 799523 20131206111251
+190.231.136.198 5 169 3338002 20131212075045
+200.127.146.234 2 23 347284 20131210120748
+157.92.4.75 2 2 12716 20131204091217
+181.1.101.150 2 23 347284 20131210055346
+190.139.17.38 2 26 401228 20131210063831
+190.12.100.5 2 23 347284 20131203102431
+24.232.238.208 9 260 4879432 20131212152924
+157.92.4.71 4 25 359853 20131203075323
+186.9.134.51 0 1 126221 
+186.18.232.108 10 323 2783077 20131219070806
+190.178.28.59 0 2 75718 
+186.58.141.52 2 23 347284 20131220071755
+181.27.163.234 2 23 347210 20131220135519
+181.164.40.203 11 330 2576239 20131213072615
+200.114.243.29 3 41 479446 20131219113909
+181.29.146.3 2 23 347210 20131219083151
+201.212.76.183 2 23 347284 20131203123717
+190.172.91.98 6 33 565138 20131213090907
+150.70.97.116 0 1 988 
+200.49.66.41 2 31 571312 20131211105555
+190.247.214.242 2 23 347284 20131209102720
+186.63.7.23 2 23 347284 20131223122107
+186.22.26.88 5 147 1777312 20131212143035
+190.231.103.49 2 23 347210 20131218134948
+181.164.252.95 0 3 293981 
+186.124.47.152 2 23 347284 20131212093523
+186.67.71.15 0 1 126221 
+186.22.77.55 9 368 3165601 20131209125614
+200.69.249.77 10 150 1122395 20131213074844
+190.245.238.246 7 182 2211055 20131212065743
+190.179.4.123 0 1 127090 
+200.55.99.66 4 130 1345010 20131209054128
+190.16.185.53 1 1 2341 20131210103248
+190.245.224.190 4 46 694568 20131205074518
+200.112.82.24 0 2 252442 
+190.19.86.100 3 3 7023 20131203154538
+201.235.48.16 7 200 2005785 20131223084420
+190.175.34.146 0 2 168519 
+201.254.107.140 11 424 5653672 20131206091321
+65.55.218.38 0 16 11684 
+186.13.0.27 2 23 347247 20131205111800
+181.167.23.73 8 177 1809046 20131209102113
+186.136.77.90 2 23 347247 20131203130814
+181.166.236.60 3 29 516155 20131206115124
+190.19.26.170 2 23 347284 20131211095401
+190.247.156.214 2 23 347284 20131218123211
+190.55.80.212 2 23 347284 20131204150853
+190.111.232.144 2 23 347284 20131210124047
+181.29.1.90 5 154 1311058 20131203072847
+190.183.221.246 0 2 103453 
+190.139.32.141 0 1 126221 
+181.47.53.186 5 140 1038449 20131203051150
+200.3.94.27 5 186 1935840 20131211111454
+201.251.185.130 5 115 1264688 20131202081453
+200.123.144.65 2 23 347284 20131220061135
+65.55.218.41 0 4 0 
+186.23.217.13 2 23 347247 20131221111140
+186.19.191.2 14 616 5773332 20131203120018
+190.229.173.153 13 280 1964464 20131213083232
+190.221.178.10 7 173 1204896 20131210051453
+186.19.251.187 2 23 347284 20131219140529
+190.31.228.236 0 1 39455 
+190.192.215.130 9 175 1593626 20131205083603
+186.129.136.233 8 285 6321945 20131210081013
+201.254.38.88 4 158 2516890 20131206124117
+150.70.97.122 1 1 8031 20131210103403
+181.28.231.165 2 23 347284 20131212120348
+181.0.20.81 0 2 137496 
+131.253.24.146 0 4 8030 
+181.29.7.209 2 23 347284 20131212110237
+201.255.240.115 0 2 75718 
+200.49.143.171 2 23 347284 20131203083354
+200.80.198.7 0 1 0 
+200.41.233.66 12 338 5028928 20131218063323
+190.221.57.122 10 295 4263420 20131210132708
+190.244.255.115 4 112 1097540 20131206105132
+186.58.62.190 4 152 2047588 20131211065356
+190.111.201.83 2 23 347284 20131202094021
+190.21.167.73 0 1 126221 
+190.55.251.202 2 25 349321 20131219072357
+181.167.127.13 2 23 347284 20131219095343
+190.245.237.30 5 123 1397543 20131220070132
+181.165.111.208 5 99 1041736 20131218114916
+201.251.182.130 2 23 443993 20131204072844
+190.210.104.132 4 101 2337193 20131202105722
+190.221.14.20 8 238 1807864 20131210122931
+186.46.5.2 0 1 126079 
+201.231.193.108 6 156 1408948 20131203112103
+65.55.219.166 2 61 600143 20131205220322
+190.30.228.162 2 23 347284 20131220072840
+201.234.99.83 5 114 945670 20131219112727
+150.70.172.108 1 3 101743 20131220113236
+181.15.246.206 0 4 100940 
+200.114.253.8 10 381 6264742 20131204091319
+150.70.172.205 4 4 32112 20131211111739
+200.0.196.171 4 149 1944922 20131204132539
+190.226.70.183 0 1 85388 
+167.252.151.73 0 48 0 
+190.49.209.61 4 185 2864410 20131204064658
+24.232.187.238 1 40 1136159 20131202170651
+190.50.159.235 4 137 1309684 20131210081927
+65.55.212.95 1 5 4537 20131213191833
+201.250.112.186 2 23 347284 20131219074841
+200.41.237.69 5 75 1641745 20131209121119
+189.200.76.220 0 1 96756 
+179.49.109.254 0 1 107777 
+200.41.65.50 0 4 0 
+190.172.88.243 4 136 911775 20131203080612
+188.165.195.156 5 5 600 20131231142839
+200.16.99.231 8 228 3197969 20131218071908
+190.229.198.111 0 1 126221 
+201.222.135.153 0 1 126165 
+131.253.26.255 1 11 190848 20131224185222
+190.104.197.26 4 25 359890 20131203130612
+24.232.216.52 6 162 2320838 20131206105332
+181.167.23.85 2 23 347284 20131213083415
+200.70.5.168 4 125 1447947 20131209145655
+200.70.57.146 2 31 571254 20131211070711
+181.30.6.137 0 1 126221 
+190.16.103.115 4 134 909637 20131203122836
+201.216.231.205 4 25 360000 20131202141748
+190.124.14.25 0 1 92358 
+200.47.112.92 2 135 774444 20131218102748
+190.136.44.194 0 1 81909 
+190.226.181.208 2 23 347284 20131206080718
+190.30.228.30 7 56 842379 20131202064130
+190.16.224.207 4 105 753814 20131211103746
+186.16.135.158 0 1 126165 
+65.55.211.246 1 7 14568 20131224001531
+186.12.251.6 3 30 537208 20131209072937
+200.47.32.134 1 7 71031 20131202062713
+181.95.118.39 2 23 347247 20131213094743
+190.192.118.147 7 317 2469208 20131218105650
+173.252.112.113 1 1 18824 20131227045146
+66.249.85.218 1 17 92845 20131226160954
+24.232.31.165 9 191 3676973 20131220133233
+186.142.87.40 4 138 1310366 20131206100206
+181.95.147.149 5 57 807692 20131210053751
+190.51.145.210 2 23 347284 20131209093744
+190.49.208.75 4 64 600134 20131219125632
+181.164.50.25 9 277 5244355 20131209123616
+190.51.224.180 2 23 347210 20131209121457
+181.28.120.138 7 128 1485532 20131203135437
+201.255.233.9 4 92 1059166 20131203130643
+190.193.129.108 2 23 347199 20131206070023
+186.23.40.144 2 23 347284 20131206071345
+190.136.221.182 14 321 5187809 20131203082827
+201.251.63.27 8 257 2399887 20131206064241
+200.72.190.209 0 1 126221 
+200.63.167.185 1 130 1933890 20131226115210
+190.193.129.249 0 18 239011 
+200.16.80.9 10 265 4403051 20131209085533
+200.16.89.3 8 116 1860825 20131219074518
+186.22.104.158 4 80 1976530 20131205114926
+190.137.239.76 1 1 2341 20131202131816
+150.70.97.97 1 1 8101 20131209122648
+187.153.0.157 0 1 78512 
+200.126.176.169 6 180 4699774 20131212123713
+190.2.38.149 6 166 2877988 20131205103038
+190.111.246.165 8 310 9585487 20131206094655
+181.166.213.100 2 23 347247 20131219061910
+186.18.228.88 2 19 323860 20131210082454
+65.55.217.53 3 19 57647 20131207172745
+190.55.56.110 6 231 1983104 20131212125504
+201.252.202.7 0 1 81909 
+186.182.173.43 2 23 347273 20131213082111
+186.61.23.210 3 24 349625 20131210130400
+186.19.132.49 11 561 14377565 20131218055449
+190.244.220.3 4 108 1137801 20131218120324
+200.117.47.228 0 1 81909 
+190.111.232.71 10 267 1802116 20131209110313
+190.55.189.245 4 114 1102067 20131209112656
+201.176.7.238 3 70 1380655 20131202131051
+186.19.146.130 2 23 347284 20131205093350
+181.109.53.8 0 2 150168 
+190.19.129.47 2 25 349431 20131218080015
+186.136.81.151 8 290 5469353 20131218143341
+190.210.17.29 4 146 1522530 20131219074629
+177.224.227.70 0 1 126221 
+190.18.177.237 2 23 347284 20131203125734
+190.247.5.142 11 276 2097711 20131213070615
+200.45.19.66 7 165 2140026 20131206085858
+201.252.39.196 2 23 347247 20131203104345
+186.136.45.109 3 30 566226 20131210131149
+186.109.209.79 3 29 415608 20131213071022
+190.173.126.136 3 39 428941 20131212120917
+190.194.218.6 2 28 553056 20131212125015
+200.127.155.162 1 1 2341 20131209105316
+168.101.134.13 0 136 1504300 
+186.59.212.163 0 1 126221 
+168.101.49.119 0 140 1970624 
+131.253.26.239 0 2 0 
+186.54.145.150 0 1 126221 
+190.103.236.196 0 1 126221 
+186.19.95.225 9 273 2316262 20131205075315
+201.235.171.17 7 76 596902 20131219081244
+201.252.80.59 2 23 347247 20131209092749
+186.18.227.241 2 23 347247 20131213093557
+200.43.79.162 13 250 2005866 20131202124900
+190.49.202.77 4 154 2459751 20131204080148
+201.235.142.97 7 169 5388444 20131212062458
+186.137.168.183 8 107 2727571 20131202092246
+181.134.231.218 0 1 23670 
+186.22.148.225 3 67 950078 20131205090227
+190.220.215.212 3 55 1305876 20131218110248
+65.55.219.155 2 58 583375 20131216153314
+200.125.124.14 9 195 2571944 20131219143702
+190.2.33.137 3 90 697540 20131206052818
+200.45.250.68 11 476 6947658 20131204094623
+181.27.146.147 3 29 565074 20131220124238
+150.70.173.41 0 1 1508 
+186.137.195.183 2 23 347284 20131209075404
+186.170.247.32 0 1 81909 
+190.195.105.195 7 161 2457167 20131220133858
+131.253.24.156 0 10 11528 
+186.103.172.154 0 1 126221 
+186.118.32.243 0 1 126221 
+186.63.69.31 3 48 478260 20131204092717
+200.5.196.72 5 236 1902136 20131203093957
+189.148.43.108 0 1 127733 
+201.254.37.13 2 23 347173 20131213063004
+190.17.236.150 2 23 347284 20131206091223
+65.55.212.94 0 4 9396 
+200.45.71.19 3 24 357659 20131210060122
+186.124.43.204 2 23 347284 20131206071107
+190.139.96.203 13 542 3958720 20131211062612
+190.230.210.251 0 1 55331 
+186.13.2.203 9 79 722692 20131212073209
+200.63.170.139 0 103 0 
+200.1.117.20 10 248 2103229 20131213091001
+186.58.101.91 3 28 562369 20131210145118
+201.254.49.106 2 23 347284 20131210131619
+186.136.189.20 2 23 347284 20131220071008
+181.167.40.68 5 135 2184457 20131212063144
+181.29.7.21 2 23 347284 20131206082307
+150.70.172.102 1 3 25534 20131219134544
+186.122.45.134 2 23 347247 20131218145022
+186.106.160.43 0 1 126221 
+190.194.196.124 6 200 2593926 20131211092751
+190.19.86.34 2 23 347284 20131209123730
+200.68.75.13 2 35 409677 20131213115013
+181.46.254.209 5 185 5286771 20131213063238
+186.134.132.179 2 23 347284 20131209100328
+200.45.253.66 2 31 571360 20131212075630
+200.61.185.241 12 239 2451382 20131212084954
+181.167.62.71 3 39 428978 20131212081929
+150.70.97.114 1 1 8094 20131205082507
+200.16.89.7 11 431 7049057 20131204095621
+190.226.186.14 4 145 1558548 20131216060949
+190.221.136.10 4 133 2529253 20131209120204
+200.50.63.193 0 1 126221 
+181.31.48.22 2 23 347284 20131223112149
+200.82.70.23 3 24 348338 20131212112409
+200.61.166.170 4 26 361126 20131205085039
+181.1.44.8 5 76 1161439 20131219153933
+186.153.40.216 4 155 2360264 20131202082805
+186.18.129.184 6 85 1099927 20131211141432
+200.89.141.226 2 137 1203866 20131220095727
+200.41.140.194 4 25 331510 20131220071251
+190.51.68.32 2 24 348246 20131206083458
+177.232.157.181 0 2 252442 
+200.117.174.127 2 23 347284 20131212061703
+150.70.97.99 1 1 8094 20131210090524
+186.137.114.61 3 91 710246 20131212074246
+201.144.99.118 0 1 92460 
+199.30.17.49 0 2 3299 
+181.95.16.92 2 23 347284 20131203085237
+186.56.235.74 2 23 347284 20131219081013
+209.13.158.2 4 134 909590 20131218054738
+201.231.192.138 4 141 1088313 20131206084811
+190.190.190.223 3 40 430036 20131203114048
+186.59.223.71 0 1 126221 
+200.70.22.219 2 25 349468 20131219074542
+201.250.19.151 2 25 408203 20131205135733
+200.5.92.168 1 70 608177 20131210114353
+186.13.7.133 3 29 484280 20131219093433
+190.55.194.50 10 255 2944400 20131219141159
+190.18.155.142 7 243 2945824 20131212135903
+190.111.232.135 4 120 1358970 20131220073527
+190.216.7.212 0 2 171708 
+190.220.13.234 6 172 1289961 20131205050752
+190.1.39.187 0 1 127733 
+181.46.111.148 2 23 347273 20131209072822
+190.0.167.101 0 1 126221 
+190.19.106.34 7 243 3097667 20131205104703
+190.18.149.211 1 15 189153 20131205082516
+187.61.65.146 5 96 1425422 20131219071419
+200.5.92.175 3 60 424155 20131210114430
+200.68.112.41 2 25 435611 20131219070459
+190.195.86.124 2 23 353046 20131219061144
+186.125.83.251 0 1 126221 
+200.125.117.126 4 143 1340196 20131209072848
+186.137.73.219 9 412 5593963 20131218115259
+190.2.63.45 0 1 126221 
+200.41.171.250 4 135 2891465 20131206132630
+200.80.174.41 1 1 2341 20131209074253
+201.253.242.107 11 271 2070210 20131219134800
+186.129.254.28 1 34 545187 20131210054814
+200.81.38.238 1 11 143703 20131210142542
+181.119.28.58 3 39 429004 20131219131633
+186.65.32.30 0 2 204533 
+190.18.184.100 6 248 1963012 20131211105118
+200.82.107.16 4 137 1010983 20131205084505
+200.126.162.54 2 23 347284 20131219111826
+190.103.11.73 8 211 1800503 20131211045044
+190.192.169.175 4 143 1330800 20131204052012
+181.31.71.65 12 266 4893728 20131231091951
+200.63.162.194 0 32 799167 
+190.192.116.40 2 23 347284 20131212130301
+181.31.211.146 2 23 347247 20131212065255
+186.129.18.211 12 522 5367593 20131204071950
+190.192.131.81 8 400 6167685 20131203100401
+190.19.58.174 2 24 348268 20131205061023
+186.13.4.165 2 23 345996 20131211124040
+186.56.214.113 2 23 347284 20131212132707
+186.109.85.112 3 49 492021 20131220051153
+200.89.131.210 2 23 443956 20131212074933
+190.231.82.235 3 97 802518 20131218075658
+187.202.103.246 0 1 126221 
+190.220.2.182 7 130 908549 20131218133545
+200.117.159.92 0 1 126221 
+66.249.82.154 4 56 344881 20131226165639
+200.117.213.15 0 1 126221 
+190.2.36.41 4 141 1361788 20131204083307
+201.234.37.17 8 247 1887034 20131204080744
+150.70.173.46 0 1 15905 
+190.220.12.194 3 53 1427013 20131203085902
+186.61.43.17 0 1 126221 
+190.173.105.94 2 23 347284 20131211080420
+201.231.129.77 2 23 347247 20131209100951
+186.61.33.223 2 23 347136 20131212060705
+131.253.26.254 1 5 37546 20131221183655
+181.47.172.254 4 154 1533596 20131212100220
+65.55.212.72 0 2 8407 
+150.70.173.39 2 2 16179 20131211072504
+186.56.244.217 3 28 444460 20131206105040
+201.250.119.123 2 23 347284 20131203132538
+201.250.148.189 2 23 347284 20131218141518
+190.105.95.214 5 125 1447825 20131204091110
+200.41.162.110 2 23 347284 20131213091952
+168.101.48.4 4 14 642982 20131206084947
+201.235.133.233 2 23 347284 20131218141628
+181.47.170.110 4 70 1294652 20131202075859
+190.17.185.61 2 24 348447 20131206073657
+186.56.180.138 2 23 347247 20131210075601
+201.127.22.152 0 1 83855 
+200.71.235.146 5 139 1057478 20131202132052
+186.135.19.46 0 1 39455 
+190.16.36.180 2 23 347210 20131218123159
+181.29.151.32 0 1 126221 
+190.195.174.69 2 23 347247 20131219111334
+89.140.244.217 0 1 28756 
+190.174.202.192 9 213 1333074 20131212131248
+190.173.44.176 4 159 2623871 20131205062406
+190.189.57.38 5 180 4285296 20131212123035
+200.111.47.155 0 1 126221 
+200.5.102.87 3 104 1042238 20131209090832
+201.252.35.11 11 243 1618468 20131219060510
+190.174.33.194 4 149 1650652 20131205063417
+186.114.252.198 0 1 96756 
+190.179.39.251 0 1 78512 
+201.216.198.226 3 26 352901 20131202083556
+181.47.221.74 3 24 349625 20131210070735
+190.104.213.14 2 23 347284 20131205073526
+186.122.61.158 6 153 3143608 20131209213633
+68.198.193.253 2 23 347284 20131204104455
+200.68.121.179 2 23 347284 20131202082238
+24.232.68.161 2 23 347236 20131209110231
+201.216.207.89 7 178 1333257 20131203073811
+190.188.200.37 4 124 1531605 20131223052511
+190.221.57.202 4 138 1026550 20131204073507
+186.19.59.222 2 23 347284 20131213100916
+190.136.177.184 2 24 401884 20131203102059
+168.226.218.104 7 155 1421956 20131209090052
+150.70.97.98 0 1 20230 
+186.63.20.88 2 24 348220 20131211140556
+186.136.213.209 4 112 1097651 20131219123102
+186.136.66.70 6 100 1637820 20131206082128
+200.69.205.81 2 25 349431 20131209095059
+65.55.212.70 0 13 44448 
+186.13.7.95 10 373 3373325 20131204090516
+181.1.228.137 7 62 995458 20131218131249
+200.127.149.51 5 113 1106437 20131209085800
+186.12.119.118 3 24 350891 20131211083107
+201.213.78.192 2 23 347284 20131203062532
+186.57.171.151 8 234 1965238 20131212144410
+190.138.227.76 2 24 348268 20131203094916
+200.5.102.111 2 23 443970 20131210103257
+186.23.21.10 12 452 4070505 20131220123303
+190.228.147.147 2 24 348231 20131206090719
+186.141.1.115 2 23 347236 20131210104802
+190.18.43.73 9 401 3478202 20131213101146
+201.250.119.185 5 174 2951057 20131209095343
+200.123.98.50 6 208 1758810 20131202112856
+186.56.245.165 2 23 347247 20131202111049
+200.4.25.56 0 1 81799 
+186.60.214.170 6 66 1687425 20131219115519
+190.12.106.203 5 201 3224111 20131210112800
+200.45.8.46 8 325 5001730 20131213100629
+199.30.24.140 0 4 23452 
+200.126.254.143 2 23 347284 20131211133409
+181.95.108.14 2 23 347247 20131209063314
+190.139.111.11 3 62 768764 20131203134419
+190.230.14.10 2 23 347284 20131203132757
+190.173.100.170 3 92 701845 20131206110721
+84.125.189.146 0 1 88069 
+181.29.128.141 7 286 3401251 20131213092841
+186.125.52.242 0 1 126221 
+181.29.217.153 1 29 285305 20131222002459
+186.58.205.227 9 185 1805682 20131202114043
+200.59.51.53 10 144 1273054 20131212062711
+190.19.29.86 14 480 3197194 20131204093815
+200.89.247.176 0 1 81909 
+190.174.6.200 3 29 542436 20131218061330
+200.89.131.154 5 160 1824436 20131202095717
+190.55.44.21 2 23 347284 20131213085046
+202.46.52.133 1 1 8120 20131228073536
+190.188.7.75 5 109 931053 20131202082734
+201.220.243.121 0 2 252442 
+190.195.82.119 2 23 347273 20131205111850
+190.173.36.224 3 25 350788 20131218120021
+201.252.91.40 4 127 1426055 20131206131701
+186.129.216.15 2 23 347210 20131206131919
+81.38.140.58 0 1 107777 
+186.59.11.121 0 1 126221 
+181.125.18.17 0 1 126221 
+190.173.64.35 2 23 347210 20131205111436
+186.34.82.18 0 1 80760 
+186.57.33.18 12 360 10130981 20131205074802
+190.138.0.169 0 2 103453 
+200.41.225.76 2 2 4682 20131210082204
+200.69.217.213 7 117 1916259 20131203104544
+186.125.93.162 0 1 126221 
+186.18.200.203 2 23 347284 20131211071056
+190.221.15.114 10 371 5465607 20131206101154
+201.252.131.136 0 1 52075 
+201.250.59.209 8 211 2607552 20131202101816
+190.175.77.201 0 1 126221 
+131.253.26.226 0 4 0 
+200.123.162.69 5 152 1963628 20131203085312
+65.55.212.73 1 4 31648 20131221070107
+181.14.182.31 0 1 107777 
+150.70.173.47 2 2 16168 20131219134019
+181.31.222.165 0 1 77036 
+190.136.32.139 3 62 536103 20131206123705
+150.70.97.69 1 1 8084 20131210093343
+200.41.178.226 6 124 77728 20131210040417
+131.253.26.249 0 2 0 
+200.68.88.217 4 25 360000 20131206101829
+200.71.232.209 14 283 6642991 20131209125425
+190.162.214.197 0 1 88125 
+186.129.34.60 5 142 2187568 20131202075356
+181.168.194.86 3 118 1459676 20131204100701
+181.1.219.58 5 142 2415460 20131209120945
+190.16.226.219 11 439 8368973 20131219071450
+200.49.193.194 0 3 58064 
+173.252.112.114 1 1 28960 20131227045146
+200.3.94.24 2 23 443993 20131210090216
+190.192.123.106 14 457 8099271 20131206111955
+150.70.75.32 1 1 8028 20131205082425
+186.109.174.58 2 23 347247 20131205091556
+190.17.205.211 3 24 349625 20131202120523
+190.174.36.129 2 23 347284 20131211082101
+186.22.166.207 2 23 347284 20131206124142
+190.220.0.240 8 300 2948289 20131212103936
+83.57.29.251 0 1 41263 
+157.92.4.6 4 30 511924 20131203063348
+181.15.246.195 1 9 120186 20131206104832
+186.134.197.60 2 23 347284 20131210132541
+186.18.45.240 9 420 3392034 20131227045432
+190.93.57.149 0 1 126221 
+87.222.156.122 0 1 127733 
+190.247.38.227 6 347 4572418 20131203182845
+200.51.42.170 2 23 347284 20131223101033
+186.58.153.198 2 22 292781 20131205101455
+168.101.49.109 6 16 659038 20131218141101
+199.189.85.24 1 1 2341 20131204104513
+186.22.37.178 7 262 5118118 20131220082235
+190.163.16.181 0 1 126165 
+190.225.79.135 7 245 2347617 20131211094034
+200.70.23.35 2 23 443963 20131205090828
+190.49.226.155 2 23 347284 20131211140554
+131.253.26.237 0 9 10540 
+190.184.235.9 0 1 127733 
+190.190.94.46 0 1 55331 
+190.221.137.26 11 435 4176171 20131219073724
+200.43.232.164 3 127 648623 20131212165059
+186.138.19.207 14 521 3211675 20131202065122
+179.37.204.97 0 1 126221 
+186.18.47.27 4 146 1559643 20131212100927
+201.213.96.232 0 1 36500 
+190.174.134.60 4 117 1166349 20131211102956
+201.255.247.177 2 27 505354 20131203090918
+200.41.142.65 4 124 1597716 20131202054254
+186.22.39.1 11 290 5051842 20131223145647
+199.30.16.120 1 10 48525 20131229164338
+150.70.64.214 2 3 17100 20131220113209
+190.2.14.205 2 25 349468 20131203134632
+186.109.83.202 2 23 347284 20131212130634
+150.70.173.54 1 2 85748 20131220113115
+181.26.132.174 10 140 1721479 20131202130945
+190.48.109.70 2 100 683729 20131203200042
+190.172.108.186 2 23 346015 20131204082056
+186.18.0.255 6 77 1430547 20131210080528
+88.8.184.210 0 1 57734 
+181.27.172.109 4 121 1488111 20131209051852
+131.253.26.251 1 5 32624 20131213075531
+200.1.117.9 11 268 2098482 20131202111415
+190.18.9.6 10 266 2487653 20131211092250
+186.18.255.19 3 24 349625 20131202082930
+190.210.149.53 6 237 2582124 20131203134122
+177.226.146.235 0 2 126601 
+201.250.139.4 4 139 1314034 20131211053037
+190.105.56.150 2 155 2749212 20131205091415
+186.22.30.194 10 218 1554600 20131202125243
+201.237.133.34 0 1 81909 
+65.55.218.58 1 10 39110 20131228203859
+190.174.24.14 4 141 1128745 20131205064531
+190.194.2.206 2 23 347284 20131209102050
+68.58.132.249 0 1 78512 
+190.210.54.2 8 288 2786677 20131220112723
+186.129.131.208 3 24 349625 20131202125211
+200.55.59.195 2 23 347247 20131213052651
+189.168.110.248 0 1 107777 
+186.56.186.230 0 1 41263 
+190.57.211.77 2 154 2216494 20131226165809
+190.139.226.218 7 114 932846 20131204093945
+66.249.81.14 2 15 302316 20131218134808
+83.59.116.90 0 1 107777 
+186.108.188.116 0 1 52075 
+190.190.64.201 4 117 1166387 20131203074033
+201.250.32.151 2 23 347284 20131218105448
+186.13.3.3 2 23 347284 20131204081637
+190.194.12.63 3 82 929681 20131212082040
+200.49.206.195 0 3 62181 
+80.24.121.88 0 1 167762 
+201.251.31.11 4 80 635891 20131203134420
+201.223.195.151 0 1 68544 
+201.231.102.111 13 417 4173899 20131206055251
+190.230.133.20 4 126 1451216 20131203101642
+66.249.80.80 1 17 225031 20131210073109
+186.22.254.9 6 229 2378899 20131223082018
+201.213.128.62 2 23 347210 20131201141855
+201.231.251.139 2 23 347284 20131206093801
+200.124.126.16 4 147 1893873 20131212085855
+190.18.112.134 3 30 566099 20131220105020
+186.135.81.47 7 233 1987710 20131218052609
+200.81.44.215 4 72 1530503 20131211124036
+186.19.81.114 7 104 477048 20131220211203
+199.67.138.42 4 143 1442072 20131211114742
+190.114.199.2 0 10 307959 
+189.133.102.12 0 2 191632 
+181.110.97.20 0 1 39455 
+181.47.44.165 2 23 347247 20131206112448
+200.51.46.124 0 1 127591 
+190.31.6.141 2 23 347210 20131219110403
+200.117.156.122 11 333 2708685 20131218133714
+200.126.232.42 4 148 1658405 20131228191100
+181.14.127.123 0 1 39455 
+200.127.122.227 2 23 347284 20131210063346
+186.23.168.200 2 23 347210 20131212083525
+190.192.130.239 5 164 1481875 20131202064334
+190.190.198.18 0 1 126221 
+181.165.158.238 0 1 92358 
+190.139.18.253 0 1 126221 
+190.194.144.13 2 23 347284 20131218120356
+190.48.63.30 2 23 347284 20131218080634
+190.174.148.162 2 23 347284 20131202131020
+186.109.140.111 4 147 1510672 20131203092651
+201.251.99.99 2 24 348484 20131212123323
+190.16.198.148 5 149 1631657 20131204060057
+186.137.112.25 4 25 351929 20131212074224
+200.89.245.105 0 1 126221 
+200.69.61.110 2 23 346041 20131211110350
+131.253.26.248 1 2 4963 20131224030235
+150.70.173.42 1 1 8057 20131212113128
+190.189.168.181 2 23 347247 20131211092244
+54.204.169.89 1 1 2341 20131204104502
+190.230.216.176 0 1 127733 
+186.58.15.106 2 23 347284 20131202130617
+200.49.193.195 0 1 6057 
+181.109.64.123 3 24 349588 20131205063859
+5.9.113.4 1 1 2341 20131207155644
+200.5.199.137 9 134 1850529 20131218112936
+199.30.16.127 1 39 212493 20131203135603
+190.189.126.121 4 53 781923 20131209102811
+186.58.156.16 2 24 348373 20131205113548
+201.235.197.230 4 151 1932601 20131206091024
+201.231.138.138 4 150 1815576 20131218122202
+186.125.130.78 10 283 3684415 20131205073621
+190.48.99.192 4 117 1166276 20131219055026
+186.134.204.221 2 23 347284 20131210125704
+65.55.218.32 0 1 0 
+190.231.249.169 5 156 1512006 20131212103252
+131.253.26.247 0 4 0 
+65.55.218.170 3 19 57636 20131218003553
+186.23.101.96 2 24 348484 20131204091807
+170.51.242.156 2 23 347284 20131203093609
+201.254.6.87 14 553 8467819 20131220123133
+190.192.187.54 3 98 835004 20131210124835
+186.26.115.39 0 1 126221 
+181.25.222.13 4 72 1040863 20131219085738
+181.108.56.11 2 23 342094 20131218095243
+202.46.58.179 1 1 8103 20131228092551
+65.55.218.56 1 8 15772 20131214000408
+179.37.175.135 5 151 1269010 20131212081424
+190.225.61.199 0 1 38848 
+181.1.224.163 8 301 2316900 20131211115217
+200.51.198.193 4 150 1771146 20131205053526
+186.18.75.72 2 23 347284 20131205112833
+181.28.55.5 2 23 347284 20131202083403
+65.55.212.85 1 2 3897 20131213191801
+201.220.243.229 0 1 126221 
+181.167.192.182 6 223 2037919 20131218205526
+181.1.23.80 4 25 359963 20131206080124
+199.30.24.203 1 22 343711 20131222130349
+190.104.216.75 2 50 359437 20131203134111
+190.247.197.230 2 23 347284 20131210141616
+190.16.163.41 2 23 347284 20131210092020
+190.30.64.152 11 494 15387045 20131223193359
+190.185.252.18 1 40 414393 20131214195833
+190.50.193.153 4 159 2752419 20131212130850
+181.95.131.218 4 158 2595502 20131203131012
+186.59.240.142 3 28 562332 20131219134946
+186.13.6.50 4 138 1311556 20131220063004
+181.46.166.56 9 278 4051743 20131206103039
+186.137.66.197 3 92 701882 20131218144627
+181.47.47.182 4 125 1872205 20131220113121
+200.70.23.50 2 23 347137 20131204112601
+186.124.214.188 7 248 2582097 20131204075459
+190.172.81.109 3 101 895509 20131204101430
+81.45.52.174 0 1 16408 
+150.70.173.55 1 1 8084 20131211111629
+190.137.22.78 6 160 1655960 20131213074230
+190.172.108.174 11 230 1870857 20131202103936
+190.19.10.210 4 25 359889 20131219090018
+150.70.173.58 1 1 8064 20131220112731
+190.216.7.213 0 1 85388 
+150.70.75.212 1 1 8095 20131205083317
+201.212.166.89 5 169 2751628 20131218081922
+200.72.249.169 0 1 126221 
+200.47.116.70 12 149 2179654 20131211071957
+201.231.87.83 6 133 1486523 20131202103031
+190.173.26.61 2 24 348257 20131209083216
+186.135.6.135 2 31 580677 20131209092947
+186.125.47.169 3 29 524042 20131219092038
+200.80.247.14 3 29 505389 20131218124019
+50.56.58.47 1 1 8028 20131204120551
+131.253.24.159 0 4 0 
+201.216.220.149 4 25 351929 20131220101116
+190.173.214.72 2 23 347284 20131202122124
+186.61.0.82 0 1 126165 
+190.173.16.193 2 23 347284 20131202131513
+119.63.193.196 1 1 8114 20131211022248
+181.166.97.13 2 24 347890 20131219072005
+36.37.146.43 0 1 167762 
+190.174.78.131 3 97 769244 20131203132854
+186.23.121.95 5 258 11298927 20131205051611
+190.16.212.47 7 137 2410211 20131210143832
+131.253.36.200 0 7 44255 
+190.151.151.194 0 1 88125 
+200.117.48.22 0 1 47366 
+200.49.206.194 1 6 81011 20131223143541
+181.165.111.8 1 1 2341 20131215171934
+181.168.197.142 3 25 369972 20131210122445
+200.81.44.170 0 1 63803 
+190.31.15.249 3 24 349551 20131202125356
+201.213.213.29 2 132 807335 20131206061243
+200.16.129.50 0 1 39455 
+190.55.92.67 4 138 1311443 20131203134445
+186.13.6.25 2 23 347247 20131206104301
+186.108.109.160 2 23 347284 20131219100203
+186.39.133.237 0 1 126221 
+186.19.235.169 2 23 347284 20131203110905
+65.55.218.45 1 13 40258 20131216133909
+190.55.182.123 3 25 350535 20131202082238
+190.18.99.79 2 23 347284 20131212113333
+190.138.60.99 2 23 347284 20131206143345
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20131201 5 145 1716308 3
+20131202 341 8220 109696482 65
+20131203 280 7783 95803965 65
+20131204 213 6431 74111223 47
+20131205 199 4985 77622820 57
+20131206 261 6635 93301585 62
+20131207 8 62 789751 5
+20131208 6 187 847255 5
+20131209 227 5399 71816332 57
+20131210 192 3887 49334494 61
+20131211 206 5133 59332731 56
+20131212 275 6853 94128377 63
+20131213 133 3438 41544008 29
+20131214 5 128 1059332 4
+20131215 4 38 493058 3
+20131216 13 326 3465193 7
+20131217 9 79 1108073 5
+20131218 278 7453 108518064 54
+20131219 240 4823 58218804 52
+20131220 133 3589 54605759 32
+20131221 6 98 871180 4
+20131222 29 945 12044687 9
+20131223 96 2563 55918590 24
+20131224 8 122 1519048 7
+20131225 3 46 599633 2
+20131226 14 633 7722796 7
+20131227 15 477 4887228 6
+20131228 7 199 2729124 4
+20131229 6 99 1239749 5
+20131230 11 278 5463571 1
+20131231 3 47 648906 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 62
+0s-30s 513
+15mn-30mn 28
+2mn-5mn 66
+30s-2mn 125
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/galeria.php 919 4198298 52 121
+//images/imagenes_banner/Thumbs.db 808 8348746 29 336
+/ 794 2342476 701 106
+/images/techos_1/thumbnails/Thumbs.db 126 25152110 6 53
+/images/cerramientos_1/thumbnails/Thumbs.db 121 27393293 6 53
+/images/techos_2/thumbnails/Thumbs.db 120 19853394 1 39
+/images/aleros/thumbnails/Thumbs.db 80 14715161 2 26
+/images/cerramientos_2/thumbnails/Thumbs.db 80 401100 4 25
+/index.php 48 135384 0 13
+/images/invernaderos/thumbnails/Thumbs.db 33 3026250 0 9
+/images/cielorrasos/thumbnails/Thumbs.db 25 109123 3 7
+/images/divisores%20de%20oficina/thumbnails/Thumbs.db 15 1293552 0 3
+/images/cerramientos_1/Thumbs.db 11 3707240 0 5
+/images/aleros/Thumbs.db 10 2669940 0 0
+/images/techos_2/Thumbs.db 8 1842715 0 5
+/contacto.php 7 18354 0 0
+/images/techos_1/Thumbs.db 6 1684329 0 1
+/bin/enviar.php 6 4628 0 1
+/images/cielorrasos/Thumbs.db 4 144787 0 0
+/images/invernaderos/Thumbs.db 3 349275 0 1
+/images/cerramientos_2/Thumbs.db 2 537683 0 0
+END_SIDER

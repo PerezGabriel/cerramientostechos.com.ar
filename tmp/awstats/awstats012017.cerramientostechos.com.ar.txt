@@ -1,0 +1,1756 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home2/cerramie/tmp/awstats/awstats.cerramientostechos.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2683                
+POS_VISITOR 50992               
+POS_DAY 58863               
+POS_DOMAIN 3593                
+POS_LOGIN 4184                
+POS_ROBOT 4339                
+POS_WORMS 4954                
+POS_EMAILSENDER 5085                
+POS_EMAILRECEIVER 5228                
+POS_SESSION 59518               
+POS_SIDER 59719               
+POS_FILETYPES 5363                
+POS_DOWNLOADS 5565                
+POS_OS 5613                
+POS_BROWSER 5892                
+POS_SCREENSIZE 6831                
+POS_UNKNOWNREFERER 6905                
+POS_UNKNOWNREFERERBROWSER 7087                
+POS_ORIGIN 7320                
+POS_SEREFERRALS 7461                
+POS_PAGEREFS 7650                
+POS_SEARCHWORDS 7826                
+POS_KEYWORDS 8097                
+POS_MISC 2346                
+POS_ERRORS 8285                
+POS_CLUSTER 4040                
+POS_SIDER_404 8418                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170223051322 1 0 16247223837020
+FirstTime 0
+LastTime 20170123074307
+LastUpdate 20170224053621 1 0 0 0 0
+TotalVisits 114                 
+TotalUnique 85                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 248                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 56 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 126 5890229 20 122 6884294
+1 10 57 2589795 52 271 4814588
+2 4 96 20981097 32 171 6692010
+3 6 216 25037641 30 146 2285745
+4 3 73 5325464 48 207 11885010
+5 25 387 37906205 64 191 7797916
+6 4 78 2347969 51 320 19572680
+7 23 189 19638115 110 269 16238334
+8 18 969 109207375 75 199 2704017
+9 5 445 43046574 49 146 2995950
+10 8 387 43568980 61 159 4066786
+11 27 342 33567335 50 181 5636239
+12 6 321 43154887 49 140 5231390
+13 25 1284 117428636 131 367 8100270
+14 6 437 48901834 71 290 10100852
+15 27 388 42590541 57 164 3160566
+16 7 248 21224500 37 423 12970388
+17 3 22 1395505 43 220 2838298
+18 18 795 80566259 81 196 3173699
+19 26 307 53044641 39 509 2208865
+20 6 173 13941030 44 403 11158033
+21 5 20 385168 32 297 6845103
+22 14 23 1361428 36 203 6158956
+23 1 1 14357 27 217 4975238
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+ar 134 5806 614314326
+ru 55 110 10322947
+fr 25 25 152183
+br 15 25 2244431
+es 13 864 118233836
+us 13 336 14582046
+cn 8 8 122824
+nl 5 5 223381
+ua 2 2 180310
+co 2 47 5814330
+ro 1 1 14357
+gb 1 1 14357
+de 1 1 14357
+py 1 38 914375
+pt 1 37 876107
+do 1 48 2452614
+ca 1 1 14357
+hu 1 1 14357
+cr 0 7 1339475
+ec 0 3 215250
+pr 0 2 52878
+cl 0 12 694253
+pa 0 1 35359
+pe 0 2 217718
+mx 0 1 55137
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+googlebot\-image 983 106500021 20170122201550 0
+googlebot 815 6245616 20170124013249 0
+bot[\s_+:,\.\;\/\\-] 256 26101381 20170124005221 0
+bingpreview 157 4098801 20170122141701 0
+google[_+\s]web[_+\s]preview 112 10839026 20170108063800 0
+spider 79 1906154 20170124045041 0
+robot 6 156812 20170103164806 0
+crawl 2 180310 20170120061730 0
+checker 1 14357 20170121130823 0
+msnbot\-media 1 14357 20170105133516 0
+no_user_agent 1 90155 20170102210043 0
+netcraft 1 90155 20170109110105 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+gif 100 143966 0 0
+php 9 4318 0 0
+html 271 12404204 0 0
+png 719 2091000 0 0
+js 484 3435444 0 0
+css 297 2080543 0 0
+jpg 5504 752956090 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+Unknown 27 27
+winnt 2649 58
+ios_iphone 262 7
+macosx7 2 0
+winxp 156 56
+java 8 8
+linuxandroid 194 5
+win8 1 0
+winphone 218 7
+win7 2873 61
+macosx 146 5
+win2000 20 20
+ios_ipad 189 5
+linux 6 6
+winlong 2 0
+win8.1 631 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+chrome31.0.1650.63 40 0
+chrome52.0.2743.116 6 6
+firefox50.0 595 10
+chrome37.0.2062.120 1 1
+chrome46.0.2486.0 57 2
+msie6.0 54 54
+firefox42.0 1 1
+chrome33.0.0.0 46 1
+msie10.0 26 15
+chrome54.0.2840.85 9 0
+android 20 1
+firefox11.0 19 0
+chrome54.0.2840.68 1 0
+chrome16.0.912.77 1 1
+safari 79 2
+chrome55.0.2883.91 107 3
+chrome41.0.2228.0 1 1
+chrome55.0.2883.87 4701 79
+safari10.0 49 1
+chrome42.0.2311.138 1 0
+safari9.0 251 7
+safari7.0 70 2
+chrome54.16.2840.71 1 0
+chrome46.0.2490.80 40 1
+Unknown 35 35
+chrome26.0.1410.63 1 1
+chrome45.0.2454.94 1 0
+msie5.01 20 20
+msie8.0 15 0
+alcatel 2 0
+chrome44.0.2403.125 2 2
+chrome37.0.2062.103 2 0
+chrome30.0.0.0 7 0
+chrome55.0.2883.95 5 1
+chrome51.0.2704.79 1 0
+chrome45.0.2476.10 1 1
+mozilla 2 0
+chrome50.0.2661.102 47 1
+msie9.0 14 2
+chrome54.0.2840.99 1 1
+msie11.0 838 21
+chrome49.0.2623.112 71 2
+firefox3.6 1 1
+opera41.0.2353.69 1 0
+safari10.0.2 141 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.16.396_A 20170109054354
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20170116221724
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Apache-HttpClient/4.5.2_(Java/1.8.0_112) 20170121010317
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20170116221724
+WhatsApp/2.16.396_A 20170109054354
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 155 249
+From1 0 0
+From2 47 261
+From3 1 1
+From4 77 6873
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+bing 4 22
+search 1 1
+google 40 236
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+colores+de+toldo+de+aluminio 1
+cerramiento+para+cubrir+una+parte+de+un+alero 1
+todos+y+aleros+transparentes 1
+aleros 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 15
+de 3
+aleros 2
+una 1
+cubrir 1
+aluminio 1
+todos 1
+para 1
+y 1
+toldo 1
+transparentes 1
+un 1
+parte 1
+cerramiento 1
+alero 1
+colores 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 3180 1850948
+206 86 10365755
+403 69 21280
+406 6 2123
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1104
+/images/cubiertas_2/thumbnails/16.jpg 1 -
+/images/invernaderos/19.jpg 3 -
+/images/invernaderos/thumbnails/14.jpg 2 -
+/images/aleros/thumbnails/82.jpg 1 -
+/images/techos_1/103.jpg 1 -
+/images/cerramientos_2/thumbnails/20.jpg 2 -
+/images/invernaderos/thumbnails/34.jpg 3 -
+/images/protectores/4.jpg 1 -
+/images/tabiques%20divisores/25.jpg 2 -
+/images/techos_1/110.jpg 1 -
+/images/trabajos_especiales/25.jpg 1 -
+/images/techos_1/thumbnails/29.jpg 1 -
+/images/techos_1/thumbnails/99.jpg 1 -
+/images/aleros/40.jpg 22 -
+/images/protectores/5.jpg 2 -
+/images/invernaderos/20.jpg 2 -
+/images/cubiertas_2/thumbnails/2.jpg 1 -
+/images/cubiertas_1/1.jpg 95 https://www.google.com.co/
+/images/techos_1/thumbnails/96.jpg 1 -
+/images/cerramientos_2/78.jpg 13 -
+/images/trabajos_especiales/thumbnails/29.jpg 2 -
+/images/invernaderos/WS_FTP.LOG 1 -
+/images/cerramientos_1/59.jpg 1 -
+/images/aleros/37.jpg 23 -
+/images/trabajos_especiales/39.jpg 2 -
+/images/cerramientos_2/25.jpg 3 -
+/images/carpinteria/36.jpg 1 -
+/images/trabajos_especiales/thumbnails/22.jpg 1 -
+/images/carpinteria/49.jpg 1 -
+/backup/preview_problem/admin/elfinder/elfinder.html 1 -
+/images/techos_1/thumbnails/71.jpg 1 -
+/images/cerramientos_2/30.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/57.jpg 1 -
+/images/trabajos_especiales/3.jpg 3 -
+/images/cerramientos_1/thumbnails/13.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/111.jpg 1 -
+/images/cerramientos_2/51.jpg 2 -
+/images/carpinteria/43.jpg 3 -
+/images/protectores/13.jpg 2 -
+/images/divisores%20de%20oficina/67.jpg 1 -
+/images/techos_1/18.jpg 2 -
+/images/protectores/19.jpg 2 -
+/images/invernaderos/7.jpg 1 -
+/readme.html 5 http://www.cerramientostechos.com.ar/readme.html
+/js/fancybox/jquery.fancybox-1.3.4.pack.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/divisores%20de%20oficina/65.jpg 3 -
+/images/aleros/56.jpg 2 -
+/images/carpinteria/thumbnails/47.jpg 1 -
+/images/cubiertas_1/6.jpg 1 -
+/images/cerramientos_2/thumbnails/80.jpg 1 -
+/images/aleros/88.jpg 2 -
+/images/tabiques%20divisores/54.jpg 1 -
+/images/nosotros/thumbnails/23.jpg 1 -
+/images/carpinteria/thumbnails/34.jpg 2 -
+/images/cerramientos_2/44.jpg 1 -
+/images/cerramientos_2/thumbnails/32.jpg 1 -
+/images/carpinteria/thumbnails/48.jpg 1 -
+/images/aleros/32.jpg 1 -
+/images/invernaderos/thumbnails/22.jpg 2 -
+/images/cerramientos_1/thumbnails/26.jpg 1 -
+/images/invernaderos/thumbnails/12.jpg 3 -
+/images/carpinteria/thumbnails/26.jpg 1 -
+/images/techos_2/6.jpg 1 -
+/images/aleros/24.jpg 1 -
+/images/tabiques%20divisores/thumbnails/53.jpg 1 -
+/images/cerramientos_1/84.jpg 1 -
+/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/techos_1/42.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/78.jpg 1 -
+/images/cerramientos_2/4.jpg 3 -
+/images/cerramientos_2/18.jpg 1 -
+/images/tabiques%20divisores/thumbnails/23.jpg 1 -
+/images/tabiques%20divisores/98.jpg 1 -
+/images/nosotros/thumbnails/11.jpg 1 -
+/images/invernaderos/6.jpg 2 -
+/images/cerramientos_1/thumbnails/107.jpg 1 -
+/images/cerramientos_2/thumbnails/28.jpg 1 -
+/images/trabajos_especiales/thumbnails/23.jpg 1 -
+/images/cerramientos_1/111.jpg 2 -
+/images/invernaderos/3.jpg 2 -
+/images/nosotros/thumbnails/13.jpg 2 -
+/images/techos_2/50.jpg 1 -
+/images/techos_1/thumbnails/994.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/20.jpg 1 -
+/images/cerramientos_1/thumbnails/46.jpg 1 -
+/images/carpinteria/10.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/69.jpg 2 -
+/images/carpinteria/53.jpg 1 -
+/images/tabiques%20divisores/thumbnails/73.jpg 1 -
+/images/cerramientos_2/35.jpg 1 -
+/images/tabiques%20divisores/73.jpg 1 -
+/images/tabiques%20divisores/62.jpg 3 -
+/images/cerramientos_2/34.jpg 3 -
+/images/cerramientos_2/8.jpg 2 -
+/images/techos_1/thumbnails/66.jpg 1 -
+/images/aleros/31.jpg 1 -
+/images/techos_1/thumbnails/3.jpg 1 -
+/images/tabiques%20divisores/76.jpg 2 -
+/images/invernaderos/21.jpg 3 -
+/images/invernaderos/thumbnails/27.jpg 2 -
+/images/aleros/44.jpg 1 -
+/images/tabiques%20divisores/4.jpg 1 -
+/images/nosotros/thumbnails/17.jpg 2 -
+/images/techos_1/thumbnails/93.jpg 1 -
+/images/cerramientos_2/thumbnails/14.jpg 1 -
+/images/tabiques%20divisores/17.jpg 2 -
+/images/invernaderos/15.jpg 1 -
+/images/techos_1/thumbnails/67.jpg 1 -
+/images/divisores%20de%20oficina/57.jpg 1 -
+/images/nosotros/5.jpg 1 -
+/images/techos_1/thumbnails/106.jpg 1 -
+/erpfilemanager/elfinder.html 1 -
+/images/cerramientos_2/39.jpg 3 -
+/images/protectores/14.jpg 2 -
+/wp/wp-admin/ 1 -
+/images/cerramientos_1/thumbnails/24.jpg 1 -
+/images/tabiques%20divisores/37.jpg 1 -
+/images/cerramientos_2/66.jpg 2 -
+/images/carpinteria/thumbnails/17.jpg 1 -
+/images/cerramientos_2/68.jpg 4 -
+/images/aleros/61.jpg 1 -
+/images/cerramientos_2/thumbnails/74.jpg 2 -
+/images/cerramientos_2/thumbnails/2.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/109.jpg 1 -
+/images/protectores/thumbnails/16.jpg 2 -
+/images/protectores/thumbnails/2.jpg 1 -
+/images/cerramientos_1/26.jpg 1 -
+/images/techos_2/69.jpg 3 -
+/images/techos_1/20.jpg 1 -
+/images/invernaderos/24.jpg 1 -
+/images/techos_2/62.jpg 1 -
+/images/cerramientos_1/8.jpg 1 -
+/images/tabiques%20divisores/34.jpg 1 -
+/images/techos_1/thumbnails/103.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/6.jpg 2 -
+/images/aleros/42.jpg 20 -
+/images/tabiques%20divisores/100.jpg 3 -
+/images/techos_1/80.jpg 1 -
+/images/trabajos_especiales/thumbnails/21.jpg 1 -
+/images/aleros/69.jpg 2 -
+/images/techos_1/thumbnails/88.jpg 1 -
+/images/cabinas/4.jpg 2 -
+/images/cubiertas_2/thumbnails/6.jpg 1 -
+/images/invernaderos/thumbnails/7.jpg 2 -
+/images/cerramientos_2/82.jpg 1 -
+/images/trabajos_especiales/27.jpg 3 -
+/images/tabiques%20divisores/thumbnails/88.jpg 1 -
+/images/aleros/60.jpg 1 -
+/images/divisores%20de%20oficina/78.jpg 1 -
+/images/invernaderos/22.jpg 1 -
+/images/aleros/84.jpg 1 -
+/images/tabiques%20divisores/thumbnails/34.jpg 2 -
+/images/telefonos.png 1 -
+/images/techos_1/107.jpg 2 -
+/images/cubiertas_2/3.jpg 1 -
+/images/techos_1/996.jpg 3 -
+/images/cabinas/5.jpg 1 -
+/images/cerramientos_1/thumbnails/55.jpg 1 -
+/images/techos_2/30.jpg 1 -
+/images/aleros/thumbnails/59.jpg 1 -
+/images/cerramientos_2/86.jpg 1 -
+/backoffice/js/texteditor/elfinder/elfinder.html 1 -
+/images/divisores%20de%20oficina/thumbnails/79.jpg 1 -
+/images/cerramientos_2/thumbnails/36.jpg 1 -
+/images/aleros/22.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/91.jpg 1 -
+/images/techos_1/thumbnails/98.jpg 1 -
+/images/tabiques%20divisores/71.jpg 2 -
+/images/cerramientos_2/16.jpg 4 -
+/images/cerramientos_1/43.jpg 1 -
+/images/nosotros/2.jpg 1 -
+/images/techos_1/65.jpg 1 -
+/images/carpinteria/thumbnails/50.jpg 1 -
+/images/techos_1/thumbnails/36.jpg 1 -
+/images/cerramientos_1/thumbnails/63.jpg 1 -
+/images/trabajos_especiales/thumbnails/11.jpg 1 -
+/images/cabinas/thumbnails/1.jpg 1 -
+/images/techos_2/55.jpg 1 -
+/images/cerramientos_1/thumbnails/10.jpg 1 -
+/images/cerramientos_1/46.jpg 1 -
+/images/protectores/thumbnails/9.jpg 2 -
+/images/aleros/10.jpg 1 -
+/images/carpinteria/thumbnails/5.jpg 1 -
+/images/techos_1/thumbnails/83.jpg 1 -
+/images/trabajos_especiales/17.jpg 2 -
+/images/nosotros/thumbnails/3.jpg 1 -
+/images/durlock/6.jpg 4 https://www.google.com.ar/
+/images/techos_2/67.jpg 1 -
+/images/cerramientos_2/81.jpg 1 -
+/images/protectores/thumbnails/28.jpg 1 -
+/images/tabiques%20divisores/99.jpg 3 -
+/images/divisores%20de%20oficina/66.jpg 1 -
+/images/trabajos_especiales/thumbnails/17.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/1.jpg 1 -
+/images/protectores/16.jpg 4 -
+/tiny_mce/plugins/elfinder/elfinder.html 1 -
+/images/techos_1/thumbnails/4.jpg 1 -
+/images/aleros/15.jpg 17 -
+/images/carpinteria/35.jpg 1 -
+/images/divisores%20de%20oficina/6.jpg 2 -
+/images/cerramientos_1/32.jpg 1 -
+/images/carpinteria/thumbnails/19.jpg 1 -
+/images/protectores/26.jpg 2 -
+/images/cerramientos_2/13.jpg 1 -
+/images/invernaderos/thumbnails/28.jpg 2 -
+/images/techos_1/102.jpg 1 -
+/images/cerramientos_2/thumbnails/47.jpg 1 -
+/images/techos_2/39.jpg 1 -
+/images/trabajos_especiales/4.jpg 2 -
+/images/invernaderos/2.jpg 1 -
+/images/techos_1/thumbnails/38.jpg 1 -
+/images/techos_1/thumbnails/104.jpg 1 -
+/images/cerramientos_2/103.jpg 2 -
+/images/cabinas/6.jpg 1 -
+/images/carpinteria/24.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/10.jpg 1 -
+/images/divisores%20de%20oficina/83.jpg 1 -
+/images/invernaderos/thumbnails/10.jpg 3 -
+/images/protectores/27.jpg 2 -
+/images/techos_1/thumbnails/60.jpg 1 -
+/images/carpinteria/38.jpg 1 -
+/images/carpinteria/thumbnails/14.jpg 1 -
+/images/cerramientos_2/97.jpg 1 -
+/images/trabajos_especiales/thumbnails/19.jpg 1 -
+/images/cerramientos_1/106.jpg 1 -
+/images/cerramientos_2/6.jpg 1 -
+/images/trabajos_especiales/thumbnails/18.jpg 1 -
+/images/carpinteria/thumbnails/61.jpg 1 -
+/images/tabiques%20divisores/5.jpg 1 -
+/images/carpinteria/thumbnails/37.jpg 1 -
+/images/techos_1/thumbnails/90.jpg 1 -
+/images/trabajos_especiales/26.jpg 2 -
+/images/protectores/2.jpg 1 -
+/images/techos_1/thumbnails/57.jpg 1 -
+/images/techos_2/15.jpg 4 -
+/images/techos_1/86.jpg 1 -
+/images/techos_1/thumbnails/995.jpg 1 -
+/images/cerramientos_1/23.jpg 1 -
+/images/logo.png 6 -
+/images/techos_1/97.jpg 1 -
+/images/cubiertas_1/5.jpg 2 -
+/images/carpinteria/48.jpg 1 -
+/images/techos_1/thumbnails/82.jpg 1 -
+/images/invernaderos/thumbnails/6.jpg 1 -
+/images/invernaderos/thumbnails/2.jpg 2 -
+/images/cerramientos_1/94.jpg 1 -
+/images/cerramientos_2/12.jpg 2 -
+/images/techos_1/70.jpg 1 -
+/images/protectores/thumbnails/10.jpg 1 -
+/images/tabiques%20divisores/97.jpg 2 -
+/images/trabajos_especiales/thumbnails/42.jpg 1 -
+/images/cerramientos_2/46.jpg 1 -
+/images/cielorrasos/thumbnails/6.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/29.jpg 2 -
+/images/nosotros/thumbnails/15.jpg 1 -
+/images/carpinteria/thumbnails/49.jpg 1 -
+/images/aleros/23.jpg 1 -
+/apple-touch-icon-76x76.png 5 -
+/images/invernaderos/thumbnails/24.jpg 2 -
+/images/cabinas/thumbnails/7.jpg 1 -
+/images/tabiques%20divisores/102.jpg 2 -
+/images/invernaderos/thumbnails/19.jpg 4 -
+/images/trabajos_especiales/41.jpg 2 -
+/images/cerramientos_2/88.jpg 2 -
+/images/trabajos_especiales/34.jpg 3 -
+/images/techos_1/thumbnails/68.jpg 1 -
+/images/trabajos_especiales/14.jpg 3 -
+/images/tabiques%20divisores/90.jpg 3 -
+/images/trabajos_especiales/36.jpg 2 -
+/images/aleros/47.jpg 1 -
+/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/backup/preview_Jan9/admin/elfinder/elfinder.html 1 -
+/images/divisores%20de%20oficina/48.jpg 1 -
+/images/techos_1/thumbnails/20.jpg 1 -
+/images/cerramientos_1/64.jpg 1 -
+/images/protectores/thumbnails/6.jpg 1 -
+/images/cerramientos_1/24.jpg 1 -
+/images/divisores%20de%20oficina/33.jpg 2 -
+/images/master.png 4 -
+/images/techos_1/30.jpg 1 -
+/images/protectores/20.jpg 11 -
+/images/trabajos_especiales/8.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/40.jpg 1 -
+/images/carpinteria/58.jpg 1 -
+/images/carpinteria/thumbnails/16.jpg 2 -
+/images/invernaderos/thumbnails/32.jpg 3 -
+/images/cerramientos_2/75.jpg 3 -
+/images/tabiques%20divisores/75.jpg 2 -
+/images/techos_1/thumbnails/110.jpg 1 -
+/images/techos_1/thumbnails/87.jpg 1 -
+/images/techos_1/thumbnails/63.jpg 1 -
+/images/trabajos_especiales/thumbnails/4.jpg 1 -
+/images/cerramientos_2/9.jpg 2 -
+/images/trabajos_especiales/thumbnails/8.jpg 1 -
+/images/aleros/71.jpg 18 -
+/images/tabiques%20divisores/24.jpg 2 -
+/images/techos_2/49.jpg 2 -
+/images/nosotros/thumbnails/2.jpg 3 -
+/images/protectores/22.jpg 4 -
+/images/invernaderos/thumbnails/30.jpg 2 -
+/images/protectores/25.jpg 2 -
+/images/techos_1/4.jpg 3 -
+/images/trabajos_especiales/20.jpg 2 -
+/images/tabiques%20divisores/thumbnails/102.jpg 1 -
+/images/techos_1/thumbnails/993.jpg 1 -
+/images/techos_1/thumbnails/47.jpg 1 -
+/images/cubiertas_2/thumbnails/13.jpg 1 -
+/images/aleros/26.jpg 22 -
+/images/cerramientos_2/3.jpg 2 -
+/images/cerramientos_2/94.jpg 2 -
+/images/cerramientos_2/58.jpg 2 -
+/images/nosotros/thumbnails/16.jpg 1 -
+/images/carpinteria/thumbnails/54.jpg 1 -
+/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/trabajos_especiales/thumbnails/13.jpg 1 -
+/images/nosotros/thumbnails/1.jpg 1 -
+/images/carpinteria/50.jpg 1 -
+/images/techos_2/18.jpg 1 -
+/images/aleros/59.jpg 29 -
+/images/divisores%20de%20oficina/thumbnails/15.jpg 1 -
+/images/cielorrasos/thumbnails/7.jpg 1 -
+/images/nosotros/13.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/12.jpg 1 -
+/images/carpinteria/31.jpg 2 -
+/images/trabajos_especiales/10.jpg 4 -
+/images/trabajos_especiales/31.jpg 3 -
+/images/cerramientos_1/22.jpg 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/images/cerramientos_2/61.jpg 1 -
+/images/cerramientos_2/thumbnails/53.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/39.jpg 2 -
+/images/muebles/12.jpg 2 -
+/images/techos_1/990.jpg 1 -
+/preview/admin/elfinder/elfinder.html 1 -
+/images/divisores%20de%20oficina/106.jpg 2 -
+/images/cerramientos_1/16.jpg 1 -
+/js/fancybox/jquery.fancybox-1.3.4.css 8 http://cerramientostechos.com.ar/galeria.php
+/images/cerramientos_2/49.jpg 1 -
+/images/techos_1/thumbnails/6.jpg 1 -
+/wp-admin/ 1 -
+/images/cubiertas_1/7.jpg 3 -
+/images/invernaderos/thumbnails/33.jpg 2 -
+/images/cerramientos_2/19.jpg 1 -
+/images/protectores/thumbnails/4.jpg 1 -
+/js/script.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/nosotros/23.jpg 1 -
+/images/nosotros/20.jpg 1 -
+/images/cerramientos_1/78.jpg 1 -
+/images/aleros/thumbnails/61.jpg 1 -
+/images/techos_1/thumbnails/100.jpg 1 -
+/images/tabiques%20divisores/53.jpg 3 -
+/images/tabiques%20divisores/26.jpg 7 -
+/images/carpinteria/thumbnails/31.jpg 2 -
+/images/cerramientos_2/40.jpg 2 -
+/images/tabiques%20divisores/thumbnails/100.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/106.jpg 2 -
+/images/trabajos_especiales/29.jpg 1 -
+/images/techos_1/thumbnails/102.jpg 1 -
+/images/nosotros/17.jpg 1 -
+/images/aleros/63.jpg 1 -
+/images/cerramientos_1/thumbnails/4.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/11.jpg 1 -
+/images/cerramientos_2/53.jpg 4 -
+/images/aleros/29.jpg 2 -
+/images/nosotros/thumbnails/7.jpg 3 -
+/images/carpinteria/thumbnails/43.jpg 2 -
+/images/cabinas/thumbnails/6.jpg 1 -
+/images/techos_1/thumbnails/84.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/84.jpg 1 -
+/images/nosotros/thumbnails/18.jpg 1 -
+/images/cerramientos_1/86.jpg 2 -
+/images/tabiques%20divisores/thumbnails/4.jpg 1 -
+/images/cerramientos_2/23.jpg 4 -
+/images/divisores%20de%20oficina/thumbnails/55.jpg 2 -
+/images/divisores%20de%20oficina/79.jpg 1 -
+/images/techos_1/thumbnails/76.jpg 1 -
+/images/cerramientos_2/41.jpg 2 -
+/images/cerramientos_2/10.jpg 2 -
+/images/carpinteria/57.jpg 3 -
+/images/invernaderos/13.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/21.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/9.jpg 1 -
+/images/cabinas/3.jpg 2 -
+/images/trabajos_especiales/24.jpg 2 -
+/images/trabajos_especiales/42.jpg 4 -
+/images/cerramientos_2/100.jpg 2 -
+/images/aleros/33.jpg 2 -
+/images/cerramientos_2/thumbnails/83.jpg 1 -
+/images/techos_1/53.jpg 2 -
+/images/aleros/49.jpg 1 -
+/mailto,informes,taller-americano.com.ar 1 -
+/images/trabajos_especiales/12.jpg 2 -
+/images/cerramientos_2/55.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/22.jpg 2 -
+/images/cerramientos_2/thumbnails/87.jpg 1 -
+/images/techos_1/thumbnails/22.jpg 1 -
+/images/cerramientos_2/73.jpg 2 -
+/images/cielorrasos/thumbnails/1.jpg 1 -
+/images/protectores/8.jpg 3 -
+/images/protectores/10.jpg 2 -
+/images/techos_1/thumbnails/101.jpg 1 -
+/images/carpinteria/16.jpg 1 -
+/images/cerramientos_2/65.jpg 1 -
+/images/tabiques%20divisores/72.jpg 2 -
+/images/cerramientos_1/60.jpg 1 -
+/images/cerramientos_2/105.jpg 2 -
+/images/tabiques%20divisores/thumbnails/93.jpg 1 -
+/images/techos_1/thumbnails/992.jpg 1 -
+/images/techos_1/25.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/80.jpg 2 -
+/images/invernaderos/27.jpg 1 -
+/images/cerramientos_2/thumbnails/59.jpg 1 -
+/images/cubiertas_2/thumbnails/12.jpg 1 -
+/images/cubiertas_2/5.jpg 7 -
+/images/techos_1/thumbnails/55.jpg 1 -
+/images/techos_1/thumbnails/108.jpg 1 -
+/images/trabajos_especiales/thumbnails/14.jpg 1 -
+/images/aleros/66.jpg 2 -
+/images/techos_1/980.jpg 1 -
+/images/tabiques%20divisores/thumbnails/59.jpg 1 -
+/images/aleros/55.jpg 1 -
+/images/tabiques%20divisores/81.jpg 1 -
+/images/nosotros/thumbnails/20.jpg 1 -
+/images/tabiques%20divisores/74.jpg 1 -
+/images/techos_1/thumbnails/19.jpg 1 -
+/images/techos_1/thumbnails/59.jpg 1 -
+/images/trabajos_especiales/thumbnails/7.jpg 2 -
+/images/cerramientos_2/thumbnails/75.jpg 2 -
+/images/trabajos_especiales/18.jpg 2 -
+/images/carpinteria/thumbnails/24.jpg 1 -
+/images/carpinteria/thumbnails/33.jpg 1 -
+/images/protectores/thumbnails/12.jpg 2 -
+/images/cerramientos_1/9.jpg 2 -
+/images/cerramientos_1/69.jpg 1 -
+/images/aleros/35.jpg 1 -
+/images/tabiques%20divisores/thumbnails/2.jpg 1 -
+/images/invernaderos/25.jpg 2 -
+/images/cerramientos_1/thumbnails/48.jpg 1 -
+/images/cerramientos_2/56.jpg 2 -
+/images/aleros/57.jpg 1 -
+/images/cerramientos_1/98.jpg 1 -
+/images/protectores/3.jpg 2 -
+/images/protectores/18.jpg 1 -
+/images/techos_1/thumbnails/25.jpg 1 -
+/images/techos_2/21.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/83.jpg 1 -
+/images/trabajos_especiales/thumbnails/27.jpg 2 -
+/images/trabajos_especiales/thumbnails/38.jpg 2 -
+/images/aleros/54.jpg 3 -
+/images/techos_1/thumbnails/51.jpg 1 -
+/images/protectores/15.jpg 2 -
+/images/tabiques%20divisores/32.jpg 1 -
+/images/nosotros/thumbnails/21.jpg 1 -
+/images/aleros/87.jpg 1 -
+/images/techos_1/thumbnails/40.jpg 1 -
+/images/trabajos_especiales/2.jpg 2 -
+/images/techos_1/thumbnails/53.jpg 1 -
+/images/cerramientos_2/thumbnails/62.jpg 1 -
+/images/aleros/27.jpg 19 -
+/images/techos_1/71.jpg 2 -
+/images/cerramientos_1/47.jpg 1 -
+/images/invernaderos/18.jpg 2 -
+/images/trabajos_especiales/thumbnails/20.jpg 1 -
+/images/tabiques%20divisores/51.jpg 3 -
+/images/nosotros/7.jpg 1 -
+/images/invernaderos/14.jpg 4 -
+/images/cerramientos_1/4.jpg 2 -
+/images/cerramientos_2/thumbnails/103.jpg 1 -
+/images/trabajos_especiales/thumbnails/41.jpg 2 -
+/images/cerramientos_2/64.jpg 1 -
+/images/divisores%20de%20oficina/40.jpg 1 -
+/images/cerramientos_1/37.jpg 5 -
+/images/techos_1/991.jpg 4 https://www.bing.com/
+/images/cerramientos_1/76.jpg 1 -
+/images/nosotros/thumbnails/9.jpg 1 -
+/images/protectores/thumbnails/3.jpg 1 -
+/images/trabajos_especiales/11.jpg 3 -
+/images/carpinteria/thumbnails/51.jpg 1 -
+/images/divisores%20de%20oficina/7.jpg 1 -
+/images/cerramientos_2/63.jpg 4 -
+/images/carpinteria/thumbnails/4.jpg 1 -
+/images/techos_1/thumbnails/80.jpg 1 -
+/images/trabajos_especiales/16.jpg 1 -
+/images/cerramientos_2/thumbnails/61.jpg 1 -
+/images/tabiques%20divisores/35.jpg 2 -
+/images/carpinteria/thumbnails/21.jpg 1 -
+/images/trabajos_especiales/thumbnails/3.jpg 1 -
+/images/cerramientos_2/67.jpg 2 -
+/images/cerramientos_2/thumbnails/10.jpg 1 -
+/images/techos_2/54.jpg 1 -
+/images/aleros/79.jpg 1 -
+/images/cerramientos_2/98.jpg 1 -
+/images/tabiques%20divisores/thumbnails/3.jpg 1 -
+/images/carpinteria/thumbnails/56.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/31.jpg 2 -
+/images/tabiques%20divisores/42.jpg 2 -
+/images/tabiques%20divisores/thumbnails/99.jpg 1 -
+/images/muebles/2.jpg 2 -
+/images/aleros/68.jpg 1 -
+/images/trabajos_especiales/21.jpg 2 -
+/images/techos_2/36.jpg 2 -
+/images/cielorrasos/thumbnails/3.jpg 1 -
+/images/techos_1/thumbnails/85.jpg 1 -
+/images/techos_1/thumbnails/997.jpg 1 -
+/images/techos_2/52.jpg 1 -
+/images/invernaderos/thumbnails/17.jpg 3 -
+/images/cerramientos_2/thumbnails/25.jpg 3 -
+/images/cerramientos_1/103.jpg 1 -
+/images/divisores%20de%20oficina/22.jpg 1 -
+/images/carpinteria/thumbnails/22.jpg 2 -
+/images/carpinteria/thumbnails/42.jpg 1 -
+/images/aleros/21.jpg 2 -
+/images/tabiques%20divisores/59.jpg 4 -
+/images/invernaderos/thumbnails/3.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/60.jpg 1 -
+/images/carpinteria/25.jpg 2 -
+/images/aleros/3.jpg 2 -
+/images/aleros/13.jpg 1 -
+/images/invernaderos/29.jpg 2 -
+/images/nosotros/12.jpg 1 -
+/images/divisores%20de%20oficina/80.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/108.jpg 1 -
+/images/aleros/9.jpg 1 -
+/images/cerramientos_2/1.jpg 2 -
+/images/invernaderos/thumbnails/5.jpg 2 -
+/images/cerramientos_2/20.jpg 1 -
+/images/invernaderos/32.jpg 3 -
+/images/carpinteria/thumbnails/53.jpg 1 -
+/images/cerramientos_2/54.jpg 2 -
+/images/cerramientos_2/43.jpg 3 -
+/images/cerramientos_1/thumbnails/96.jpg 1 -
+/images/carpinteria/thumbnails/46.jpg 1 -
+/images/invernaderos/thumbnails/15.jpg 2 -
+/images/carpinteria/7.jpg 1 -
+/images/cerramientos_2/29.jpg 1 -
+/js/jquery.cycle.min.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/techos_1/46.jpg 1 -
+/images/techos_1/thumbnails/86.jpg 1 -
+/images/aleros/5.jpg 23 http://www.bing.com/images/search
+/images/trabajos_especiales/thumbnails/6.jpg 1 -
+/CSS/estilos_b.css 8 http://cerramientostechos.com.ar/galeria.php
+/images/protectores/9.jpg 2 -
+/images/aleros/78.jpg 21 -
+/images/cerramientos_1/112.jpg 1 -
+/images/cerramientos_2/thumbnails/3.jpg 1 -
+/images/cerramientos_1/110.jpg 4 -
+/images/cerramientos_1/thumbnails/87.jpg 1 -
+/images/techos_1/thumbnails/77.jpg 1 -
+/images/cerramientos_2/70.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/36.jpg 1 -
+/images/nosotros/21.jpg 1 -
+/images/cerramientos_2/thumbnails/78.jpg 4 -
+/images/divisores%20de%20oficina/55.jpg 1 -
+/backup/preview_2/admin/elfinder/elfinder.html 1 -
+/images/cerramientos_2/thumbnails/52.jpg 1 -
+/images/imagenes_banner/img_banner4.jpg 4 -
+/images/techos_1/54.jpg 1 -
+/images/protectores/thumbnails/18.jpg 1 -
+/images/carpinteria/39.jpg 1 -
+/images/trabajos_especiales/thumbnails/33.jpg 1 -
+/images/tabiques%20divisores/85.jpg 1 -
+/images/techos_1/thumbnails/65.jpg 1 -
+/images/techos_2/57.jpg 1 -
+/images/nosotros/thumbnails/4.jpg 1 -
+/images/cerramientos_2/thumbnails/37.jpg 1 -
+/images/nosotros/thumbnails/6.jpg 2 -
+/images/trabajos_especiales/thumbnails/25.jpg 2 -
+/images/techos_1/92.jpg 2 -
+/images/techos_1/thumbnails/Thumbs.db 2 -
+/images/techos_1/101.jpg 1 -
+/images/aleros/72.jpg 1 -
+/images/cerramientos_2/thumbnails/93.jpg 1 -
+/images/cerramientos_2/24.jpg 4 -
+/images/tabiques%20divisores/thumbnails/17.jpg 1 -
+/images/cerramientos_1/75.jpg 1 -
+/images/carpinteria/thumbnails/38.jpg 1 -
+/images/aleros/86.jpg 21 -
+/images/nosotros/14.jpg 1 -
+/images/techos_2/35.jpg 1 -
+/images/invernaderos/30.jpg 2 -
+/images/cerramientos_1/49.jpg 1 -
+/images/techos_1/993.jpg 1 -
+/images/carpinteria/2.jpg 2 -
+/images/carpinteria/37.jpg 2 -
+/images/aleros/73.jpg 1 -
+/images/techos_2/28.jpg 2 -
+/images/trabajos_especiales/7.jpg 4 -
+/images/cerramientos_2/91.jpg 2 -
+/images/techos_1/thumbnails/35.jpg 1 -
+/images/tabiques%20divisores/thumbnails/46.jpg 1 -
+/images/cerramientos_2/47.jpg 2 -
+/images/divisores%20de%20oficina/21.jpg 1 -
+/images/techos_1/thumbnails/95.jpg 1 -
+/images/aleros/41.jpg 2 -
+/images/trabajos_especiales/15.jpg 2 -
+/images/techos_1/thumbnails/30.jpg 1 -
+/images/carpinteria/thumbnails/27.jpg 1 -
+/images/cerramientos_2/52.jpg 2 -
+/images/invernaderos/26.jpg 1 -
+/images/carpinteria/thumbnails/18.jpg 1 -
+/images/invernaderos/thumbnails/8.jpg 2 -
+/images/tabiques%20divisores/thumbnails/WS_FTP.LOG 1 -
+/images/invernaderos/8.jpg 4 -
+/images/carpinteria/61.jpg 3 -
+/images/carpinteria/thumbnails/15.jpg 1 -
+/images/protectores/1.jpg 1 -
+/images/invernaderos/31.jpg 2 -
+/images/protectores/thumbnails/25.jpg 1 -
+/images/techos_2/58.jpg 2 -
+/images/cerramientos_2/80.jpg 1 -
+/images/techos_1/75.jpg 1 -
+/images/cerramientos_2/32.jpg 2 -
+/apple-touch-icon-120x120.png 1 -
+/images/muebles/thumbnails/18.jpg 1 -
+/images/invernaderos/12.jpg 3 -
+/images/tabiques%20divisores/30.jpg 1 -
+/images/trabajos_especiales/40.jpg 2 -
+/images/tabiques%20divisores/88.jpg 1 -
+/js/jquery-1.4.3.min.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/carpinteria/thumbnails/55.jpg 1 -
+/images/techos_1/thumbnails/18.jpg 1 -
+/images/aleros/36.jpg 1 -
+/images/aleros/80.jpg 1 -
+/images/protectores/thumbnails/5.jpg 1 -
+/images/cerramientos_2/57.jpg 2 -
+/images/carpinteria/thumbnails/13.jpg 1 -
+/images/cerramientos_1/109.jpg 3 -
+/images/cerramientos_1/63.jpg 1 -
+/images/divisores%20de%20oficina/63.jpg 1 -
+/images/trabajos_especiales/23.jpg 2 -
+/images/cerramientos_2/50.jpg 2 -
+/images/carpinteria/thumbnails/20.jpg 1 -
+/images/carpinteria/40.jpg 4 -
+/images/trabajos_especiales/37.jpg 2 -
+/images/invernaderos/33.jpg 3 -
+/images/cerramientos_1/34.jpg 1 -
+/images/divisores%20de%20oficina/9.jpg 1 -
+/images/cerramientos_1/thumbnails/102.jpg 1 -
+/js/jQuery_mousewheel_plugin.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/carpinteria/thumbnails/1.jpg 1 -
+/images/cerramientos_2/69.jpg 1 -
+/contacto.php 7 -
+/images/divisores%20de%20oficina/thumbnails/Thumbs.db 1 -
+/images/durlock/9.jpg 9 -
+/images/divisores%20de%20oficina/thumbnails/50.jpg 1 -
+/images/trabajos_especiales/thumbnails/40.jpg 2 -
+/images/cielorrasos/3.jpg 2 -
+/images/techos_1/thumbnails/998.jpg 1 -
+/images/cerramientos_1/83.jpg 2 -
+/js/fancybox/jquery.mousewheel-3.0.4.pack.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/trabajos_especiales/6.jpg 3 -
+/images/cerramientos_1/39.jpg 1 -
+/images/invernaderos/34.jpg 2 -
+/images/divisores%20de%20oficina/27.jpg 1 -
+/mailto,puntokreativo,yahoo.com.ar 1 -
+/images/carpinteria/12.jpg 2 -
+/images/tabiques%20divisores/14.jpg 1 -
+/images/cielorrasos/5.jpg 3 -
+/images/cerramientos_2/77.jpg 3 -
+/images/divisores%20de%20oficina/31.jpg 2 -
+/images/aleros/67.jpg 1 -
+/images/techos_1/thumbnails/73.jpg 1 -
+/images/divisores%20de%20oficina/87.jpg 1 -
+/images/techos_2/thumbnails/47.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/7.jpg 2 -
+/erfurt/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/carpinteria/19.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/56.jpg 1 -
+/images/cerramientos_2/101.jpg 2 -
+/images/protectores/thumbnails/19.jpg 2 -
+/images/carpinteria/thumbnails/41.jpg 1 -
+/images/tabiques%20divisores/46.jpg 2 -
+/images/nosotros/10.jpg 1 -
+/images/techos_1/thumbnails/8.jpg 1 -
+/images/cerramientos_2/7.jpg 1 -
+/images/cerramientos_1/53.jpg 2 -
+/images/techos_1/thumbnails/54.jpg 1 -
+/images/techos_2/76.jpg 2 -
+/test/wp-admin/ 1 -
+/images/carpinteria/thumbnails/35.jpg 1 -
+/images/cerramientos_2/14.jpg 2 -
+/images/techos_1/2.jpg 1 -
+/images/trabajos_especiales/33.jpg 2 -
+/images/techos_1/thumbnails/996.jpg 1 -
+/images/cerramientos_2/17.jpg 3 -
+/images/trabajos_especiales/thumbnails/15.jpg 1 -
+/images/carpinteria/14.jpg 2 -
+/null 260 http://cerramientostechos.com.ar/cerramientos-taller-americano.html
+/images/trabajos_especiales/1.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/58.jpg 1 -
+/images/aleros/46.jpg 1 -
+/images/tabiques%20divisores/101.jpg 1 -
+/images/tabiques%20divisores/49.jpg 1 -
+/images/techos_2/79.jpg 2 -
+/images/aleros/81.jpg 1 -
+/images/techos_1/thumbnails/75.jpg 1 -
+/images/aleros/51.jpg 1 -
+/images/nosotros/16.jpg 1 -
+/images/invernaderos/thumbnails/13.jpg 2 -
+/apple-touch-icon-76x76-precomposed.png 5 -
+/images/divisores%20de%20oficina/thumbnails/45.jpg 1 -
+/images/trabajos_especiales/thumbnails/30.jpg 1 -
+/images/nosotros/6.jpg 1 -
+/images/techos_1/78.jpg 4 -
+/images/cerramientos_2/79.jpg 2 -
+/images/aleros/52.jpg 1 -
+/images/trabajos_especiales/thumbnails/35.jpg 1 -
+/images/invernaderos/thumbnails/26.jpg 1 -
+/images/aleros/74.jpg 2 -
+/images/carpinteria/6.jpg 1 -
+/images/protectores/thumbnails/23.jpg 1 -
+/images/carpinteria/thumbnails/12.jpg 1 -
+/images/cerramientos_1/100.jpg 2 -
+/images/protectores/6.jpg 1 -
+/images/trabajos_especiales/thumbnails/16.jpg 1 -
+/images/tabiques%20divisores/18.jpg 1 -
+/images/trabajos_especiales/thumbnails/39.jpg 2 -
+/images/techos_2/74.jpg 2 https://www.google.com.ar/
+/images/cerramientos_2/26.jpg 2 -
+/images/divisores%20de%20oficina/10.jpg 1 -
+/images/cubiertas_1/2.jpg 2 -
+/images/carpinteria/thumbnails/6.jpg 1 -
+/images/trabajos_especiales/19.jpg 3 -
+/images/carpinteria/15.jpg 3 -
+/images/cerramientos_2/thumbnails/73.jpg 1 -
+/images/cerramientos_1/35.jpg 2 -
+/images/trabajos_especiales/30.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/41.jpg 2 -
+/images/nosotros/thumbnails/22.jpg 1 -
+/apple-touch-icon.png 11 -
+/images/techos_1/thumbnails/74.jpg 1 -
+/images/aleros/8.jpg 2 -
+/images/cerramientos_1/91.jpg 2 -
+/images/divisores%20de%20oficina/60.jpg 1 -
+/images/cabinas/1.jpg 3 -
+/images/cerramientos_2/33.jpg 2 -
+/images/cerramientos_2/21.jpg 2 -
+/images/carpinteria/52.jpg 3 -
+/images/tabiques%20divisores/44.jpg 2 -
+/images/cerramientos_2/90.jpg 2 -
+/images/divisores%20de%20oficina/109.jpg 1 -
+/images/tabiques%20divisores/thumbnails/74.jpg 1 -
+/images/tabiques%20divisores/thumbnails/90.jpg 1 -
+/images/trabajos_especiales/thumbnails/5.jpg 1 -
+/images/techos_1/29.jpg 1 -
+/images/muebles/11.jpg 1 -
+/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/aleros/85.jpg 1 -
+/images/cerramientos_1/thumbnails/80.jpg 1 -
+/images/cerramientos_1/113.jpg 1 -
+/images/cerramientos_2/95.jpg 2 -
+/images/nosotros/3.jpg 1 -
+/images/cubiertas_2/17.jpg 1 -
+/images/tabiques%20divisores/23.jpg 3 -
+/images/invernaderos/11.jpg 2 -
+/images/cerramientos_2/28.jpg 3 -
+/images/logo_img.php 1 http://www.cerramientostechos.com.ar/images/logo_img.php
+/gotha/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/cerramientos_2/104.jpg 5 -
+/images/cerramientos_2/31.jpg 2 -
+/images/divisores%20de%20oficina/Thumbs.db 1 -
+/backup/preview_1/admin/elfinder/elfinder.html 1 -
+/images/cerramientos_2/87.jpg 5 -
+/images/carpinteria/thumbnails/25.jpg 1 -
+/images/techos_2/17.jpg 1 -
+/images/aleros/43.jpg 16 -
+/wordpress/wp-admin/setup-config.php 3 -
+/images/techos_1/thumbnails/111.jpg 1 -
+/images/cerramientos_2/thumbnails/39.jpg 1 -
+/images/techos_2/27.jpg 1 -
+/images/cerramientos_1/2.jpg 4 -
+/images/cerramientos_2/48.jpg 3 -
+/images/cerramientos_1/thumbnails/86.jpg 1 -
+/images/aleros/38.jpg 1 -
+/images/invernaderos/17.jpg 2 -
+/images/cerramientos_2/thumbnails/97.jpg 1 -
+/images/cerramientos_2/76.jpg 5 -
+/images/trabajos_especiales/thumbnails/1.jpg 1 -
+/images/protectores/thumbnails/21.jpg 1 -
+/images/cerramientos_2/60.jpg 1 -
+/images/aleros/77.jpg 1 -
+/images/carpinteria/11.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/38.jpg 1 -
+/images/invernaderos/thumbnails/16.jpg 3 -
+/backup/preview_Jan27/admin/elfinder/elfinder.html 1 -
+/images/aleros/50.jpg 1 -
+/images/muebles/13.jpg 1 -
+/images/cerramientos_1/thumbnails/68.jpg 2 -
+/images/durlock/8.jpg 17 -
+/images/cerramientos_2/thumbnails/23.jpg 1 -
+/images/aleros/thumbnails/47.jpg 1 -
+/images/divisores%20de%20oficina/69.jpg 1 -
+/images/trabajos_especiales/thumbnails/36.jpg 1 -
+/images/cerramientos_2/74.jpg 4 -
+/images/invernaderos/thumbnails/25.jpg 2 -
+/images/protectores/24.jpg 1 -
+/images/durlock/1.jpg 8 http://www.tattoopinners.com/pergolas-quinchos-parrillas-tattoo/cGVyZ29sYXMtcXVpbmNob3MtcGFycmlsbGFzLXRhdHRvbw/
+/images/nosotros/8.jpg 1 -
+/images/techos_1/thumbnails/11.jpg 1 -
+/images/carpinteria/thumbnails/57.jpg 1 -
+/images/aleros/62.jpg 1 -
+/images/tabiques%20divisores/77.jpg 3 -
+/images/divisores%20de%20oficina/thumbnails/33.jpg 1 -
+/images/cerramientos_2/27.jpg 2 -
+/images/cerramientos_2/thumbnails/66.jpg 1 -
+/images/aleros/34.jpg 1 -
+/images/techos_1/thumbnails/79.jpg 1 -
+/images/carpinteria/thumbnails/8.jpg 1 -
+/images/tabiques%20divisores/2.jpg 1 -
+/images/trabajos_especiales/thumbnails/12.jpg 2 -
+/images/tabiques%20divisores/95.jpg 1 -
+/images/cubiertas_1/thumbnails/3.jpg 1 -
+/images/carpinteria/thumbnails/7.jpg 1 -
+/images/tabiques%20divisores/70.jpg 2 -
+/images/cielorrasos/11.jpg 2 -
+/images/techos_2/9.jpg 1 -
+/images/protectores/11.jpg 1 -
+/js/formulario.js 9 http://cerramientostechos.com.ar/galeria.php
+/images/cerramientos_1/40.jpg 1 -
+/images/carpinteria/thumbnails/29.jpg 1 -
+/images/techos_1/thumbnails/28.jpg 1 -
+/images/techos_1/thumbnails/42.jpg 1 -
+/images/cerramientos_2/62.jpg 1 -
+/images/cerramientos_1/108.jpg 1 -
+/images/techos_1/48.jpg 1 -
+/images/techos_2/63.jpg 1 -
+/images/trabajos_especiales/9.jpg 2 -
+/images/carpinteria/22.jpg 3 -
+/images/nosotros/11.jpg 2 -
+/images/invernaderos/10.jpg 4 -
+/images/cubiertas_2/12.jpg 3 https://www.bing.com/
+/images/techos_1/thumbnails/46.jpg 1 -
+/images/carpinteria/thumbnails/40.jpg 2 -
+/images/carpinteria/thumbnails/28.jpg 2 -
+/images/trabajos_especiales/thumbnails/34.jpg 1 -
+/images/invernaderos/thumbnails/1.jpg 2 -
+/images/cielorrasos/thumbnails/4.jpg 1 -
+/gotha/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/trabajos_especiales/thumbnails/32.jpg 1 -
+/images/trabajos_especiales/13.jpg 3 -
+/images/carpinteria/55.jpg 1 -
+/images/cubiertas_2/10.jpg 1 -
+/images/aleros/25.jpg 2 -
+/wp/wp-admin/setup-config.php 3 -
+/images/aleros/17.jpg 2 -
+/images/aleros/70.jpg 1 -
+/images/techos_1/59.jpg 2 -
+/images/trabajos_especiales/thumbnails/24.jpg 2 -
+/images/aleros/89.jpg 21 -
+/images/cerramientos_1/79.jpg 1 -
+/images/cerramientos_2/83.jpg 1 -
+/images/aleros/20.jpg 1 -
+/images/cubiertas_2/11.jpg 3 -
+/images/invernaderos/thumbnails/20.jpg 2 -
+/images/cerramientos_2/thumbnails/82.jpg 1 -
+/images/techos_1/77.jpg 1 -
+/images/cerramientos_1/90.jpg 1 -
+/images/cielorrasos/thumbnails/13.jpg 1 -
+/images/carpinteria/thumbnails/36.jpg 2 -
+/assets/elfinder1/elfinder.html 1 -
+/images/cerramientos_1/thumbnails/14.jpg 1 -
+/images/aleros/6.jpg 1 -
+/images/durlock/4.jpg 9 https://www.google.it/
+/images/invernaderos/28.jpg 1 -
+/images/techos_1/thumbnails/94.jpg 1 -
+/backup/elfinder/elfinder.html 1 -
+/images/invernaderos/thumbnails/21.jpg 1 -
+/images/visa.png 4 -
+/images/nosotros/1.jpg 1 -
+/index.php 8 -
+/images/cerramientos_1/99.jpg 1 -
+/images/tabiques%20divisores/93.jpg 1 -
+/images/techos_1/thumbnails/34.jpg 1 -
+/images/techos_2/68.jpg 3 -
+/images/tabiques%20divisores/112.jpg 1 -
+/images/techos_1/thumbnails/107.jpg 1 -
+/images/carpinteria/thumbnails/44.jpg 1 -
+/images/techos_1/57.jpg 1 https://www.bing.com/
+/images/trabajos_especiales/thumbnails/31.jpg 2 -
+/images/nosotros/thumbnails/8.jpg 1 -
+/images/cerramientos_2/thumbnails/29.jpg 3 -
+/images/cubiertas_1/9.jpg 1 -
+/images/techos_1/79.jpg 1 -
+/images/techos_2/51.jpg 1 -
+/images/aleros/58.jpg 1 -
+/images/invernaderos/16.jpg 5 -
+/images/cerramientos_1/thumbnails/5.jpg 1 -
+/images/cerramientos_1/thumbnails/16.jpg 1 -
+/images/carpinteria/thumbnails/52.jpg 1 -
+/images/tabiques%20divisores/thumbnails/32.jpg 1 -
+/CSS/estilos.css 2 http://cerramientostechos.com.ar/contacto.php
+/images/aleros/75.jpg 1 -
+/images/cerramientos_1/10.jpg 2 -
+/images/aleros/18.jpg 1 -
+/images/aleros/16.jpg 8 -
+/galeria.php 315 -
+/images/cerramientos_2/15.jpg 3 -
+/images/techos_1/thumbnails/61.jpg 1 -
+/images/trabajos_especiales/32.jpg 1 -
+/old/wp-admin/ 2 -
+/images/carpinteria/thumbnails/60.jpg 1 -
+/images/techos_1/thumbnails/27.jpg 1 -
+/images/techos_1/thumbnails/991.jpg 1 -
+/images/cerramientos_2/36.jpg 3 -
+/images/carpinteria/59.jpg 1 -
+/images/cerramientos_2/59.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/105.jpg 1 -
+/images/divisores%20de%20oficina/111.jpg 2 -
+/images/tabiques%20divisores/thumbnails/5.jpg 1 -
+/images/aleros/12.jpg 1 -
+/images/cerramientos_2/85.jpg 2 -
+/images/nosotros/18.jpg 1 -
+/images/durlock/3.jpg 1 -
+/images/carpinteria/26.jpg 2 -
+/images/cerramientos_2/102.jpg 3 -
+/images/aleros/65.jpg 1 -
+/xmlrpc.php 1 -
+/images/carpinteria/thumbnails/23.jpg 1 -
+/images/protectores/thumbnails/24.jpg 1 -
+/images/cabinas/8.jpg 5 -
+/images/cerramientos_1/36.jpg 1 -
+/images/trabajos_especiales/thumbnails/26.jpg 1 -
+/images/cerramientos_1/67.jpg 1 -
+/images/cerramientos_2/89.jpg 2 -
+/images/techos_1/26.jpg 2 -
+/images/protectores/23.jpg 1 -
+/images/invernaderos/thumbnails/29.jpg 4 -
+/images/invernaderos/23.jpg 2 -
+/images/divisores%20de%20oficina/45.jpg 1 -
+/images/cerramientos_2/thumbnails/34.jpg 1 -
+/images/tabiques%20divisores/thumbnails/104.jpg 1 -
+/images/cerramientos_2/71.jpg 1 -
+/images/cerramientos_1/77.jpg 1 -
+/images/invernaderos/thumbnails/9.jpg 2 -
+/images/divisores%20de%20oficina/108.jpg 2 -
+/images/cubiertas_2/2.jpg 4 -
+/images/trabajos_especiales/thumbnails/2.jpg 6 -
+/images/divisores%20de%20oficina/105.jpg 2 -
+/images/nosotros/22.jpg 1 -
+/images/invernaderos/thumbnails/31.jpg 1 -
+/images/invernaderos/4.jpg 3 -
+/images/techos_1/61.jpg 2 -
+/images/trabajos_especiales/38.jpg 2 -
+/images/aleros/53.jpg 1 -
+/images/techos_2/Thumbs.db 2 -
+/images/techos_2/thumbnails/82.jpg 1 -
+/bin/logo_img.php 1 http://www.cerramientostechos.com.ar/bin/logo_img.php
+/images/cubiertas_2/1.jpg 1 -
+/images/imagenes_banner/img_banner2.jpg 1 -
+/images/techos_1/thumbnails/78.jpg 1 -
+/images/aleros/7.jpg 2 -
+/images/protectores/thumbnails/14.jpg 1 -
+/images/invernaderos/thumbnails/23.jpg 2 -
+/images/cerramientos_2/42.jpg 1 -
+/images/protectores/7.jpg 2 -
+/images/techos_1/thumbnails/5.jpg 1 -
+/images/techos_2/thumbnails/23.jpg 1 -
+/images/techos_1/thumbnails/999.jpg 1 -
+/images/trabajos_especiales/thumbnails/10.jpg 2 -
+/images/techos_1/23.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/67.jpg 1 -
+/images/cerramientos_2/72.jpg 1 -
+/images/trabajos_especiales/thumbnails/9.jpg 1 -
+/images/nosotros/thumbnails/19.jpg 1 -
+/images/carpinteria/thumbnails/11.jpg 1 -
+/images/cerramientos_2/99.jpg 4 -
+/images/divisores%20de%20oficina/thumbnails/66.jpg 1 -
+/images/trabajos_especiales/28.jpg 2 -
+/images/tabiques%20divisores/43.jpg 1 -
+/images/nosotros/thumbnails/14.jpg 1 -
+/images/cubiertas_2/13.jpg 1 -
+/images/muebles/4.jpg 1 -
+/images/divisores%20de%20oficina/50.jpg 1 -
+/images/techos_1/8.jpg 1 -
+/images/cerramientos_1/thumbnails/66.jpg 1 -
+/images/aleros/30.jpg 2 -
+/images/cerramientos_2/45.jpg 1 -
+/images/cerramientos_1/5.jpg 1 -
+/images/divisores%20de%20oficina/29.jpg 1 -
+/images/cerramientos_2/92.jpg 4 -
+/images/protectores/thumbnails/22.jpg 1 -
+/images/techos_1/thumbnails/69.jpg 1 -
+/images/divisores%20de%20oficina/41.jpg 2 -
+/images/tabiques%20divisores/thumbnails/101.jpg 1 -
+/images/cerramientos_2/84.jpg 2 -
+/images/invernaderos/thumbnails/11.jpg 2 -
+/robots.txt 368 -
+/images/nosotros/thumbnails/5.jpg 1 -
+/images/techos_1/994.jpg 4 -
+/images/carpinteria/3.jpg 1 -
+/images/cerramientos_2/thumbnails/19.jpg 2 -
+/images/techos_1/thumbnails/97.jpg 1 -
+/images/techos_1/thumbnails/91.jpg 1 -
+/images/cerramientos_1/thumbnails/50.jpg 1 -
+/images/tabiques%20divisores/89.jpg 1 -
+/images/techos_1/22.jpg 1 -
+/images/divisores%20de%20oficina/38.jpg 1 -
+/images/divisores%20de%20oficina/thumbnails/65.jpg 1 -
+/images/cerramientos_1/27.jpg 1 -
+/images/aleros/4.jpg 1 -
+/images/techos_2/thumbnails/16.jpg 1 -
+/images/cerramientos_2/thumbnails/46.jpg 1 -
+/images/carpinteria/thumbnails/32.jpg 1 -
+/images/carpinteria/18.jpg 1 -
+/images/aleros/82.jpg 1 -
+/images/invernaderos/thumbnails/4.jpg 2 -
+/images/cielorrasos/9.jpg 2 -
+/images/trabajos_especiales/thumbnails/28.jpg 1 -
+/images/carpinteria/thumbnails/58.jpg 2 -
+/images/techos_2/24.jpg 1 -
+/images/aleros/64.jpg 24 -
+/images/invernaderos/5.jpg 2 -
+/images/cerramientos_1/28.jpg 1 -
+/wordpress/wp-admin/ 2 -
+/images/techos_1/64.jpg 1 -
+/images/aleros/19.jpg 1 -
+/images/tabiques%20divisores/64.jpg 1 -
+/images/cerramientos_2/2.jpg 1 -
+/images/cerramientos_2/38.jpg 1 -
+/images/cerramientos_2/11.jpg 3 -
+/logo_img.php 1 http://www.cerramientostechos.com.ar/logo_img.php
+/images/nosotros/19.jpg 1 -
+/images/carpinteria/30.jpg 2 -
+/images/carpinteria/27.jpg 2 -
+/images/cabinas/thumbnails/4.jpg 1 -
+/images/techos_2/7.jpg 2 -
+/images/divisores%20de%20oficina/thumbnails/87.jpg 1 -
+/images/techos_1/40.jpg 1 -
+/images/cerramientos_1/thumbnails/51.jpg 1 -
+/images/techos_2/71.jpg 1 -
+/images/carpinteria/thumbnails/45.jpg 1 -
+/images/techos_1/thumbnails/56.jpg 1 -
+/images/trabajos_especiales/22.jpg 2 -
+/place1/elfinder/elfinder.html 1 -
+/images/carpinteria/thumbnails/30.jpg 1 -
+/images/protectores/17.jpg 5 -
+/images/protectores/28.jpg 2 -
+/images/cerramientos_2/22.jpg 1 -
+/images/cabinas/7.jpg 2 -
+/images/trabajos_especiales/thumbnails/37.jpg 1 -
+/apple-touch-icon-precomposed.png 3 -
+/images/nosotros/thumbnails/12.jpg 1 -
+/images/techos_2/thumbnails/61.jpg 1 -
+/images/tabiques%20divisores/thumbnails/64.jpg 1 -
+/images/techos_1/thumbnails/9.jpg 1 -
+/images/cerramientos_2/thumbnails/9.jpg 1 -
+/images/cerramientos_2/thumbnails/72.jpg 2 -
+/images/cerramientos_2/93.jpg 2 -
+/images/protectores/thumbnails/7.jpg 1 -
+/images/cerramientos_2/thumbnails/49.jpg 1 -
+/images/carpinteria/thumbnails/9.jpg 1 -
+/images/carpinteria/60.jpg 3 -
+/erfurt/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/images/nosotros/4.jpg 2 -
+/images/cerramientos_1/3.jpg 2 -
+/images/invernaderos/1.jpg 4 -
+/images/cielorrasos/1.jpg 5 -
+/images/carpinteria/thumbnails/2.jpg 1 -
+/images/trabajos_especiales/5.jpg 3 -
+/images/techos_1/thumbnails/109.jpg 1 -
+/images/techos_1/thumbnails/980.jpg 1 -
+/images/protectores/thumbnails/11.jpg 1 -
+/images/techos_2/33.jpg 2 -
+/images/cerramientos_2/96.jpg 1 -
+/images/carpinteria/thumbnails/39.jpg 2 -
+/images/trabajos_especiales/35.jpg 3 -
+/images/invernaderos/thumbnails/18.jpg 1 -
+/images/techos_1/thumbnails/23.jpg 1 -
+/images/invernaderos/9.jpg 1 -
+/images/carpinteria/33.jpg 1 -
+/images/techos_1/thumbnails/92.jpg 1 -
+/images/carpinteria/thumbnails/10.jpg 1 -
+/images/techos_2/thumbnails/3.jpg 1 -
+/blog/wp-admin/ 2 -
+/images/nosotros/15.jpg 1 -
+/images/nosotros/9.jpg 1 -
+/images/carpinteria/thumbnails/59.jpg 1 -
+/images/cerramientos_2/thumbnails/71.jpg 2 -
+/images/nosotros/thumbnails/10.jpg 1 -
+/images/techos_1/45.jpg 1 -
+/images/cerramientos_1/11.jpg 1 -
+/images/carpinteria/13.jpg 2 -
+/images/cabinas/2.jpg 4 -
+/images/techos_1/thumbnails/52.jpg 1 -
+/images/carpinteria/1.jpg 6 -
+/images/divisores%20de%20oficina/15.jpg 1 -
+/images/protectores/21.jpg 2 -
+/images/cerramientos_1/87.jpg 1 -
+/images/imagenes_banner/img_banner1.jpg 2 -
+/images/aleros/28.jpg 1 -
+/images/techos_1/thumbnails/64.jpg 1 -
+/images/cubiertas_1/4.jpg 3 -
+/images/cerramientos_2/37.jpg 2 -
+/blog/wp-admin/setup-config.php 2 -
+/images/cielorrasos/7.jpg 4 -
+/images/cerramientos_1/73.jpg 2 -
+/images/protectores/12.jpg 2 -
+/images/tabiques%20divisores/thumbnails/49.jpg 1 -
+/images/aleros/2.jpg 1 -
+/images/tabiques%20divisores/thumbnails/42.jpg 1 -
+/images/cubiertas_2/thumbnails/5.jpg 1 -
+/images/cielorrasos/thumbnails/2.jpg 1 -
+/images/cerramientos_1/12.jpg 1 -
+/images/carpinteria/9.jpg 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 248
+190.104.80.10 26 26 426317 20170116221724
+188.165.200.217 20 20 4600 20170120215113
+188.143.232.26 18 18 2118023 20170105150511
+188.143.232.24 18 18 2118005 20170102194438
+188.143.232.35 18 18 2118029 20170106070511
+190.19.11.217 15 605 63975001 20170105184951
+179.35.128.22 15 25 2244431 20170119112006
+89.131.225.236 10 657 90408889 20170107090543
+118.212.119.26 8 8 122824 20170121010317
+190.245.96.108 6 178 23050161 20170106132219
+190.136.32.139 5 92 1536217 20170104132650
+181.29.255.44 5 378 35344142 20170114085947
+24.232.180.14 5 179 26452281 20170117194600
+181.230.213.141 5 272 28302278 20170118051950
+66.249.88.143 4 45 1607381 20170102131504
+186.136.136.175 4 375 37498851 20170112143041
+201.254.17.67 4 328 38784592 20170106034709
+190.245.71.133 4 105 20998033 20170111110425
+190.18.71.82 3 278 24518748 20170118084617
+186.141.201.214 3 102 2240772 20170119110926
+181.169.179.8 3 187 24301387 20170119152138
+186.23.22.62 3 203 24561200 20170106201444
+190.226.92.75 3 53 5521831 20170111080825
+190.190.110.175 2 162 17669457 20170117135454
+80.25.212.124 2 137 12098810 20170102102055
+69.74.29.66 1 1 90155 20170107085913
+190.229.56.24 0 1 45250 
+66.249.88.3 0 2 940463 
+190.137.72.235 0 1 76580 
+181.117.2.171 0 2 536966 
+66.249.88.6 0 3 1353572 
+181.231.191.91 0 1 33812 
+91.107.105.132 1 1 14357 20170109160450
+62.212.73.49 1 1 14357 20170111044401
+190.185.249.190 0 10 346265 
+181.231.95.17 0 1 40580 
+190.55.21.75 1 42 5490113 20170103150656
+66.249.85.17 1 10 254875 20170110101341
+186.23.197.75 0 1 76580 
+66.102.7.234 0 1 55137 
+190.232.27.128 0 2 217718 
+131.100.182.194 0 1 116294 
+181.165.60.159 1 46 9269587 20170109052251
+181.160.198.218 0 1 109267 
+181.26.61.36 0 1 114077 
+191.81.182.214 0 1 58887 
+186.108.144.39 0 1 94634 
+181.47.40.15 0 1 32677 
+204.79.180.108 0 1 14979 
+66.102.8.20 0 4 218415 
+181.194.19.94 0 2 333355 
+190.50.123.178 0 1 45250 
+190.151.168.38 0 2 46505 
+181.118.74.127 0 2 91509 
+186.124.144.8 0 2 56112 
+190.231.149.209 0 1 76580 
+181.164.1.244 0 2 56940 
+66.249.93.15 0 1 242317 
+201.204.48.66 0 1 28791 
+181.231.161.60 0 1 87830 
+200.63.168.146 1 28 1378602 20170113073615
+200.63.36.2 0 1 181143 
+186.141.201.84 1 9 243027 20170119112015
+176.195.100.105 0 15 80693 
+181.31.15.244 0 2 58079 
+83.223.241.240 1 37 876107 20170117164436
+181.23.23.54 0 1 40841 
+204.79.180.32 0 1 976 
+190.15.245.8 0 2 91079 
+181.94.16.157 0 1 34836 
+98.116.241.64 0 2 59112 
+204.79.180.123 0 1 6465 
+190.17.179.29 1 8 56605 20170106200535
+191.85.188.78 1 112 10839026 20170122104842
+204.79.180.201 1 1 14357 20170122214224
+181.15.155.242 0 2 302584 
+186.158.138.61 0 1 30057 
+181.29.17.240 2 94 22236950 20170109115057
+198.50.231.22 1 1 14357 20170108055459
+190.184.227.185 0 2 82840 
+190.195.38.112 1 171 15294426 20170103180441
+200.51.94.90 2 57 6981451 20170109053853
+181.22.55.230 0 1 101424 
+186.143.202.114 0 2 2011879 
+204.79.180.90 0 1 3472 
+186.134.169.105 0 1 8374 
+186.13.6.209 0 2 350549 
+191.80.164.66 0 2 75349 
+167.250.182.5 0 2 78161 
+186.108.93.212 2 153 14036673 20170112164021
+185.100.86.69 1 1 14357 20170105185557
+204.79.180.202 0 1 7625 
+181.103.9.84 0 4 178399 
+204.79.180.76 0 2 3583 
+46.229.167.149 1 1 90155 20170120213127
+201.178.183.90 1 47 11118475 20170119195313
+190.152.15.162 0 1 101424 
+181.229.171.172 0 1 116294 
+62.210.162.42 1 1 90155 20170103173110
+66.249.88.10 1 30 772890 20170102001354
+46.118.155.216 2 2 180310 20170122220123
+195.154.181.168 1 1 14357 20170120203423
+88.10.160.252 0 1 30536 
+186.109.98.120 0 1 29341 
+181.15.124.82 0 1 114077 
+201.246.36.14 0 9 425213 
+186.182.127.150 0 2 66717 
+181.50.216.11 0 2 217718 
+46.105.31.30 1 1 14357 20170117031446
+186.109.228.79 0 1 55137 
+66.102.7.182 0 1 40841 
+186.158.142.73 0 2 303862 
+204.79.180.88 0 1 1062 
+181.122.95.216 1 37 876107 20170118090618
+190.137.227.162 0 5 334725 
+186.60.155.145 0 2 196097 
+66.102.8.144 0 1 12867 
+201.254.191.107 0 1 35359 
+200.89.129.226 0 1 304554 
+181.16.135.61 0 2 53158 
+190.80.235.55 1 48 2452614 20170105010505
+181.49.82.35 1 1 7032 20170108115314
+186.23.41.224 0 1 45250 
+88.99.68.199 1 1 14357 20170114201848
+66.102.7.186 0 1 25534 
+192.100.157.37 1 1 12468 20170109054354
+181.29.121.53 0 1 112713 
+190.120.96.118 0 1 38125 
+181.45.120.153 0 1 32196 
+190.189.167.36 0 1 94634 
+95.211.138.129 1 1 14357 20170102121023
+212.170.197.56 0 1 47932 
+190.220.206.209 1 60 3079089 20170119071700
+186.153.112.164 0 1 268483 
+190.55.217.28 0 9 613809 
+200.41.187.199 1 101 648282 20170104131915
+181.95.171.123 0 1 27491 
+191.81.10.129 0 1 37382 
+181.192.0.136 0 2 158925 
+66.102.7.128 0 2 217965 
+181.111.178.194 0 1 35359 
+201.177.11.189 0 1 116294 
+190.195.102.96 0 1 27309 
+181.209.70.122 0 1 33812 
+189.134.67.134 0 1 55137 
+190.104.195.26 1 10 144454 20170110111046
+190.1.40.110 0 1 109267 
+190.137.54.237 0 3 100529 
+66.102.7.184 0 1 40580 
+109.236.89.97 1 1 90155 20170112065740
+95.142.161.63 1 1 14357 20170117234623
+181.27.160.180 0 2 311595 
+152.170.12.146 0 1 27309 
+190.18.110.157 2 178 15464585 20170111125036
+181.169.178.65 0 2 302584 
+186.33.250.36 0 1 1139535 
+186.143.136.162 0 1 101424 
+190.210.12.177 0 1 33812 
+200.115.25.18 0 1 34836 
+67.224.154.16 0 2 52878 
+90.175.149.144 1 46 9269587 20170121144830
+186.139.68.77 0 1 35783 
+186.109.148.158 1 42 5490113 20170107162151
+152.168.217.16 0 2 90044 
+138.122.27.223 0 4 977329 
+204.79.180.211 0 1 673 
+200.82.113.66 0 1 35359 
+190.152.141.173 0 1 76580 
+201.179.251.18 0 1 37033 
+190.7.228.138 0 1 22737 
+204.79.180.151 0 1 12642 
+2.92.242.28 0 40 3873840 
+66.249.85.16 1 14 216472 20170110101258
+186.61.17.60 0 2 92032 
+181.165.185.77 0 1 35884 
+85.251.160.105 0 3 1684675 
+84.127.32.9 0 2 1170452 
+181.166.227.81 0 1 45250 
+201.231.95.18 0 3 0 
+200.68.88.217 0 1 27309 
+186.62.21.128 0 1 114077 
+200.70.22.219 0 1 100832 
+190.104.176.38 0 1 38268 
+190.14.182.211 0 1 87830 
+88.15.7.191 0 1 1467247 
+190.230.128.129 1 46 9269587 20170104121508
+152.169.106.31 0 4 555624 
+66.249.88.13 1 22 641912 20170102001353
+204.79.180.105 0 1 1553 
+186.141.201.215 1 59 1875373 20170119111217
+181.197.157.204 0 1 35359 
+190.224.187.217 0 2 1240959 
+164.77.213.91 0 1 104636 
+181.93.104.215 2 127 10015273 20170119151728
+190.172.75.57 0 1 112713 
+185.33.134.26 0 16 2055708 
+190.245.153.71 0 2 79131 
+186.18.72.40 2 134 12432870 20170106134058
+186.141.137.58 0 1 34836 
+181.225.219.104 0 1 37033 
+66.249.88.142 0 45 1099294 
+186.116.76.96 1 42 5490113 20170109090844
+181.104.62.92 0 1 27309 
+190.48.140.171 0 8 553543 
+181.168.20.202 1 157 13207999 20170120091228
+200.69.215.217 2 57 11149498 20170116110348
+190.183.80.241 0 1 76580 
+66.249.88.16 0 18 520664 
+66.249.84.223 0 1 83015 
+191.100.172.233 0 1 37246 
+190.229.159.198 0 1 45250 
+66.249.88.144 0 50 1164257 
+181.22.177.28 0 1 31068 
+66.249.85.15 0 17 607371 
+186.145.194.183 0 2 99467 
+66.102.8.22 0 4 266151 
+173.208.175.242 1 1 90155 20170110153805
+181.166.119.211 2 94 22236950 20170123074307
+181.47.99.99 1 16 803424 20170119071615
+181.111.221.210 0 2 65170 
+200.89.155.66 0 10 664537 
+201.252.127.32 0 1 64109 
+52.87.86.158 1 1 14357 20170123032241
+181.93.182.1 0 1 27309 
+204.79.180.184 0 1 4311 
+176.9.50.43 1 1 14357 20170106033906
+181.10.23.194 2 131 14185049 20170110052658
+190.7.24.27 0 2 113364 
+190.22.121.226 0 1 55137 
+190.189.141.158 0 2 254635 
+181.165.147.219 0 5 740540 
+181.168.112.74 0 1 37033 
+181.165.245.153 0 6 350577 
+181.170.5.103 0 1 101424 
+201.255.57.155 0 1 45250 
+51.255.202.66 1 1 14357 20170107152203
+155.94.214.74 1 40 3403191 20170114054115
+66.249.84.194 0 1 267568 
+91.219.237.244 1 1 14357 20170108204136
+186.39.12.182 0 1 101424 
+152.168.235.73 1 64 3495523 20170117043116
+46.166.148.143 1 1 14357 20170110024430
+186.19.44.186 0 2 113826 
+190.138.187.229 0 2 198739 
+66.102.8.18 0 2 125676 
+181.24.149.42 0 1 33332 
+186.108.123.146 0 2 101923 
+181.103.58.178 2 47 1153423 20170123054054
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20170101 1 2 27539 1
+20170102 32 606 47282313 9
+20170103 4 240 22792263 4
+20170104 11 528 39717439 5
+20170105 36 716 72664222 5
+20170106 34 641 84733202 9
+20170107 13 657 85189131 5
+20170108 4 21 1031620 4
+20170109 9 274 48141415 7
+20170110 8 194 16042369 7
+20170111 11 343 42530545 6
+20170112 10 582 63116389 6
+20170113 2 47 4855895 2
+20170114 8 434 39845489 4
+20170115 16 30 1433192 3
+20170116 17 244 34408413 4
+20170117 11 456 41242167 8
+20170118 3 206 15591916 3
+20170119 29 638 58224077 10
+20170120 4 187 16152061 4
+20170121 9 68 10653800 2
+20170122 4 149 12416629 3
+20170123 4 121 15023479 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 6
+2mn-5mn 12
+15mn-30mn 3
+30s-2mn 4
+30mn-1h 2
+0s-30s 87
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 102 2304487 85 61
+/contacto-taller-americano.html 21 615019 5 7
+/cerramientos-taller-americano.html 20 1574034 3 4
+/aleros-taller-americano.html 18 1195439 3 10
+/techos-taller-americano.html 15 1246126 1 3
+/asesoramiento-taller-americano.html 13 426572 2 2
+/toldos-de-aluminio-taller-americano.html 13 451526 4 1
+/nosotros-taller-americano.html 11 394705 0 1
+/puertas-plegadizas-taller-americano.html 9 988230 0 1
+/scripts/form-u16477.php 9 4318 0 2
+/divisores-de-oficina-taller-americano.html 9 808138 1 2
+/divisores-de-banio-taller-americano.html 7 471151 2 6
+/cubiertas-coches-taller-americano.html 7 529470 0 1
+/invernaderos-taller-americano.html 7 732317 0 0
+/phone/ 7 42192 5 6
+/cubiertas-de-piletas-taller-americano.html 6 458418 0 1
+/phone/cerramientos-taller-americano.html 3 143928 1 3
+/phone/aleros-taller-americano.html 1 8505 1 1
+/phone/toldos-de-aluminio-taller-americano.html 1 5748 1 1
+/phone/puertas-plegadizas-taller-amer.html 1 8199 0 1
+END_SIDER

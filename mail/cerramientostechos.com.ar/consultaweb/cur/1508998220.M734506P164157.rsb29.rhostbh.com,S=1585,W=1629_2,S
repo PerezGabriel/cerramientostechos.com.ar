@@ -1,0 +1,44 @@
+Return-Path: <consultaweb@cerramientostechos.com.ar>
+Delivered-To: consultaweb@cerramientostechos.com.ar
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id aXRDK0x88Vk9gQIAV0Gtjg
+	for <consultaweb@cerramientostechos.com.ar>; Thu, 26 Oct 2017 00:10:20 -0600
+Return-path: <consultaweb@cerramientostechos.com.ar>
+Envelope-to: consultaweb@cerramientostechos.com.ar
+Delivery-date: Thu, 26 Oct 2017 00:10:20 -0600
+Received: from [50.87.160.188] (port=43953 helo=cerramientostechos.com.ar)
+	by rsb29.rhostbh.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <consultaweb@cerramientostechos.com.ar>)
+	id 1e7bMy-000sNs-LO
+	for consultaweb@cerramientostechos.com.ar; Thu, 26 Oct 2017 00:10:20 -0600
+Date: Thu, 26 Oct 2017 03:10:20 -0300
+To: consultaweb@cerramientostechos.com.ar
+From: consultaweb@cerramientostechos.com.ar
+Reply-To: consultaweb@cerramientostechos.com.ar
+Subject: contacto desde la web
+Message-ID: <0970adf5d4f6522b6a43b045a00d5d0b@cerramientostechos.com.ar>
+X-Mailer: PHPMailer 5.2.25 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0970adf5d4f6522b6a43b045a00d5d0b"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_0970adf5d4f6522b6a43b045a00d5d0b
+Content-Type: text/plain; charset=us-ascii
+
+contacto desde la web
+
+
+--b1_0970adf5d4f6522b6a43b045a00d5d0b
+Content-Type: text/html; charset=us-ascii
+
+Consulta enviada el Jueves 26 de Octubre del 2017 a las 03:10hs :	
+<table></table>
+
+
+
+--b1_0970adf5d4f6522b6a43b045a00d5d0b--
+

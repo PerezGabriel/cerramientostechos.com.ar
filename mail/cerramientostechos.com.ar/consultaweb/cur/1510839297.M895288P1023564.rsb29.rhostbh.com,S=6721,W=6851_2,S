@@ -1,0 +1,130 @@
+Return-Path: <talleramericanoweb@gmail.com>
+Delivered-To: consultaweb@cerramientostechos.com.ar
+Received: from rsb29.rhostbh.com
+	by rsb29.rhostbh.com (Dovecot) with LMTP id Mb+GNAGUDVpMng8AV0Gtjg
+	for <consultaweb@cerramientostechos.com.ar>; Thu, 16 Nov 2017 06:34:57 -0700
+Return-path: <talleramericanoweb@gmail.com>
+Envelope-to: consultaweb@cerramientostechos.com.ar
+Delivery-date: Thu, 16 Nov 2017 06:34:57 -0700
+Received: from mail-oi0-f50.google.com ([209.85.218.50]:50541)
+	by rsb29.rhostbh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <talleramericanoweb@gmail.com>)
+	id 1eFKJl-004McH-HH
+	for consultaweb@cerramientostechos.com.ar; Thu, 16 Nov 2017 06:34:57 -0700
+Received: by mail-oi0-f50.google.com with SMTP id l138so8304308oib.7
+        for <consultaweb@cerramientostechos.com.ar>; Thu, 16 Nov 2017 05:34:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=mQNqcW8fYAmP/g0dB5csc1J4iyi/H3wkPmm/60sXUT0=;
+        b=YfpVkl85anoM1CACrYK0Tn69iBWYRSI/dulAXoifHn5oyyi5sLoIJ98VeN2dcMlevV
+         ZHynkfMapW+Na4/1RtDdEcJCjUrNOIIA8/98ytUf9ornleMalDc2KS+aceGwVjk4QX6l
+         zLCQRMhwpAKN0wos6SdyLCxrkeOq2LY3s0aQP6J1F7GGVS6+0PjUeSpfLjth6EPoKV6K
+         tXOpNGYIkC7pcp6hyeNx54n4BT/iHVJSolTFDKQMhRulJ/4yDhYlpsxVOv/u21Qy/g+Y
+         /Hxu2R+pFKIciOjCH9bYbKqozcwBcHPHIvUk5LRoBwbIxUvGlPepWH4FgyAwyUywgk09
+         SCkQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=mQNqcW8fYAmP/g0dB5csc1J4iyi/H3wkPmm/60sXUT0=;
+        b=bQQ9RE07T+OpWR7tlDc+pyoZKWGZaMF4bnw8UcA+/OpwlfjaOz9f4yq+Rw/PyZTPbL
+         blk1eI58KQqM8pryq+xFfxMiDoPKuOO8fyVmDpWKgiu5+PASgjg7AVhLHvrN8jifI/wN
+         IUEgsFxHajqESObLUrSQfoxfr8I3rtuUAU87okT+FSq/lZ6LrdbtkWDymY7p2JzKJJra
+         ve+scYeUVCB0EUX7SodCALAxxWhyAe9S1q5VPDtHWrUcD4Udlp39Lg+Yg6MTv4SbGOHA
+         Y6rT7ZJ5CmzrpdzGSG+cY6qwqXTN1miqPQoYBMdvMqIJ9+MQ5s1zuniK7fIO9l0cO/4Z
+         qXyg==
+X-Gm-Message-State: AJaThX7Fp18xUq7WUpjU9aHegqRAYVtZgcDUVzZYSCyx7Z+SW9/QRO60
+	UpBormFyv7vu5381PnlUcJjY+YfoFP2d0YDo21loXQ==
+X-Google-Smtp-Source: AGs4zMZs9vWxfC1OkO3xscVdIYtdRa0JvY/KEbquByj+FqQm30sqIp9DhetO+juGTrABkTd8z7BFJ7v54Y1ufkJAQ40=
+X-Received: by 10.202.252.201 with SMTP id a192mr1012307oii.282.1510839285859;
+ Thu, 16 Nov 2017 05:34:45 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.34.166 with HTTP; Thu, 16 Nov 2017 05:34:45 -0800 (PST)
+In-Reply-To: <4a4b354fe7005dc8449884eac0f88074@cerramientostechos.com.ar>
+References: <4a4b354fe7005dc8449884eac0f88074@cerramientostechos.com.ar>
+From: Taller Americano <talleramericanoweb@gmail.com>
+Date: Thu, 16 Nov 2017 10:34:45 -0300
+Message-ID: <CAK7FQY09icnvfYupYGHZGc1dPb1_qGnjFAfXSfCodG4rDCBvnQ@mail.gmail.com>
+Subject: Re: Consulta enviada el Jueves 16 de Noviembre del 2017 a las 10:30hs :
+To: consultaweb@cerramientostechos.com.ar
+Content-Type: multipart/alternative; boundary="001a113dee6cf24a11055e19ae05"
+X-Spam-Status: No, score=-1.6
+X-Spam-Score: -15
+X-Spam-Bar: -
+X-Ham-Report: Spam detection software, running on the system "rsb29.rhostbh.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Carmen, buen dia, hablamos por telefono hace unos minutos.
+    en breves la va a estar llamando el Señor Jose Luis para poder combinar
+   una visita a su domicilio, y asi presupuestarle el trabajo. Saludos, Lucía.
+    [...] 
+ 
+ Content analysis details:   (-1.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cerramientostechos.com.ar]
+ -0.5 SPF_PASS               SPF: sender matches SPF record
+  0.5 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (talleramericanoweb[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.8 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.218.50 listed in wl.mailspike.net]
+ -0.8 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+--001a113dee6cf24a11055e19ae05
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Carmen, buen dia, hablamos por telefono hace unos minutos.
+en breves la va a estar llamando el Se=C3=B1or Jose Luis para poder combina=
+r una
+visita a su domicilio, y asi presupuestarle el trabajo.
+
+Saludos,
+Luc=C3=ADa.
+
+El 16 de noviembre de 2017, 10:30, <consultaweb@cerramientostechos.com.ar>
+escribi=C3=B3:
+
+> *NOMBRE:* Carmen bal
+> *CONTACTO:* 1150090228
+> *CONSULTA:* para cerramiento de balcon
+
+--001a113dee6cf24a11055e19ae05
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Carmen, buen dia, hablamos por telefono hace unos minutos.=
+<div>en breves la va a estar llamando el Se=C3=B1or Jose Luis para poder co=
+mbinar una visita a su domicilio, y asi presupuestarle el trabajo.</div><di=
+v><br></div><div>Saludos,</div><div>Luc=C3=ADa.=C2=A0</div></div><div class=
+=3D"gmail_extra"><br><div class=3D"gmail_quote">El 16 de noviembre de 2017,=
+ 10:30,  <span dir=3D"ltr">&lt;<a href=3D"mailto:consultaweb@cerramientoste=
+chos.com.ar" target=3D"_blank">consultaweb@cerramientostechos.com.ar</a>&gt=
+;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><table><tbody><tr=
+><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>NOMBRE:</b> Carmen ba=
+l</font></td></tr><tr><td height=3D"20"><font size=3D"2" face=3D"Arial"><b>=
+CONTACTO:</b> 1150090228</font></td></tr><tr><td height=3D"20"><font size=
+=3D"2" face=3D"Arial"><b>CONSULTA:</b> para cerramiento de balcon</font></t=
+d></tr></tbody></table>
+
+
+</blockquote></div><br></div>
+
+--001a113dee6cf24a11055e19ae05--
