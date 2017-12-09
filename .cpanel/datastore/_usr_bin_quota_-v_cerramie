@@ -1,0 +1,7 @@
+Disk quotas for user cerramie (uid 4630): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+       /dev/md0       8  5242880 5242880               5       0       0        
+      /dev/sdc1       0  5242880 5242880               0       0       0        
+      /dev/sdd1   80500  5242880 5242880            2093       0       0        
+      /dev/sde1       0  5242880 5242880               0       0       0        
+      /dev/sdf1       0  5242880 5242880               0       0       0        
