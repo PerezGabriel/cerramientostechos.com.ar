@@ -29,7 +29,7 @@ $(function(){
           alert("Es necesario una consulta");
           return false;
         }
-
+/*
         function avisoFlat (msg) {
             msg +=". Datos enviados:";
             msg += "Nombre:" + $("#nombre").attr("value");
@@ -43,17 +43,17 @@ $(function(){
                 {
                 });
         }
-
+*/
         $("#enviarConsulta").attr("disabled","disabled");
         $("#enviarConsulta").html("Enviando...");
 
         $.post('http://cerramientostechos.com.ar/mailer.php', {
             accion: 'consulta-rapida',
-            pagina_visitada: $("#nombre").attr("nombrePagina"),
-            nombre: $("#nombre").attr("valuex"),
+            nombre:     $("#nombre").attr("value"),
             telefono: $("#telefono").attr("value"),
             contacto: $("#contacto").attr("value"),
             consulta: $("#consulta").attr("value"),
+            pagina_visitada: $("#nombre").attr("nombrePagina"),
             },
             function(data){})
             .done(function(data){
@@ -64,9 +64,11 @@ $(function(){
               $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
               $(".formulario-simple .mensaje-ok").show();
               $(".formulario-simple .controles").hide();
+             /*
                 if(!data.status){
                     avisoFlat("status incorrecto");
                 }
+            */
             })
             .fail(function(data){
                 $(".formulario-simple .mensaje-error p").html("No hay conexion a internet.<br/>Intentar nuevamente más tarde.");
