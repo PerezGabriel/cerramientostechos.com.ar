@@ -50,7 +50,7 @@ $(function(){
         $.post('http://cerramientostechos.com.ar/mailer.php', {
             accion: 'consulta-rapida',
             pagina_visitada: $("#nombre").attr("nombrePagina"),
-            nombre: $("#nombre").attr("value"),
+            nombre: $("#nombre").attr("valuex"),
             telefono: $("#telefono").attr("value"),
             contacto: $("#contacto").attr("value"),
             consulta: $("#consulta").attr("value"),
