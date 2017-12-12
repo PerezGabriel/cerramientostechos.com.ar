@@ -1,7 +1,7 @@
 var itemsMenues = [
     ['HOME','index.html'],
     ['CERRAMIENTOS','cerramientos-taller-americano.html'],
-    ['TECHOS / CORREDIZOS','techos-taller-americano.html'],
+    ['TECHOS','techos-taller-americano.html'],
     ['ALEROS','aleros-taller-americano.html'],
     ['TOLDOS DE ALUMINIO','toldos-de-aluminio-taller-americano.html'],
     ['PUERTAS PLEGADIZAS','puertas-plegadizas-taller-amer.html'],
