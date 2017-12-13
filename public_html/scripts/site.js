@@ -56,25 +56,25 @@ $(function(){
             pagina_visitada: $("#nombre").attr("nombrePagina"),
             },
             function(data){})
-            .done(function(data){
-                console.log("data = "); console.log(data);
-              // $(".formulario-simple .mensaje-ok").show();
-              // $(".formulario-simple .controles").hide();
-                
-              $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
-              $(".formulario-simple .mensaje-ok").show();
-              $(".formulario-simple .controles").hide();
-             /*
-                if(!data.status){
-                    avisoFlat("status incorrecto");
-                }
-            */
-            })
-            .fail(function(data){
-                $(".formulario-simple .mensaje-error p").html("No hay conexion a internet.<br/>Intentar nuevamente más tarde.");
-                $(".formulario-simple .mensaje-error").show();
-                $(".formulario-simple .controles").hide();
-            })
+                .done(function(data){
+                    console.log("data = "); console.log(data);
+                  // $(".formulario-simple .mensaje-ok").show();
+                  // $(".formulario-simple .controles").hide();
+                    
+                  $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
+                  $(".formulario-simple .mensaje-ok").show();
+                  $(".formulario-simple .controles").hide();
+                 /*
+                    if(!data.status){
+                        avisoFlat("status incorrecto");
+                    }
+                */
+                })
+                .fail(function(data){
+                    $(".formulario-simple .mensaje-error p").html("No hay conexion a internet.<br/>Intentar nuevamente más tarde.");
+                    $(".formulario-simple .mensaje-error").show();
+                    $(".formulario-simple .controles").hide();
+                })
     });
 
 });
