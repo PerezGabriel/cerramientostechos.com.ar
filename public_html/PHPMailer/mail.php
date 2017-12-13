@@ -22,13 +22,24 @@ function mail_html($to,$subject,$messageContent,$textPlain,$replyTo,$from, $char
 	$mail = new PHPMailer();
 	$mail->IsSMTP();                                      // set mailer to use SMTP
 	$mail->CharSet = $charset;
-	$mail->SMTPSecure = 'tls';
+	$mail->SMTPSecure = 'tls'; 
+
 	$mail->Host = "mail.cerramientostechos.com.ar";  // specify main and backup server
-	$mail->SMTPAuth = true;     // turn on SMTP authentication
 	$mail->Username = "consultaweb@cerramientostechos.com.ar";  // SMTP username
 	$mail->Password = "w3bqu3ry"; // SMTP password
-	// $mail->SMTPDebug = 2;
 	$mail->Port = 26;
+
+
+//	$mail->Host = "smtp.gmail.com";
+//	$mail->Port =25;
+//	$mail->Username = "talleramericanoweb@gmail.com";
+//	$mail->Password = "cullen2194";
+
+
+	$mail->SMTPAuth = true;     // turn on SMTP authentication
+	$mail->SMTPDebug = 0;		// produccion 0 testing 2
+
+
 	$mail->setFrom($from);
 	if(strpos($to, ",")!==false){
 		$toArr = explode(",", $to);
