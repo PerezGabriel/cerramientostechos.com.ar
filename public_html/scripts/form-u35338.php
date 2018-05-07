@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'informes@taller-americano.com.ar',
-		'to' => 'informes@taller-americano.com.ar'
+		'from' => 'contacto@talleramericano.com.ar',
+		'to' => 'talleramericanoweb@gmail.com'
 	),
 	'fields' => array(
 		'custom_U35351' => array(

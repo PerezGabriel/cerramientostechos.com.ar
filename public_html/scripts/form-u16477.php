@@ -25,7 +25,7 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'talleramericanoweb@gmail.com',
+		'from' => 'contacto@talleramericano.com.ar',
 		'to' => 'talleramericanoweb@gmail.com'
 	),
 	'fields' => array(
