@@ -1,5 +1,5 @@
 $(function(){
-    var cantidadVerMas = 9;
+    var cantidadVerMas = 12;
     $(".grupo3imagenes").each(function (index,el) {
         if(index>=(cantidadVerMas / 3) ){
             $(el).hide();
@@ -15,7 +15,7 @@ $(function(){
         $("#botonVerMasImagenes").hide();
     });
 
-    $("#enviarConsulta").click(function () {
+$("#enviarConsulta").click(function () {
         if($("#nombre").attr("value").trim() == ""){
           alert("Es necesario nombre");
           return false;
@@ -29,25 +29,11 @@ $(function(){
           alert("Es necesario una consulta");
           return false;
         }
-/*
-        function avisoFlat (msg) {
-            msg +=". Datos enviados:";
-            msg += "Nombre:" + $("#nombre").attr("value");
-            msg += "Telefono: " + $("#telefono").attr("value");
-            msg += "Contacto:" + $("#contacto").attr("value");
-            msg += "Consulta:" + $("#consulta").attr("value");
-            $.post('mailerFlat.php', {
-                msg:msg
-                },
-                function(data)
-                {
-                });
-        }
-*/
+
         $("#enviarConsulta").attr("disabled","disabled");
         $("#enviarConsulta").html("Enviando...");
 
-        $.post('http://cerramientostechos.com.ar/mailer.php', {
+        $.post('./mailer.php', {
             accion: 'consulta-rapida',
             nombre:     $("#nombre").attr("value"),
             telefono: $("#telefono").attr("value"),
@@ -55,21 +41,21 @@ $(function(){
             consulta: $("#consulta").attr("value"),
             pagina_visitada: $("#nombre").attr("nombrePagina"),
             },
-            function(data){})
-                .done(function(data){
-                    console.log("data = "); console.log(data);
-                  
-                  $(".formulario-simple .mensaje-ok p").html("Su consulta fue enviada. <br/>La responderemos a la brevedad.");
-                  $(".formulario-simple .mensaje-ok").show();
-                  $(".formulario-simple .controles").hide();
-
-                })
-                .fail(function(data){
-                    console.log("data = "); console.log(data);
-                    $(".formulario-simple .mensaje-error p").html("Su consulta pudo no haber sido enviada.<br/>Por favor Confirme telefónicamente.");
-                    $(".formulario-simple .mensaje-error").show();
-                    $(".formulario-simple .controles").hide();
-                })
+            function(data)
+            {
+            })
+            .done(function(data){
+                console.log("data = "); console.log(data);                
+              $(".formulario-simple .mensaje-ok p").html("Gracias por enviar su consulta. <br/>La responderemos a la brevedad.");
+              $(".formulario-simple .mensaje-ok").show();
+              $(".formulario-simple .controles").hide();
+            })
+            .fail(function(data){
+                console.log("data = "); console.log(data);
+                $(".formulario-simple .mensaje-error p").html("Su consulta pudo no haberse enviado.<br/>");
+                $(".formulario-simple .mensaje-error").show();
+                $(".formulario-simple .controles").hide();
+            })
     });
 
 });
