@@ -32,6 +32,7 @@ $(function(){
             {
             })
             .done(function(data){
+
         if(data.status == 1){
             $(".formulario-simple .mensaje-ok").toggle();
             $(".formulario-simple .controles").toggle();
